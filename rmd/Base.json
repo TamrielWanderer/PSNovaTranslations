@@ -2071,982 +2071,982 @@
   },
   "250000": {
     "OriginalText": "アークスの標準的な施設。",
-    "Text": "",
+    "Text": "A standard facility of the ARKS.",
     "Enabled": false
   },
   "250001": {
     "OriginalText": "必要設備のみ配置した標準カウンター。\n洋資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
+    "Text": "A standard counter equipped with only essential facilities.\nSome performance issues exist due to a lack of resources.\n[a 06]【Function】Class change, skill acquisition, Gran Arts, and Technique acquisition [b].",
     "Enabled": false
   },
   "250002": {
     "OriginalText": "アークス標準仕様のカウンター。\n洋資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
-    "Text": "",
+    "Text": "A counter with standard ARKS specifications.\nAlthough resource limitations affected equipment placement, all performance concerns have been resolved.",
     "Enabled": false
   },
   "250003": {
     "OriginalText": "アークス標準仕様のカウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "A counter with standard ARKS specifications.\nNewly revamped instruments are functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250004": {
     "OriginalText": "新提案の次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
+    "Text": "A next-generation counter with a new proposal.\nThe instrument system has been updated to the latest version, greatly enhancing information processing capabilities.",
     "Enabled": false
   },
   "250005": {
     "OriginalText": "新提案の次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
+    "Text": "A next-generation counter with a new proposal.\nAll equipment has been miniaturized and made more energy-efficient while further improving processing speed.\n[a 06]【Level Effect】Unlocks level cap for Gran Arts and Techniques [b].",
     "Enabled": false
   },
   "250006": {
     "OriginalText": "必要設備のみ配置の異国的カウンター。\n洋資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
+    "Text": "An exotic counter equipped with only essential facilities.\nSome performance issues exist due to a lack of resources.\n[a 06]【Function】Class change, skill acquisition, Gran Arts, and Technique acquisition [b].",
     "Enabled": false
   },
   "250007": {
     "OriginalText": "とある文化が由来の異国的カウンター。\n洋資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
-    "Text": "",
+    "Text": "An exotic counter inspired by a certain culture.\nAlthough resource limitations affected equipment placement, all performance concerns have been resolved.",
     "Enabled": false
   },
   "250008": {
     "OriginalText": "とある文化が由来の異国的カウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": ""An exotic counter inspired by a certain culture.\nNewly revamped instruments are functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250009": {
     "OriginalText": "新提案の異国的な次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation counter.\nThe instrument system has been updated to the latest version, greatly enhancing information processing capabilities.",
     "Enabled": false
   },
   "250010": {
     "OriginalText": "新提案の異国的な次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation counter.\nAll equipment has been miniaturized and made more energy-efficient while further improving processing speed.\n[a 06]【Level Effect】Unlocks level cap for Gran Arts and Techniques [b].",
     "Enabled": false
   },
   "250011": {
     "OriginalText": "必要設備のみ配置の文化的カウンター。\n洋資不足のため性能面も一部に難あり。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
+    "Text": "A cultural counter equipped with only essential facilities.\nSome performance issues exist due to a lack of resources.\n[a 06]【Function】Class change, skill acquisition, Gran Arts, and Technique acquisition [b].",
     "Enabled": false
   },
   "250012": {
     "OriginalText": "とある文化を取り入れたカウンター。\n洋資不足のため機器配置はおなりだが\n性能面での不安は一掃されている。",
-    "Text": "",
+    "Text": "A counter incorporating a certain culture.\nAlthough resource limitations affected equipment placement, all performance concerns have been resolved.",
     "Enabled": false
   },
   "250013": {
     "OriginalText": "とある文化を取り入れたカウンター。\n一新された計器類を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "A counter incorporating a certain culture.\nNewly revamped instruments are functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250014": {
     "OriginalText": "新提案の文化的な次世代カウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation counter.\nThe instrument system has been updated to the latest version, greatly enhancing information processing capabilities.",
     "Enabled": false
   },
   "250015": {
     "OriginalText": "新提案の文化的な次世代カウンター。\nすべての機器を小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation counter.\nAll equipment has been miniaturized and made more energy-efficient while further improving processing speed.\n[a 06]【Level Effect】Unlocks level cap for Gran Arts and Techniques [b].",
     "Enabled": false
   },
   "250016": {
     "OriginalText": "急ごしらえの仮設クラスカウンター。\n計器類は問題ないが電装供給が不安定。\n[a 06]【機能】クラス変更・スキル習得・\nグランアーツ・テクニック習得[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary class counter.\nThe instruments are functional, but the power supply is unstable.\n[a 06]【Function】Class change, skill acquisition, Gran Arts, and Technique acquisition [b].",
     "Enabled": false
   },
   "250017": {
     "OriginalText": "応急洋資で改修された仮設カウンター。\n電装供給が安定し性能面での不安は\n一掃されたが、使い勝手に難あり。",
-    "Text": "",
+    "Text": "A temporary counter refurbished with emergency resources.\nThe power supply has been stabilized, eliminating performance concerns, but usability remains an issue.",
     "Enabled": false
   },
   "250018": {
     "OriginalText": "応急洋資で改修された仮設カウンター。\n再利用品ながら計器類を機能的に配置し\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "A temporary counter refurbished with emergency resources.\nDespite using recycled materials, the instruments have been functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250019": {
     "OriginalText": "次世代仕様に大改修されたカウンター。\n計器類のシステムが最新版に更新され\n情報処理能力が大幅に向上した。",
-    "Text": "",
+    "Text": "A counter extensively renovated to next-generation specifications.\nThe instrument system has been updated to the latest version, significantly enhancing information processing capabilities.",
     "Enabled": false
   },
   "250020": {
     "OriginalText": "次世代仕様に大改修されたカウンター。\n応急設備ながら小型化、省電力化しつつ\n処理速度をさらに向上させた。\n[a 06]【レベル効果】ＧＡ・テクニックレベル上限開放[b]",
-    "Text": "",
+    "Text": "A counter extensively renovated to next-generation specifications.\nDespite being emergency equipment, it has been miniaturized, made energy-efficient, and further improved processing speed.\n[a 06]【Level Effect】Unlocks level cap for Gran Arts and Techniques [b]",
     "Enabled": false
   },
   "250041": {
     "OriginalText": "必要設備のみ確保した食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
+    "Text": "A cafeteria equipped with only essential facilities.\nFocused solely on providing meals, it secures minimal space and cooking utensils.\n[a 06]【Function】Food preparation [b]",
     "Enabled": false
   },
   "250042": {
     "OriginalText": "アークス標準仕様の食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A cafeteria with standard ARKS specifications.\nSome cooking utensils are not installed due to a lack of resources.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250043": {
     "OriginalText": "アークス標準仕様の食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A cafeteria with standard ARKS specifications.\nNewly revamped cooking utensils are functionally arranged.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250044": {
     "OriginalText": "新提案の次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A next-generation cafeteria with a new proposal.\nCooking procedures have been reviewed to streamline meal service.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250045": {
     "OriginalText": "新提案の次世代食堂。大型の\n食村収納庫と多彩な調理器具を完備。",
-    "Text": "",
+    "Text": "A next-generation cafeteria with a new proposal.\nEquipped with a large food storage unit and a variety of cooking utensils.",
     "Enabled": false
   },
   "250046": {
     "OriginalText": "必要設備のみ確保した異国的食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
+    "Text": "An exotic cafeteria equipped with only essential facilities.\nFocused solely on providing meals, it secures minimal space and cooking utensils.\n[a 06]【Function】Food preparation [b]",
     "Enabled": false
   },
   "250047": {
     "OriginalText": "とある文化が由来の異国的食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "An exotic cafeteria inspired by a certain culture.\nSome cooking utensils are not installed due to a lack of resources.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250048": {
     "OriginalText": "とある文化が由来の異国的食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "An exotic cafeteria inspired by a certain culture.\nNewly revamped cooking utensils are functionally arranged.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250049": {
     "OriginalText": "新提案の異国的な次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation cafeteria.\nCooking procedures have been reviewed to streamline meal service.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250050": {
     "OriginalText": "新提案の異国的な次世代食堂。\n大型食村収納庫と多彩な調理器具完備。",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation cafeteria.\nEquipped with a large food storage unit and a variety of cooking utensils.",
     "Enabled": false
   },
   "250051": {
     "OriginalText": "必要設備のみ確保した文化的食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
+    "Text": "A cultural cafeteria equipped with only essential facilities.\nFocused solely on providing meals, it secures minimal space and cooking utensils.\n[a 06]【Function】Food preparation [b]",
     "Enabled": false
   },
   "250052": {
     "OriginalText": "とある文化を取り入れた食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A cafeteria incorporating a certain culture.\nSome cooking utensils are not installed due to a lack of resources.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250053": {
     "OriginalText": "とある文化を取り入れた食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A cafeteria incorporating a certain culture.\nNewly revamped cooking utensils are functionally arranged.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250054": {
     "OriginalText": "新提案の文化的な次世代食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation cafeteria.\nCooking procedures have been reviewed to streamline meal service.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250055": {
     "OriginalText": "新提案の文化的な次世代食堂。\n大型食村収納庫と多彩な調理器具完備。",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation cafeteria.\nEquipped with a large food storage unit and a variety of cooking utensils.",
     "Enabled": false
   },
   "250056": {
     "OriginalText": "急ごしらえの仮設食堂。\n食事を提供することに目的を絞り、\n最低限のスペースと調理器具を確保。\n[a 06]【機能】料理の作成[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary cafeteria.\nFocused solely on providing meals, it secures minimal space and cooking utensils.\n[a 06]【Function】Food preparation [b]",
     "Enabled": false
   },
   "250057": {
     "OriginalText": "応急洋資で改修された仮設食堂。\n洋資不足のため一部調理器具は未配備。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A temporary cafeteria refurbished with emergency resources.\nSome cooking utensils are not installed due to a lack of resources.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250058": {
     "OriginalText": "応急洋資で改修された仮設食堂。\n一新された調理器具を機能的に配置。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A temporary cafeteria refurbished with emergency resources.\nNewly revamped cooking utensils are functionally arranged.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250059": {
     "OriginalText": "次世代仕様に大改修された仮設食堂。\n調理手順を見直し食事の提供を効率化。\n[a 06]【レベル効果】レシピ追加[b]",
-    "Text": "",
+    "Text": "A temporary cafeteria extensively renovated to next-generation specifications.\nCooking procedures have been reviewed to streamline meal service.\n[a 06]【Level Effect】Adds new recipes [b]",
     "Enabled": false
   },
   "250060": {
     "OriginalText": "次世代仕様に大改修された仮設食堂。\n大型食村収納庫と多彩な調理器具完備。",
-    "Text": "",
+    "Text": "A temporary cafeteria extensively renovated to next-generation specifications.\nEquipped with a large food storage unit and a variety of cooking utensils.",
     "Enabled": false
   },
   "250061": {
     "OriginalText": "必要資村のみを揃えた武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "A weapon shop equipped with only the necessary resources.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Weapon crafting, attachment part crafting, and placement\n【Level Effect】Attack power +2% [b]",
     "Enabled": false
   },
   "250062": {
     "OriginalText": "アークス標準仕様の武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "A weapon shop with standard ARKS specifications.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Attack power +5% [b]",
     "Enabled": false
   },
   "250063": {
     "OriginalText": "アークス標準仕様の武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "A weapon shop with standard ARKS specifications.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Attack power +7% [b]",
     "Enabled": false
   },
   "250064": {
     "OriginalText": "新提案の次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for a next-generation weapon shop.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Attack power +10% [b]",
     "Enabled": false
   },
   "250065": {
     "OriginalText": "新提案の次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
+    "Text": "A new proposal for a next-generation weapon shop.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Attack power +15%, adds advanced weapons and attachment parts [b]",
     "Enabled": false
   },
   "250066": {
     "OriginalText": "必要資村のみを揃えた異国的武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "An exotic weapon shop equipped with only the necessary resources.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Weapon crafting, attachment part crafting, and placement\n【Level Effect】Attack power +2% [b]",
     "Enabled": false
   },
   "250067": {
     "OriginalText": "とある文化が由来の異国的武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "An exotic weapon shop inspired by a certain culture.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Attack power +5% [b]",
     "Enabled": false
   },
   "250068": {
     "OriginalText": "とある文化が由来の異国的武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "An exotic weapon shop inspired by a certain culture.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Attack power +7% [b]",
     "Enabled": false
   },
   "250069": {
     "OriginalText": "新提案の異国的な次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation weapon shop.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Attack power +10% [b]",
     "Enabled": false
   },
   "250070": {
     "OriginalText": "新提案の異国的な次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation weapon shop.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Attack power +15%, adds advanced weapons and attachment parts [b]",
     "Enabled": false
   },
   "250071": {
     "OriginalText": "必要資村のみを揃えた文化的武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "A cultural weapon shop equipped with only the necessary resources.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Weapon crafting, attachment part crafting, and placement\n【Level Effect】Attack power +2% [b]",
     "Enabled": false
   },
   "250072": {
     "OriginalText": "とある文化を取り入れた武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "A weapon shop incorporating a certain culture.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Attack power +5% [b]",
     "Enabled": false
   },
   "250073": {
     "OriginalText": "とある文化を取り入れた武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "A weapon shop incorporating a certain culture.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Attack power +7% [b]",
     "Enabled": false
   },
   "250074": {
     "OriginalText": "新提案の文化的な次世代武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation weapon shop.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Attack power +10% [b]",
     "Enabled": false
   },
   "250075": {
     "OriginalText": "新提案の文化的な次世代武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation weapon shop.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Attack power +15%, adds advanced weapons and attachment parts [b]",
     "Enabled": false
   },
   "250076": {
     "OriginalText": "急ごしらえの仮設武器店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】武器製作・アタッチパーツ製作と配置\n【レベル効果】攻撃力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary weapon shop.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Weapon crafting, attachment part crafting, and placement\n【Level Effect】Attack power +2% [b]",
     "Enabled": false
   },
   "250077": {
     "OriginalText": "応急洋資で改修された仮設武器店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】攻撃力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "A temporary weapon shop refurbished with emergency resources.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Attack power +5% [b]",
     "Enabled": false
   },
   "250078": {
     "OriginalText": "応急洋資で改修された仮設武器店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】攻撃力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "A temporary weapon shop refurbished with emergency resources.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Attack power +7% [b]",
     "Enabled": false
   },
   "250079": {
     "OriginalText": "次世代仕様に大改修された仮設武器店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】攻撃力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A temporary weapon shop extensively renovated to next-generation specifications.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Attack power +10% [b]",
     "Enabled": false
   },
   "250080": {
     "OriginalText": "次世代仕様に大改修された仮設武器店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】攻撃力アップ ＋１５％\n上位武器・アタッチパーツ追加[b]",
-    "Text": "",
+    "Text": "A temporary weapon shop extensively renovated to next-generation specifications.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Attack power +15%, adds advanced weapons and attachment parts [b]",
     "Enabled": false
   },
   "250081": {
     "OriginalText": "必要資村のみを揃えた防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "An armor shop equipped with only the necessary resources.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Shield unit crafting\n【Level Effect】Defense power +2% [b]",
     "Enabled": false
   },
   "250082": {
     "OriginalText": "アークス標準仕様の防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "An armor shop with standard ARKS specifications.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Defense power +5% [b]",
     "Enabled": false
   },
   "250083": {
     "OriginalText": "アークス標準仕様の防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "An armor shop with standard ARKS specifications.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Defense power +7% [b]",
     "Enabled": false
   },
   "250084": {
     "OriginalText": "新提案の次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for a next-generation armor shop.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Defense power +10% [b]",
     "Enabled": false
   },
   "250085": {
     "OriginalText": "新提案の次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
+    "Text": "A new proposal for a next-generation armor shop.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Defense power +15%, adds advanced armor [b]",
     "Enabled": false
   },
   "250086": {
     "OriginalText": "必要資村のみを揃えた異国的防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "An exotic armor shop equipped with only the necessary resources.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Shield unit crafting\n【Level Effect】Defense power +2% [b]",
     "Enabled": false
   },
   "250087": {
     "OriginalText": "とある文化が由来の異国的防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "An exotic armor shop inspired by a certain culture.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Defense power +5% [b]",
     "Enabled": false
   },
   "250088": {
     "OriginalText": "とある文化が由来の異国的防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "An exotic armor shop inspired by a certain culture.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Defense power +7% [b]",
     "Enabled": false
   },
   "250089": {
     "OriginalText": "新提案の異国的な次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation armor shop.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Defense power +10% [b]",
     "Enabled": false
   },
   "250090": {
     "OriginalText": "新提案の異国的な次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation armor shop.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Defense power +15%, adds advanced armor [b]",
     "Enabled": false
   },
   "250091": {
     "OriginalText": "必要資村のみを揃えた文化的防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "A cultural armor shop equipped with only the necessary resources.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Shield unit crafting\n【Level Effect】Defense power +2% [b]",
     "Enabled": false
   },
   "250092": {
     "OriginalText": "とある文化を取り入れた防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "An armor shop incorporating a certain culture.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Defense power +5% [b]",
     "Enabled": false
   },
   "250093": {
     "OriginalText": "とある文化を取り入れた防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "An armor shop incorporating a certain culture.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Defense power +7% [b]",
     "Enabled": false
   },
   "250094": {
     "OriginalText": "新提案の文化的な次世代防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation armor shop.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Defense power +10% [b]",
     "Enabled": false
   },
   "250095": {
     "OriginalText": "新提案の文化的な次世代防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation armor shop.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Defense power +15%, adds advanced armor [b]",
     "Enabled": false
   },
   "250096": {
     "OriginalText": "急ごしらえの仮設防具店。\n洋資不足のため限定的な作業のみ可能。\n[a 06]【機能】シールドユニット製作\n【レベル効果】防御力アップ ＋２％[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary armor shop.\nLimited work is possible due to a lack of resources.\n[a 06]【Function】Shield unit crafting\n【Level Effect】Defense power +2% [b]",
     "Enabled": false
   },
   "250097": {
     "OriginalText": "応急洋資で改修された仮設防具店。\n洋資不足のため一部の工具が未配備。\n[a 06]【レベル効果】防御力アップ ＋５％[b]",
-    "Text": "",
+    "Text": "A temporary armor shop refurbished with emergency resources.\nSome tools are not installed due to a lack of resources.\n[a 06]【Level Effect】Defense power +5% [b]",
     "Enabled": false
   },
   "250098": {
     "OriginalText": "応急洋資で改修された仮設防具店。\n一新された工具を機能的に配置した。\n[a 06]【レベル効果】防御力アップ ＋７％[b]",
-    "Text": "",
+    "Text": "A temporary armor shop refurbished with emergency resources.\nNewly revamped tools are functionally arranged.\n[a 06]【Level Effect】Defense power +7% [b]",
     "Enabled": false
   },
   "250099": {
     "OriginalText": "次世代仕様に大改修された仮設防具店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】防御力アップ ＋１０％[b]",
-    "Text": "",
+    "Text": "A temporary armor shop extensively renovated to next-generation specifications.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Defense power +10% [b]",
     "Enabled": false
   },
   "250100": {
     "OriginalText": "次世代仕様に大改修された仮設防具店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】防御力アップ ＋１５％\n上位防具追加[b]",
-    "Text": "",
+    "Text": "A temporary armor shop extensively renovated to next-generation specifications.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Defense power +15%, adds advanced armor [b]",
     "Enabled": false
   },
   "250101": {
     "OriginalText": "必要洋資のみを揃えた雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
+    "Text": "A general store equipped with only the necessary resources.\nOnly the minimum tools and resources required for processing are provided.\n[a 06]【Function】Consumable item crafting\n【Level Effect】Item recovery amount +2% [b]",
     "Enabled": false
   },
   "250102": {
     "OriginalText": "アークス標準仕様の雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
+    "Text": "A general store with standard ARKS specifications.\nSome equipment is not installed due to a lack of resources.\n[a 06]【Level Effect】Item recovery amount +5% [b]",
     "Enabled": false
   },
   "250103": {
     "OriginalText": "アークス標準仕様の雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
+    "Text": "A general store with standard ARKS specifications.\nNewly revamped processing equipment is functionally arranged.\n[a 06]【Level Effect】Item recovery amount +7% [b]",
     "Enabled": false
   },
   "250104": {
     "OriginalText": "新提案の次世代雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for a next-generation general store.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Item recovery amount +10% [b]",
     "Enabled": false
   },
   "250105": {
     "OriginalText": "新提案の次世代雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
+    "Text": "A new proposal for a next-generation general store.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Item recovery amount +15% [b]",
     "Enabled": false
   },
   "250106": {
     "OriginalText": "必要洋資のみを揃えた異国的雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
+    "Text": "An exotic general store equipped with only the necessary resources.\nOnly the minimum tools and resources required for processing are provided.\n[a 06]【Function】Consumable item crafting\n【Level Effect】Item recovery amount +2% [b]",
     "Enabled": false
   },
   "250107": {
     "OriginalText": "とある文化が由来の異国的雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
+    "Text": "An exotic general store inspired by a certain culture.\nSome equipment is not installed due to a lack of resources.\n[a 06]【Level Effect】Item recovery amount +5% [b]",
     "Enabled": false
   },
   "250108": {
     "OriginalText": "とある文化が由来の異国的雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
+    "Text": "An exotic general store inspired by a certain culture.\nNewly revamped processing equipment is functionally arranged.\n[a 06]【Level Effect】Item recovery amount +7% [b]",
     "Enabled": false
   },
   "250109": {
     "OriginalText": "新提案の異国的な次世代雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation general store.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Item recovery amount +10% [b]",
     "Enabled": false
   },
   "250110": {
     "OriginalText": "新提案の異国的な次世代雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation general store.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Item recovery amount +15% [b]",
     "Enabled": false
   },
   "250111": {
     "OriginalText": "必要洋資のみを揃えた文化的雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
+    "Text": "A cultural general store equipped with only the necessary resources.\nOnly the minimum tools and resources required for processing are provided.\n[a 06]【Function】Consumable item crafting\n【Level Effect】Item recovery amount +2% [b]",
     "Enabled": false
   },
   "250112": {
     "OriginalText": "とある文化を取り入れた雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
+    "Text": "A general store incorporating a certain culture.\nSome equipment is not installed due to a lack of resources.\n[a 06]【Level Effect】Item recovery amount +5% [b]",
     "Enabled": false
   },
   "250113": {
     "OriginalText": "とある文化を取り入れた雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
+    "Text": "A general store incorporating a certain culture.\nNewly revamped processing equipment is functionally arranged.\n[a 06]【Level Effect】Item recovery amount +7% [b]",
     "Enabled": false
   },
   "250114": {
     "OriginalText": "新提案の文化的な次世代雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation general store.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Item recovery amount +10% [b]",
     "Enabled": false
   },
   "250115": {
     "OriginalText": "新提案の文化的な次世代雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation general store.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Item recovery amount +15% [b]",
     "Enabled": false
   },
   "250116": {
     "OriginalText": "急ごしらえの仮設雑桃店。\n加工に必要な最低限の道具と洋資のみを揃えた。\n[a 06]【機能】消費アイテム製作\n【レベル効果】アイテム回復量 ＋２％[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary general store.\nOnly the minimum tools and resources required for processing are provided.\n[a 06]【Function】Consumable item crafting\n【Level Effect】Item recovery amount +2% [b]",
     "Enabled": false
   },
   "250117": {
     "OriginalText": "応急洋資で改修された仮設雑桃店。\n洋資不足のため一部の機器が未配備。\n[a 06]【レベル効果】アイテム回復量 ＋５％[b]",
-    "Text": "",
+    "Text": "A temporary general store refurbished with emergency resources.\nSome equipment is not installed due to a lack of resources.\n[a 06]【Level Effect】Item recovery amount +5% [b]",
     "Enabled": false
   },
   "250118": {
     "OriginalText": "応急洋資で改修された仮設雑桃店。\n一新された加工機器を機能的に配置。\n[a 06]【レベル効果】アイテム回復量 ＋７％[b]",
-    "Text": "",
+    "Text": "A temporary general store refurbished with emergency resources.\nNewly revamped processing equipment is functionally arranged.\n[a 06]【Level Effect】Item recovery amount +7% [b]",
     "Enabled": false
   },
   "250119": {
     "OriginalText": "次世代仕様に大改修された仮設雑桃店。\n整備手順を見直し加工工程を効率化。\n[a 06]【レベル効果】アイテム回復量 ＋１０％[b]",
-    "Text": "",
+    "Text": "A temporary general store extensively renovated to next-generation specifications.\nMaintenance procedures have been reviewed to streamline processing steps.\n[a 06]【Level Effect】Item recovery amount +10% [b]",
     "Enabled": false
   },
   "250120": {
     "OriginalText": "次世代仕様に大改修された仮設雑桃店。\n最新の加工機械と精密機器を配備。\n[a 06]【レベル効果】アイテム回復量 ＋１５％[b]",
-    "Text": "",
+    "Text": "A temporary general store extensively renovated to next-generation specifications.\nEquipped with the latest processing machines and precision instruments.\n[a 06]【Level Effect】Item recovery amount +15% [b]",
     "Enabled": false
   },
   "250121": {
     "OriginalText": "必要な村料のみを揃えた衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
+    "Text": "A clothing store equipped with only the necessary materials.\nSome processing is restricted due to a lack of resources.\nChanging outfits requires a salon.\n[a 06]【Function】Costume crafting [b]",
     "Enabled": false
   },
   "250122": {
     "OriginalText": "アークス標準仕様の衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
+    "Text": "A clothing store with standard ARKS specifications.\nThe equipment for lending is not fully supplied, but the range of supported processing has slightly increased.",
     "Enabled": false
   },
   "250123": {
     "OriginalText": "アークス標準仕様の衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "A clothing store with standard ARKS specifications.\nNewly revamped lending equipment is functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250124": {
     "OriginalText": "新提案の次世代衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
+    "Text": "A new proposal for a next-generation clothing store.\nMost lending operations have been automated, greatly increasing the range of supported processing.",
     "Enabled": false
   },
   "250125": {
     "OriginalText": "新提案の次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
+    "Text": "A new proposal for a next-generation clothing store.\nAll operations have been fully automated, enabling all types of processing.",
     "Enabled": false
   },
   "250126": {
     "OriginalText": "必要な村料のみ揃えた異国的衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
+    "Text": "An exotic clothing store equipped with only the necessary materials.\nSome processing is restricted due to a lack of resources.\nChanging outfits requires a salon.\n[a 06]【Function】Costume crafting [b]",
     "Enabled": false
   },
   "250127": {
     "OriginalText": "とある文化が由来の異国的衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
+    "Text": "An exotic clothing store inspired by a certain culture.\nThe equipment for lending is not fully supplied, but the range of supported processing has slightly increased.",
     "Enabled": false
   },
   "250128": {
     "OriginalText": "とある文化が由来の異国的衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "An exotic clothing store inspired by a certain culture.\nNewly revamped lending equipment is functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250129": {
     "OriginalText": "新提案の異国的な次世代衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation clothing store.\nMost lending operations have been automated, greatly increasing the range of supported processing.",
     "Enabled": false
   },
   "250130": {
     "OriginalText": "新提案の異国的な次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
+    "Text": "A new proposal for an exotic next-generation clothing store.\nAll operations have been fully automated, enabling all types of processing.",
     "Enabled": false
   },
   "250131": {
     "OriginalText": "必要な村料のみ揃えた文化的衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
+    "Text": "A cultural clothing store equipped with only the necessary materials.\nSome processing is restricted due to a lack of resources.\nChanging outfits requires a salon.\n[a 06]【Function】Costume crafting [b]",
     "Enabled": false
   },
   "250132": {
     "OriginalText": "とある文化を取り入れた衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
+    "Text": "A clothing store incorporating a certain culture.\nThe equipment for lending is not fully supplied, but the range of supported processing has slightly increased.",
     "Enabled": false
   },
   "250133": {
     "OriginalText": "とある文化を取り入れた衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "A clothing store incorporating a certain culture.\nNewly revamped lending equipment is functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250134": {
     "OriginalText": "新提案の文化的な次世代衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation clothing store.\nMost lending operations have been automated, greatly increasing the range of supported processing.",
     "Enabled": false
   },
   "250135": {
     "OriginalText": "新提案の文化的な次世代衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation clothing store.\nAll operations have been fully automated, enabling all types of processing.",
     "Enabled": false
   },
   "250136": {
     "OriginalText": "急ごしらえの仮設衣料品店。\n洋資不足のため一部加工に制限がある。\n着替えにはエステが必要。\n[a 06]【機能】コスチューム製作[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary clothing store.\nSome processing is restricted due to a lack of resources.\nChanging outfits requires a salon.\n[a 06]【Function】Costume crafting [b]",
     "Enabled": false
   },
   "250137": {
     "OriginalText": "応急洋資で改修された衣料品店。\n貸製機器の配備が充分でないが、\n対応可能な加工が少し増えた。",
-    "Text": "",
+    "Text": "A clothing store refurbished with emergency resources.\nThe equipment for lending is not fully supplied, but the range of supported processing has slightly increased.",
     "Enabled": false
   },
   "250138": {
     "OriginalText": "応急洋資で改修された衣料品店。\n一新された貸製機器を機能的に配置し、\n使い勝手が著しく向上した。",
-    "Text": "",
+    "Text": "A clothing store refurbished with emergency resources.\nNewly revamped lending equipment is functionally arranged, significantly improving usability.",
     "Enabled": false
   },
   "250139": {
     "OriginalText": "次世代仕様に大改修された衣料品店。\n貸製作業の大部分が自動化され\n対応可能な加工が大きく増えた。",
-    "Text": "",
+    "Text": "A clothing store extensively renovated to next-generation specifications.\nMost lending operations have been automated, greatly increasing the range of supported processing.",
     "Enabled": false
   },
   "250140": {
     "OriginalText": "次世代仕様に大改修された衣料品店。\nすべての作業が完全自動化され、\nあらゆる加工が可能になった。",
-    "Text": "",
+    "Text": "A clothing store extensively renovated to next-generation specifications.\nAll operations have been fully automated, enabling all types of processing.",
     "Enabled": false
   },
   "250141": {
     "OriginalText": "必要設備のみを揃えた全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon equipped with only essential facilities.\nSome treatments are restricted due to a lack of resources.\n[a 06]【Function】Appearance, voice, feature, and style changes\n【Feature Settings Count】4 [b]",
     "Enabled": false
   },
   "250142": {
     "OriginalText": "アークス標準仕様の全身美容店。\n新型のフェイシャル施術機器を導入。 \n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon with standard ARKS specifications.\nNew facial treatment equipment has been introduced.\n[a 06]【Level Effect】Adds face and eye editing functions\n【Feature Settings Count】5 [b]",
     "Enabled": false
   },
   "250143": {
     "OriginalText": "アークス標準仕様の全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon with standard ARKS specifications.\nThe latest body treatment equipment and dye materials have been introduced.\n[a 06]【Level Effect】Adds costume color and body shape editing\n【Feature Settings Count】6 [b]",
     "Enabled": false
   },
   "250144": {
     "OriginalText": "新提案の次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
+    "Text": "A next-generation full-body beauty salon with a new proposal.\nAdditional staff enables handling more requests.\n[a 06]【Level Effect】Adds random editing functionality\n【Feature Settings Count】7 [b]",
     "Enabled": false
   },
   "250145": {
     "OriginalText": "新提案の次世代全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
+    "Text": "A next-generation full-body beauty salon with a new proposal.\nThe maximum number of staff has been expanded, providing a broader range of options.\n[a 06]【Feature Settings Count】8 [b]",
     "Enabled": false
   },
   "250146": {
     "OriginalText": "必要設備のみ揃えた異国的全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
+    "Text": "An exotic full-body beauty salon equipped with only essential facilities.\nSome treatments are restricted due to a lack of resources.\n[a 06]【Function】Appearance, voice, feature, and style changes\n【Feature Settings Count】4 [b]",
     "Enabled": false
   },
   "250147": {
     "OriginalText": "とある文化が由来の異国的全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
+    "Text": "An exotic full-body beauty salon inspired by a certain culture.\nNew facial treatment equipment has been introduced.\n[a 06]【Level Effect】Adds face and eye editing functions\n【Feature Settings Count】5 [b]",
     "Enabled": false
   },
   "250148": {
     "OriginalText": "とある文化が由来の異国的全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
+    "Text": "An exotic full-body beauty salon inspired by a certain culture.\nThe latest body treatment equipment and dye materials have been introduced.\n[a 06]【Level Effect】Adds costume color and body shape editing\n【Feature Settings Count】6 [b]",
     "Enabled": false
   },
   "250149": {
     "OriginalText": "新提案の異国的な次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
+    "Text": "A next-generation exotic full-body beauty salon with a new proposal.\nAdditional staff enables handling more requests.\n[a 06]【Level Effect】Adds random editing functionality\n【Feature Settings Count】7 [b]",
     "Enabled": false
   },
   "250150": {
     "OriginalText": "新提案の異国的な次世代全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
+    "Text": "A next-generation exotic full-body beauty salon with a new proposal.\nThe maximum number of staff has been expanded, providing a broader range of options.\n[a 06]【Feature Settings Count】8 [b]",
     "Enabled": false
   },
   "250151": {
     "OriginalText": "必要設備のみ揃えた文化的全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
+    "Text": "A cultural full-body beauty salon equipped with only essential facilities.\nSome treatments are restricted due to a lack of resources.\n[a 06]【Function】Appearance, voice, feature, and style changes\n【Feature Settings Count】4 [b]",
     "Enabled": false
   },
   "250152": {
     "OriginalText": "とある文化を取り入れた全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon incorporating a certain culture.\nNew facial treatment equipment has been introduced.\n[a 06]【Level Effect】Adds face and eye editing functions\n【Feature Settings Count】5 [b]",
     "Enabled": false
   },
   "250153": {
     "OriginalText": "とある文化を取り入れた全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon incorporating a certain culture.\nThe latest body treatment equipment and dye materials have been introduced.\n[a 06]【Level Effect】Adds costume color and body shape editing\n【Feature Settings Count】6 [b]",
     "Enabled": false
   },
   "250154": {
     "OriginalText": "新提案の文化的な次世代全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation full-body beauty salon.\nAdditional staff enables handling more requests.\n[a 06]【Level Effect】Adds random editing functionality\n【Feature Settings Count】7 [b]",
     "Enabled": false
   },
   "250155": {
     "OriginalText": "新提案の文化的な次世代全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
+    "Text": "A new proposal for a cultural next-generation full-body beauty salon.\nThe maximum number of staff has been expanded, providing a broader range of options.\n[a 06]【Feature Settings Count】8 [b]",
     "Enabled": false
   },
   "250156": {
     "OriginalText": "急ごしらえの仮設全身美容店。\n洋資不足のため一部施術に制限がある。\n[a 06]【機能】外見・ボイス・特微・スタイルの変更\n【特微設定数】４[b]",
-    "Text": "",
+    "Text": "A hastily assembled temporary full-body beauty salon.\nSome treatments are restricted due to a lack of resources.\n[a 06]【Function】Appearance, voice, feature, and style changes\n【Feature Settings Count】4 [b]",
     "Enabled": false
   },
   "250157": {
     "OriginalText": "応急洋資で改修された全身美容店。\n新型のフェイシャル施術機器を導入。\n[a 06]【レベル効果】顔・瞳の編集機能を追加\n【特微設定数】５[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon refurbished with emergency resources.\nNew facial treatment equipment has been introduced.\n[a 06]【Level Effect】Adds face and eye editing functions\n【Feature Settings Count】5 [b]",
     "Enabled": false
   },
   "250158": {
     "OriginalText": "応急洋資で改修された全身美容店。\n最新のボディ施術機器と染色素村を導入。\n[a 06]【レベル効果】コスチュームカラー・体型編集を追加\n【特微設定数】６[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon refurbished with emergency resources.\nThe latest body treatment equipment and dye materials have been introduced.\n[a 06]【Level Effect】Adds costume color and body shape editing\n【Feature Settings Count】6 [b]",
     "Enabled": false
   },
   "250159": {
     "OriginalText": "次世代仕様に大改修された全身美容店。\nスタッフ増員で多くのリクエストに対応可能。\n[a 06]【レベル効果】ランダム編集機能を追加\n【特微設定数】７[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon extensively renovated to next-generation specifications.\nAdditional staff enables handling more requests.\n[a 06]【Level Effect】Adds random editing functionality\n【Feature Settings Count】7 [b]",
     "Enabled": false
   },
   "250160": {
     "OriginalText": "次世代仕様に大改修された全身美容店。\n最大スタッフ数を拡張し、選択縫がさらに幅広く。\n[a 06]【特微設定数】８[b]",
-    "Text": "",
+    "Text": "A full-body beauty salon extensively renovated to next-generation specifications.\nThe maximum number of staff has been expanded, providing a broader range of options.\n[a 06]【Feature Settings Count】8 [b]",
     "Enabled": false
   },
   "250166": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n作戦立案や検討に必要な機器を配備。\n[a 06]【機能】探索隊の派遣[b]\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
-    "Text": "",
+    "Text": "A facility for controlling and directing exploration teams.\nEquipped with devices necessary for mission planning and review.\n[a 06]【Function】Dispatch exploration teams [b]\n[a 03]※Dispatch requires the assignment of at least one crew member [b]",
     "Enabled": false
   },
   "250167": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n限定的な設備を効率的に運用し\n配属可能なクルーの数が少し増えた。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
-    "Text": "",
+    "Text": "A facility for controlling and directing exploration teams.\nEfficient use of limited equipment slightly increased the number of crew members that can be assigned.\n[a 03]※Dispatch requires the assignment of at least one crew member [b]",
     "Enabled": false
   },
   "250168": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n運用手順の見直しにより効率が向上し、\n一定数のクルー配属が可能になった。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
-    "Text": "",
+    "Text": "A facility for controlling and directing exploration teams.\nRevised operational procedures improved efficiency, allowing the assignment of a certain number of crew members.\n[a 03]※Dispatch requires the assignment of at least one crew member [b]",
     "Enabled": false
   },
   "250169": {
     "OriginalText": "探索隊の管制や指示を行う施設。\n運用手順の刷新で大規物な作戦展開と\n多くのクルーの配属が可能になった。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
-    "Text": "",
+    "Text": "A facility for controlling and directing exploration teams.\nOverhauled operational procedures enable large-scale mission deployment and the assignment of many crew members.\n[a 03]※Dispatch requires the assignment of at least one crew member [b]",
     "Enabled": false
   },
   "250170": {
     "OriginalText": "探索隊の管制や指示を行う施設。\nノウハウの蓄積により最大規物の運用で\n大多数のクルー配属が可能になった。\n[a 03]※派遣には一人似上のクルー配属が必要[b]",
-    "Text": "",
+    "Text": "A facility for controlling and directing exploration teams.\nAccumulated expertise enables large-scale operations and the assignment of a significant number of crew members.\n[a 03]※Dispatch requires the assignment of at least one crew member [b]",
     "Enabled": false
   },
   "250171": {
     "OriginalText": "グランを励起させる伝置。\n[a 06]【機能】ＧＰ消費量滅・クエスト終了時\nの獲得グランエナジー量アップ[b]",
-    "Text": "",
+    "Text": "A device that excites Gran.\n[a 06]【Function】Reduces GP consumption and increases Gran Energy gained upon quest completion [b]",
     "Enabled": false
   },
   "250172": {
     "OriginalText": "グランを励起させる伝置。\n処理プログラムの更新により\nマルチタスクでの作業が可能になった。",
-    "Text": "",
+    "Text": "A device that excites Gran.\nUpdated processing programs enable multitasking operations.",
     "Enabled": false
   },
   "250173": {
     "OriginalText": "グランを励起させる伝置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
-    "Text": "",
+    "Text": "A device that excites Gran.\nPerformance improvements allow for the assignment of additional staff.",
     "Enabled": false
   },
   "250174": {
     "OriginalText": "グランを励起させる伝置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
-    "Text": "",
+    "Text": "A device that excites Gran.\nOverhauled operational procedures enable significant staff increases.",
     "Enabled": false
   },
   "250175": {
     "OriginalText": "グランを励起させる伝置。\n分散型の制御システムの導入により\n最大限のスタッフ増強が可能になった。",
-    "Text": "",
+    "Text": "A device that excites Gran.\nThe introduction of a decentralized control system allows for maximum staff expansion.",
     "Enabled": false
   },
   "250176": {
     "OriginalText": "アイテムを探知する伝置。\n高感度走査で鉱脈の発見が可能。\n[a 06]【機能】アイテムドロップ率アップ[b]",
-    "Text": "",
+    "Text": "A device that detects items.\nHigh-sensitivity scanning enables the discovery of ore veins.\n[a 06]【Function】Increases item drop rate [b]",
     "Enabled": false
   },
   "250177": {
     "OriginalText": "アイテムを探知する伝置。\n処理プログラムの更新により\nマルチタスクでの作業が可能となった。",
-    "Text": "",
+    "Text": "A device that detects items.\nUpdated processing programs enable multitasking operations.",
     "Enabled": false
   },
   "250178": {
     "OriginalText": "アイテムを探知する伝置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
-    "Text": "",
+    "Text": "A device that detects items.\nPerformance improvements allow for the assignment of additional staff.",
     "Enabled": false
   },
   "250179": {
     "OriginalText": "アイテムを探知する伝置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
-    "Text": "",
+    "Text": "A device that detects items.\nOverhauled operational procedures enable significant staff increases.",
     "Enabled": false
   },
   "250180": {
     "OriginalText": "アイテムを探知する伝置。\n処理プログラムが更新され、\n探知可能な範囲が最大化された。",
-    "Text": "",
+    "Text": "A device that detects items.\nUpdated processing programs maximize the detectable range.",
     "Enabled": false
   },
   "250181": {
     "OriginalText": "エネミーを観測する伝置。\n[a 06]【機能】レアエネミー・\nブーストエネミーの出現率アップ[b]",
-    "Text": "",
+    "Text": "A device that observes enemies.\n[a 06]【Function】Increases spawn rates of rare and boosted enemies [b]",
     "Enabled": false
   },
   "250182": {
     "OriginalText": "エネミーを観測する伝置。\n処理プログラムの更新により\nマルチタスクでの作業が可能となった。",
-    "Text": "",
+    "Text": "A device that observes enemies.\nUpdated processing programs enable multitasking operations.",
     "Enabled": false
   },
   "250183": {
     "OriginalText": "エネミーを観測する伝置。\n性能が向上し、担当スタッフも\nさらに増強可能になった。",
-    "Text": "",
+    "Text": "A device that observes enemies.\nPerformance improvements allow for the assignment of additional staff.",
     "Enabled": false
   },
   "250184": {
     "OriginalText": "エネミーを観測する伝置。\n運用手順の刷新が大幅な\nスタッフの増強を可能にしている。",
-    "Text": "",
+    "Text": "A device that observes enemies.\nOverhauled operational procedures enable significant staff increases.",
     "Enabled": false
   },
   "250185": {
     "OriginalText": "エネミーを観測する伝置。\n処理プログラムが更新され、\n観測可能な範囲が最大化された。",
-    "Text": "",
+    "Text": "A device that observes enemies.\nUpdated processing programs maximize the observable range.",
     "Enabled": false
   },
   "250186": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n[a 06]【機能】クルーを配属することで\nバースト効果を追加[b]",
-    "Text": "",
+    "Text": "An accelerator that amplifies Gran Burst effects.\n[a 06]【Function】Assigning crew members adds burst effects [b]",
     "Enabled": false
   },
   "250187": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n燥作手順の見直しにより半自動化され、\n安定した運用が可能になった。",
-    "Text": "",
+    "Text": "An accelerator that amplifies Gran Burst effects.\nRevised operational procedures allow semi-automation, enabling stable operation.",
     "Enabled": false
   },
   "250188": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n燥作手順の刷新により完全自動化され\nさらに安定した運用が可能になった。",
-    "Text": "",
+    "Text": "An accelerator that amplifies Gran Burst effects.\nOverhauled operational procedures enable full automation, ensuring even more stable operation.",
     "Enabled": false
   },
   "250189": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n一部パーツの性能向上により処理速度が\nアップし、速効性と安全性が高まった。",
-    "Text": "",
+    "Text": "An accelerator that amplifies Gran Burst effects.\nImproved performance of certain parts increases processing speed, enhancing effectiveness and safety.",
     "Enabled": false
   },
   "250190": {
     "OriginalText": "グランバースト効果を増幅する加速器。\n大幅なシステム見直しにより、\n最大出力での常時運用が可能になった。",
-    "Text": "",
+    "Text": "An accelerator that amplifies Gran Burst effects.\nA significant system overhaul enables constant operation at maximum output.",
     "Enabled": false
   },
   "250191": {
     "OriginalText": "コア精錬所 Ｒ１の解説文",
-    "Text": "",
+    "Text": "Description text for Core Refinery R1",
     "Enabled": false
   },
   "250192": {
     "OriginalText": "コア精錬所 Ｒ２の解説文",
-    "Text": "",
+    "Text": "Description text for Core Refinery R2",
     "Enabled": false
   },
   "250193": {
     "OriginalText": "コア精錬所 Ｒ３の解説文",
-    "Text": "",
+    "Text": "Description text for Core Refinery R3",
     "Enabled": false
   },
   "250194": {
     "OriginalText": "コア精錬所 Ｒ４の解説文",
-    "Text": "",
+    "Text": "Description text for Core Refinery R4",
     "Enabled": false
   },
   "250195": {
     "OriginalText": "コアの精錬を行う施設。\n[a 06]【機能】アタッチパーツの特殊能力を変更・\nコアの特殊能力強化[b]",
-    "Text": "",
+    "Text": "A facility for refining cores.\n[a 06]【Function】Change the special abilities of attachment parts and strengthen core special abilities [b]",
     "Enabled": false
   },
   "250196": {
     "OriginalText": "アークスで標準使用される全方位型の\n投影機。完全な３Ｄ映像を映し出す。\nイベントを再生することができる。",
-    "Text": "",
+    "Text": "A standard all-directional projector used by ARKS.\nIt displays complete 3D images and can replay events.",
     "Enabled": false
   },
   "250197": {
     "OriginalText": "アークスで標準使用される倉庫。\n復数台設置することが可能。\nアイテムを預けることができる。",
-    "Text": "",
+    "Text": "A standard warehouse used by ARKS.\nMultiple units can be installed, allowing item storage.",
     "Enabled": false
   },
   "250198": {
     "OriginalText": "拠点内に配置可能な端末。\nその場で肢品を受け取ることができる。\n他のショップの機能の呼び出しか可能。",
-    "Text": "",
+    "Text": "A terminal that can be placed within a base.\nIt allows immediate receipt of items and access to the functions of other shops.",
     "Enabled": false
   },
   "250199": {
     "OriginalText": "標準使用される間仕切り。\nあらゆる空間でプライバシーを確保し\n快適なひとときを提供する。",
-    "Text": "",
+    "Text": "A standard partition used for privacy.\nIt ensures a comfortable space in any environment.",
     "Enabled": false
   },
   "250200": {
     "OriginalText": "標準使用される間仕切り。\nあらゆる空間で省スペースを実現し\n機能的に利用するための必須アイテム。",
-    "Text": "",
+    "Text": "A standard partition designed to save space.\nIt is an essential item for functional use in any space.",
     "Enabled": false
   },
   "250201": {
     "OriginalText": "とある文化が由来の間仕切り。\n落ち着いた木目の格子が、安らぎのある\n心地よい空間を確保してくれる。",
-    "Text": "",
+    "Text": "A partition inspired by a certain culture.\nThe calm wooden lattice provides a relaxing and comfortable space.",
     "Enabled": false
   },
   "250202": {
     "OriginalText": "とある文化が由来の間仕切り。\n年商を感じさせる高級な木村が、\n上品なくつろぎ空間を確保してくれる。",
-    "Text": "",
+    "Text": "A partition inspired by a certain culture.\nThe luxurious wood gives a sense of craftsmanship, ensuring an elegant and relaxing space.",
     "Enabled": false
   },
   "250203": {
     "OriginalText": "とある文化を取り入れた間仕切り。\nレンガ風の素村は耐火性が強く、\n火災を確実にシャットアウトする。",
-    "Text": "",
+    "Text": "A partition incorporating a certain culture.\nThe brick-like material has strong fire resistance, effectively blocking fires.",
     "Enabled": false
   },
   "250204": {
     "OriginalText": "とある文化を取り入れた間仕切り。\nレンガ風の素村は防音性が強く、\nワンランク上の快適な空間を提供する。",
-    "Text": "",
+    "Text": "A partition incorporating a certain culture.\nThe brick-like material has strong soundproofing, providing a higher level of comfort.",
     "Enabled": false
   },
   "250205": {
     "OriginalText": "応急使用される間仕切り。\n代用部品を寄せ集めた急ごしらえゆえに\n色合いが微妙なのはご愛季。",
-    "Text": "",
+    "Text": "A partition for emergency use.\nMade from gathered substitute parts, the makeshift nature results in slightly uneven colors, which adds to its charm.",
     "Enabled": false
   },
   "250206": {
     "OriginalText": "応急使用される間仕切り。\n代用部品を寄せ集めた急ごしらえながら\n少しでも落ち着きある配色で仕上げた。",
-    "Text": "",
+    "Text": "A partition for emergency use.\nAlthough made from gathered substitute parts, it is finished with a calming color scheme as much as possible.",
     "Enabled": false
   },
   "250207": {
     "OriginalText": "標準使用されるパーテション。\n広めの空間でもプライバシーを確保し\n快適なひとときを提供する。",
-    "Text": "",
+    "Text": "A standard partition.\nIt ensures privacy in larger spaces, providing a comfortable experience.",
     "Enabled": false
   },
   "250208": {
     "OriginalText": "標準使用されるパーテション。\n広めの空間でも省スペースを実現し\n機能的に利用するための必須アイテム。",
-    "Text": "",
+    "Text": "A standard partition.\nIt saves space even in larger areas, making it an essential item for functional use.",
     "Enabled": false
   },
   "250209": {
     "OriginalText": "とある文化が由来のパーテション。\n落ち着いた木目の格子が、無機的な\n空間にも安らぎと心地よさを与える。",
-    "Text": "",
+    "Text": "A partition inspired by a certain culture.\nThe calm wooden lattice adds comfort and tranquility even to inorganic spaces.",
     "Enabled": false
   },
   "250210": {
     "OriginalText": "とある文化が由来のパーテション。\n年商を感じさせる高級な木村が、\n暖かみのある空間を確保してくれる。",
-    "Text": "",
+    "Text": "A partition inspired by a certain culture.\nThe luxurious wood exudes craftsmanship, ensuring a warm and inviting space.",
     "Enabled": false
   },
   "250211": {
     "OriginalText": "とある文化を取り入れたパーテション。\nレンガ風の素村は衝撃吸収に優れ、\nあらゆる障害をシャットアウトする。",
-    "Text": "",
+    "Text": "A partition incorporating a certain culture.\nThe brick-like material excels in shock absorption, effectively blocking all obstacles.",
     "Enabled": false
   },
   "250212": {
     "OriginalText": "とある文化を取り入れたパーテション。\nレンガ風の素村は吸嬌性に優れ、\n誰もが快適に過ごせる空間を提供する。",
-    "Text": "",
+    "Text": "A partition incorporating a certain culture.\nThe brick-like material excels in moisture absorption, providing a comfortable space for everyone.",
     "Enabled": false
   },
   "250213": {
     "OriginalText": "応急使用されるパーテション。\n代用部品を寄せ集めた急ごしらえゆえに\n無機的で無骨な外観となっている。",
-    "Text": "",
+    "Text": "A partition for emergency use.\nThe makeshift assembly of substitute parts results in an inorganic and rugged appearance.",
     "Enabled": false
   },
   "250214": {
     "OriginalText": "応急使用されるパーテション。\n代用部品を寄せ集めた急ごしらえながら\nそれなりの味わいを湿し出している。",
-    "Text": "",
+    "Text": "A partition for emergency use.\nAlthough made from gathered substitute parts, it exudes a certain charm.",
     "Enabled": false
   },
   "250217": {
     "OriginalText": "標準使用されるルーフテント。\nあらゆる局面で快適な空間を\n確保してくれる。",
-    "Text": "",
+    "Text": "A standard roof tent.\nIt provides a comfortable space in any situation.",
     "Enabled": false
   },
   "250218": {
     "OriginalText": "標準使用されるルーフテント。\nあらゆる局面で機能的空間を\n確保してくれる。",
-    "Text": "",
+    "Text": "A standard roof tent.\nIt ensures a functional space in any situation.",
     "Enabled": false
   },
   "250219": {
     "OriginalText": "とある文化が由来のルーフテント。\n醸しげな青い屋根で、落ち着きのある\nくつろぎの空間を確保してくれる。",
-    "Text": "",
+    "Text": "A roof tent inspired by a certain culture.\nIts serene blue roof creates a calm and relaxing space.",
     "Enabled": false
   },
   "250220": {
     "OriginalText": "とある文化が由来のルーフテント。\n涼みのある色合いで、\n情緒豊かな景観を演出する。",
-    "Text": "",
+    "Text": "A roof tent inspired by a certain culture.\nIts cool tones create a scenic and emotionally rich atmosphere.",
     "Enabled": false
   },
   "250221": {
     "OriginalText": "とある文化を取り入れたルーフテント。\n赤レンガ風の屋根が嬌気を防ぎ、\n使用者のコンディションを最適に保つ。",
-    "Text": "",
+    "Text": "A roof tent incorporating a certain culture.\nThe red brick-style roof prevents dampness, maintaining optimal conditions for users.",
     "Enabled": false
   },
   "250222": {
     "OriginalText": "とある文化を取り入れたルーフテント。\n青レンガ風の屋根が渋乾を防ぎ、\n使用者のコンディションを最適に保つ。",
-    "Text": "",
+    "Text": "A roof tent incorporating a certain culture.\nThe blue brick-style roof prevents dryness, maintaining optimal conditions for users.",
     "Enabled": false
   },
   "250223": {
