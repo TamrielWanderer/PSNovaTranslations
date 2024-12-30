@@ -1272,1261 +1272,1261 @@
   "140001": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状の基礎的なモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA basic model of blade shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140002": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード部分を強化したモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA model with reinforced blade parts.",
-    "Enabled": false
+    "Enabled": true
   },
   "140003": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード出力を最大化させたモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA model that maximizes blade output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140004": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状のカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model of blade shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140005": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード部分を強化した\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model with reinforced blade parts.",
-    "Enabled": false
+    "Enabled": true
   },
   "140006": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード出力を最大化させた\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model that maximizes blade output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140007": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状の特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model of blade shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140008": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード部分を強化した特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model with reinforced blade parts.",
-    "Enabled": false
+    "Enabled": true
   },
   "140009": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード出力を最大化させた\n特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model that maximizes blade output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140010": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を持つ基礎的なモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA basic model with a wide blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140011": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を先端に広げたモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA model with a widened blade at the tip.",
-    "Enabled": false
+    "Enabled": true
   },
   "140012": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃の出力を増したモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA model that increases the output of the wide blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140013": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を持つカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model with a wide blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140014": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を先端に広げた\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model with a widened blade at the tip.",
-    "Enabled": false
+    "Enabled": true
   },
   "140015": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃の出力を増した\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model that increases the output of the wide blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140016": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を持つ特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model with a wide blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140017": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を先端に広げた\n特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model with a widened blade at the tip.",
-    "Enabled": false
+    "Enabled": true
   },
   "140018": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃の出力を増した\n特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model that increases the output of the wide blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140019": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nエネルギーを円状に出力する\n基礎的なモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA basic model that outputs energy in a circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140020": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を増し二重の円形を持つモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA model that increases output and features a double circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140021": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を最大化し、三重の円形で強化する\nモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA model that maximizes output and strengthens with a triple circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140022": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nエネルギーを円状に出力する\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model that outputs energy in a circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140023": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を増し二重の円形を持つ\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model that increases output and features a double circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140024": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を最大化し、三重の円形で強化する\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the blade tip.\nA customized model that maximizes output and strengthens with a triple circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140025": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nエネルギーを円状に出力する\n特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model that outputs energy in a circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140026": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を増し二重の円形を持つ\n特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model that increases output and features a double circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140027": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を最大化し、三重の円形で強化する\n特殊モデル。",
     "Text": "Attachment part to enhance the blade tip.\nA specialized model that maximizes output and strengthens with a triple circular shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140028": {
     "OriginalText": "刃を追加するアタッチパーツ。\n軽量小型の刃を追加する基礎的モデル。",
     "Text": "Attachment part to add blades.\nA basic model that adds lightweight, compact blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140029": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を連ね、強化したモデル。",
     "Text": "Attachment part to add blades.\nA model that links and strengthens compact blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140030": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を重ねて、櫛状の峰を作り\n応用性を高めたモデル。",
     "Text": "Attachment part to add blades.\nA model that layers compact blades to create a comb-like ridge, enhancing versatility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140031": {
     "OriginalText": "刃を追加するアタッチパーツ。\n軽量小型の刃を追加する\nカスタマイズモデル。",
     "Text": "Attachment part to add blades.\nA customized model that adds lightweight, compact blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140032": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を連ね、強化した\nカスタマイズモデル。",
     "Text": "Attachment part to add blades.\nA customized model that links and strengthens compact blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140033": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を重ねて、櫛状の峰を作り\n応用性を高めたカスタマイズモデル。",
     "Text": "Attachment part to add blades.\nA customized model that layers compact blades to create a comb-like ridge, enhancing versatility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140034": {
     "OriginalText": "刃を追加するアタッチパーツ。\n軽量小型の刃を追加する\n特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model that adds lightweight, compact blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140035": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を連ね、強化した特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model that links and strengthens compact blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140036": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を重ねて、櫛状の峰を作り\n応用性を高めた特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model that layers compact blades to create a comb-like ridge, enhancing versatility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140037": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状の刃で本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140038": {
     "OriginalText": "刃を追加するアタッチパーツ。\n改良された扇形状の刃で\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with improved fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140039": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した扇形状の刃を追加して、\nさらなる効果上昇が見込まれる。",
     "Text": "Attachment part to add blades.\nAdds enlarged fan-shaped blades for further performance enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140040": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状の刃で本体をサポートする\nカスタマイズモデル。",
     "Text": "Attachment part to add blades.\nA customized model that supports the main body with fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140041": {
     "OriginalText": "刃を追加するアタッチパーツ。\n改良された扇形状の刃で本体をサポート\nするカスタマイズモデル。",
     "Text": "Attachment part to add blades.\nA customized model that supports the main body with improved fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140042": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した扇形状の刃でさらなる効果\n上昇が見込まれるカスタマイズモデル。",
     "Text": "Attachment part to add blades.\nA customized model that adds enlarged fan-shaped blades for further performance enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140043": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状の刃で本体をサポートする\n特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model that supports the main body with fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140044": {
     "OriginalText": "刃を追加するアタッチパーツ。\n改良された扇形状の刃で本体をサポート\nする特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model that supports the main body with improved fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140045": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した扇形状の刃でさらなる効果\n上昇が見込まれる特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model that adds enlarged fan-shaped blades for further performance enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140046": {
     "OriginalText": "刃を追加するアタッチパーツ。\nパラレログラム形状のブレードで本体を\nサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with parallelogram-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140047": {
     "OriginalText": "刃を追加するアタッチパーツ。\n３分割されたパラレログラムブレードで\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with a tripartite parallelogram blade.",
-    "Enabled": false
+    "Enabled": true
   },
   "140048": {
     "OriginalText": "刃を追加するアタッチパーツ。\n凹凸のついたブレードは殺傷力を高める\n効果が期待できる。",
     "Text": "Attachment part to add blades.\nBlades with protrusions are expected to enhance lethality.",
-    "Enabled": false
+    "Enabled": true
   },
   "140049": {
     "OriginalText": "刃を追加するアタッチパーツ。\n刺突形状のブレードで\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with piercing-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140050": {
     "OriginalText": "刃を追加するアタッチパーツ。\n薙刀状のブレードで\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with naginata-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140051": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状のブレードで\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with fan-shaped blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140052": {
     "OriginalText": "刃を追加するアタッチパーツ。\n並列に４個並べたヘキサブレードで\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with four parallel hexagonal blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140053": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した３つのブレードで\n本体をサポートする。",
     "Text": "Attachment part to add blades.\nSupports the main body with three enlarged blades.",
-    "Enabled": false
+    "Enabled": true
   },
   "140054": {
     "OriginalText": "刃を追加するアタッチパーツ。\nとある人洋のワンオフオーダー品が\n量汎化された特殊モデル。",
     "Text": "Attachment part to add blades.\nA specialized model derived from a one-off custom order.",
-    "Enabled": false
+    "Enabled": true
   },
   "140055": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n外観だけではなく補強の効果も\n兼ねている。",
     "Text": "Attachment part to decorate the handle.\nNot only enhances appearance but also provides reinforcement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140056": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果の更なる上昇とともに外観の\nクォリティも上げたモデル。",
     "Text": "Attachment part to decorate the handle.\nImproves both effectiveness and appearance quality.",
-    "Enabled": false
+    "Enabled": true
   },
   "140057": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n過度に綺羅びやかな伝飾が目につくが、\n効果上昇も保証付きのモデル。",
     "Text": "Attachment part to decorate the handle.\nFeatures overly flashy decorations with guaranteed effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140058": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n外観だけではなく補強の効果も\n兼ねている限定ブラックモデル。",
     "Text": "Attachment part to decorate the handle.\nA limited black model that provides both appearance enhancement and reinforcement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140059": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果の更なる上昇とともに外観の\nクォリティも上げた限定モデル。",
     "Text": "Attachment part to decorate the handle.\nA limited model that improves both effectiveness and appearance quality.",
-    "Enabled": false
+    "Enabled": true
   },
   "140060": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n過度に綺羅びやかな伝飾が目につくが、\n効果上昇も保証付きの限定人気モデル。",
     "Text": "Attachment part to decorate the handle.\nA limited popular model with overly flashy decorations and guaranteed effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140061": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n外観だけではなく補強の効果も\n兼ねている特殊コートモデル。",
     "Text": "Attachment part to decorate the handle.\nA specialized coated model that enhances both appearance and reinforcement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140062": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果の更なる上昇とともに外観の\nクォリティも上げた特殊コートモデル。",
     "Text": "Attachment part to decorate the handle.\nA specialized coated model that improves both effectiveness and appearance quality.",
-    "Enabled": false
+    "Enabled": true
   },
   "140063": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n過度に綺羅びやかな伝飾が目につくが、\n効果上昇も保証付き特殊コートモデル。",
     "Text": "Attachment part to decorate the handle.\nA specialized coated model with flashy decorations and guaranteed effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140064": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nウェーブ形状のデザインは外観と効果を\n両立させる。",
     "Text": "Attachment part to decorate the handle.\nWave-shaped design balances appearance and effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140065": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n２重のウェーブはデザインよりも効果を\n優先した結果となる。",
     "Text": "Attachment part to decorate the handle.\nThe double wave prioritizes effectiveness over design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140066": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果を追求したウェーブデザインは\n外観にも個性をもたらす結果になった。",
     "Text": "Attachment part to decorate the handle.\nThe wave design focused on effectiveness adds uniqueness to the appearance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140067": {
     "OriginalText": "柄の伝飾用特殊アタッチパーツ。\nウェーブ形状のデザインは外観と効果を\n両立させる。",
     "Text": "Specialized attachment part for handle decoration.\nWave-shaped design balances appearance and effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140068": {
     "OriginalText": "柄の伝飾用特殊アタッチパーツ。\n２重のウェーブはデザインよりも効果を\n優先した結果となる。",
     "Text": "Specialized attachment part for handle decoration.\nThe double wave prioritizes effectiveness over design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140069": {
     "OriginalText": "柄の伝飾用特殊アタッチパーツ。\n効果を追求したウェーブデザインは\n外観にも個性をもたらす結果になった。",
     "Text": "Specialized attachment part for handle decoration.\nThe wave design focused on effectiveness adds uniqueness to the appearance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140070": {
     "OriginalText": "柄の伝飾用限定アタッチパーツ。\nウェーブ形状のデザインは外観と効果を\n両立させる。",
     "Text": "Limited attachment part for handle decoration.\nWave-shaped design balances appearance and effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140071": {
     "OriginalText": "柄の伝飾用限定アタッチパーツ。\n２重のウェーブはデザインよりも効果を\n優先した結果となる。",
     "Text": "Limited attachment part for handle decoration.\nThe double wave prioritizes effectiveness over design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140072": {
     "OriginalText": "柄の伝飾用限定アタッチパーツ。\n効果を追求したウェーブデザインは\n外観にも個性をもたらす結果になった。",
     "Text": "Limited attachment part for handle decoration.\nThe wave design focused on effectiveness adds uniqueness to the appearance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140073": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nシンプルなリボン形状で\n可愛らしさがアップ。",
     "Text": "Attachment part to decorate the handle.\nA simple ribbon shape that enhances cuteness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140074": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n女性的なデザインになるが効果も\nそれなりに期待できる。",
     "Text": "Attachment part to decorate the handle.\nA feminine design that also offers moderate effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140075": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n伝飾過多だが効果も\n大きくなったモデル。",
     "Text": "Attachment part to decorate the handle.\nExcessive decorations but with significantly improved effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140076": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n清楚なブルーのリボン形状で\n深窓の令嬢らしさがアップ。",
     "Text": "Attachment part to decorate the handle.\nA neat blue ribbon shape that enhances an aristocratic lady-like appearance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140077": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nブルーのリボンで女性的なデザインに\nなるが効果もそれなりに期待できる。",
     "Text": "Attachment part to decorate the handle.\nA feminine design with a blue ribbon that offers moderate effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140078": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n伝飾過多だが効果も大きくなった\nストライプのリボンが特微的なモデル。",
     "Text": "Attachment part to decorate the handle.\nA model featuring a striped ribbon with excessive decorations but significantly improved effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140079": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n艶めかしいブラックのリボン形状で\n大人の女性らしさがアップ。",
     "Text": "Attachment part to decorate the handle.\nA glossy black ribbon shape that enhances a mature feminine appearance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140080": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nブラックのリボンで女性的なデザインに\nなるが効果もそれなりに期待できる。",
     "Text": "Attachment part to decorate the handle.\nA feminine design with a black ribbon that offers moderate effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140081": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n伝飾過多だが効果も大きくなった\nブラックストライプが特微的なモデル。",
     "Text": "Attachment part to decorate the handle.\nA model featuring black stripes with excessive decorations but significantly improved effectiveness.",
-    "Enabled": false
+    "Enabled": true
   },
   "140082": {
     "OriginalText": "握り部分の強化をする\nアタッチパーツ。\nトライヘキサが本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nTri-hex supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140083": {
     "OriginalText": "握り部分の強化をする\nアタッチパーツ。\nフィフスヘキサが本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nFifth-hex supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140084": {
     "OriginalText": "握り部分の強化をする\nアタッチパーツ。\nリングヘキサが本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nRing-hex supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140085": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nトライヘキサに力が蓄えられ\n本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nTri-hex stores power and supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140086": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nフィフスヘキサに力が蓄えられ\n本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nFifth-hex stores power and supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140087": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nリングヘキサに力が蓄えられ\n本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nRing-hex stores power and supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140088": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n黄金色に染められたトライヘキサが\n本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nGold-colored tri-hex supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140089": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n黄金色に染められたフィフスヘキサが\n本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nGold-colored fifth-hex supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140090": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n黄金色に染められたリングヘキサが\n本体をサポートする。",
     "Text": "Attachment part to strengthen the grip.\nGold-colored ring-hex supports the main body.",
-    "Enabled": false
+    "Enabled": true
   },
   "140091": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nグリップ力を高めて本来の性能を\n引き出す。",
     "Text": "Attachment part to strengthen the grip.\nEnhances grip strength to unlock the original performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140092": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n２重のサポートブレードが本体の性能を\nサポートする。",
     "Text": "Attachment part to strengthen the grip.\nDouble support blades enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140093": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n全体的に洗練され外観も性能も上昇した\n完成度の高いモデル。",
     "Text": "Attachment part to strengthen the grip.\nA refined model with improved appearance and performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140094": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nグリップ力を高めて本来の性能を\n引き出すカスタマイズモデル。",
     "Text": "Attachment part to strengthen the grip.\nA customized model that enhances grip strength to unlock the original performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140095": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n２重のサポートブレードが本体の性能を\nサポートするカスタマイズモデル。",
     "Text": "Attachment part to strengthen the grip.\nA customized model with double support blades that enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140096": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n全体的に洗練され外観も性能も上昇した\n完成度の高いカスタマイズモデル。",
     "Text": "Attachment part to strengthen the grip.\nA high-quality customized model with refined appearance and enhanced performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140097": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nグリップ力を高めて本来の性能を\n引き出す特殊コートモデル。",
     "Text": "Attachment part to strengthen the grip.\nA specialized coated model that enhances grip strength to unlock the original performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140098": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n２重のサポートブレードが本体の性能を\nサポートする特殊コートモデル。",
     "Text": "Attachment part to strengthen the grip.\nA specialized coated model with double support blades that enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140099": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n全体的に洗練され外観も性能も上昇した\n完成度の高い特殊コートモデル。",
     "Text": "Attachment part to strengthen the grip.\nA high-quality specialized coated model with refined appearance and enhanced performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140100": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的チャトライズム伝飾が人気。",
     "Text": "Attachment part to strengthen the grip.\nPopular for its emblematic design that cat enthusiasts love but dog enthusiasts find unbearable.",
-    "Enabled": false
+    "Enabled": true
   },
   "140101": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的ブチリッシュ伝飾が人気。",
     "Text": "Attachment part to strengthen the grip.\nPopular for its spotted emblematic design that cat enthusiasts love but dog enthusiasts find unbearable.",
-    "Enabled": false
+    "Enabled": true
   },
   "140102": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的純白ましろ伝飾が人気。",
     "Text": "Attachment part to strengthen the grip.\nPopular for its pure white emblematic design that cat enthusiasts love but dog enthusiasts find unbearable.",
-    "Enabled": false
+    "Enabled": true
   },
   "140103": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的サバトラージュ伝飾が人気。",
     "Text": "Attachment part to strengthen the grip.\nPopular for its tabby emblematic design that cat enthusiasts love but dog enthusiasts find unbearable.",
-    "Enabled": false
+    "Enabled": true
   },
   "140104": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n工事現場的と言われデザイナーが\n撃怒したいわくつきモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA controversial model said to resemble a construction site, which infuriated the designer.",
-    "Enabled": false
+    "Enabled": true
   },
   "140105": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nダブルスパイクで\n本体の性能を引き出す。",
     "Text": "Attachment part to strengthen the weapon tip.\nFeatures double spikes to enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140106": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nトリプルスパイクで本体の性能を更に\n引き出す。",
     "Text": "Attachment part to strengthen the weapon tip.\nFeatures triple spikes to further enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140107": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n工事現場的と言われデザイナーが\n撃怒したいわくつきモデルの限定版。",
     "Text": "Attachment part to strengthen the weapon tip.\nA limited version of the controversial model said to resemble a construction site, which infuriated the designer.",
-    "Enabled": false
+    "Enabled": true
   },
   "140108": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定ブラックのダブルスパイクで\n本体の性能を引き出す。",
     "Text": "Attachment part to strengthen the weapon tip.\nA limited black model featuring double spikes to enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140109": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定ブラックのトリプルスパイクで\n本体の性能を更に引き出す。",
     "Text": "Attachment part to strengthen the weapon tip.\nA limited black model featuring triple spikes to further enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140110": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n工事現場的と言われデザイナーが\n撃怒したいわくつきモデルの決定版。",
     "Text": "Attachment part to strengthen the weapon tip.\nThe definitive version of the controversial model said to resemble a construction site, which infuriated the designer.",
-    "Enabled": false
+    "Enabled": true
   },
   "140111": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定クリムゾンのダブルスパイクで\n本体の性能を引き出す。",
     "Text": "Attachment part to strengthen the weapon tip.\nA limited crimson model featuring double spikes to enhance the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140112": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定クリムゾンのトリプルスパイクで\n本体の性能を冷限まで引き出す。",
     "Text": "Attachment part to strengthen the weapon tip.\nA limited crimson model featuring triple spikes to fully maximize the main body's performance.",
-    "Enabled": false
+    "Enabled": true
   },
   "140113": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n出力を増幅させるウィングがついた\n基礎的なモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA basic model equipped with wings to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140114": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を強化して出力を\n増幅させたモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA model with reinforced wing outlines to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140115": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を最大まで広げて\n出力を増幅させたモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA model with maximally expanded wing outlines to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140116": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n出力を増幅させるウィングがついた\nカスタマイズモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA customized model equipped with wings to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140117": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を強化して出力を\n増幅させたカスタマイズモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA customized model with reinforced wing outlines to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140118": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を最大まで広げて\n出力を増幅させたカスタマイズモデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA customized model with maximally expanded wing outlines to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140119": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n出力を増幅させるウィングがついた\n特殊モデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA specialized model equipped with wings to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140120": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を強化して出力を\n増幅させた特殊モデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA specialized model with reinforced wing outlines to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140121": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を最大まで広げて\n出力を増幅させた特殊モデル。",
     "Text": "Attachment part to strengthen the weapon tip.\nA specialized model with maximally expanded wing outlines to amplify output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140122": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的チャトライズム伝飾が人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part for strengthening the tip of a weapon.\nA cat-paw motif that dog lovers find unbearable,\nthis emblematic Chattra-style decoration is popular.",
+    "Enabled": true
   },
   "140123": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的ブチリッシュ伝飾が人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part for strengthening the tip of a weapon.\nA paw motif that dog lovers find unbearable,\nthis emblematic Spottedlish decoration is popular.",
+    "Enabled": true
   },
   "140124": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的純白ましろ伝飾が人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part for strengthening the tip of a weapon.\nA paw motif that dog lovers find unbearable,\nthis emblematic Pure White Mashiro decoration is popular.",
+    "Enabled": true
   },
   "140125": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的サバトラージュ伝飾が人気。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part for strengthening the tip of a weapon.\nA paw motif that dog lovers find unbearable,\nthis emblematic Sabotage-style decoration is popular.",
+    "Enabled": true
   },
   "140126": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素村を用いて\n扱い易くした基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA basic model that uses lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140127": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素村を用いて\n扱い易くしたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA model that uses high-strength, lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140128": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素村を用いて\n扱い易くしたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA model that uses high-strength, ultra-lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140129": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素村を用いて\n扱い易くしたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA customized model that uses lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140130": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素村を用いて\n扱い易くしたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA customized model that uses high-strength, lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140131": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素村を用いて\n扱い易くしたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA customized model that uses high-strength, ultra-lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140132": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素村を用いて\n扱い易くした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA specialized model that uses lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140133": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素村を用いて\n扱い易くした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA specialized model that uses high-strength, lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140134": {
     "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素村を用いて\n扱い易くした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA specialized model that uses high-strength, ultra-lightweight materials at the tip to improve ease of handling.",
+    "Enabled": true
   },
   "140135": {
     "OriginalText": "柄を強化するアタッチパーツ。\nエネルギー出力を強化するパネルを\n付与する基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA basic model equipped with panels that enhance energy output.",
+    "Enabled": true
   },
   "140136": {
     "OriginalText": "柄を強化するアタッチパーツ\nパネルを扇状に並べてエネルギー出力を\n高めたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA model with panels arranged in a fan shape to enhance energy output.",
+    "Enabled": true
   },
   "140137": {
     "OriginalText": "柄を強化するアタッチパーツ。\nパネルを二重扇にしてエネルギー出力を\n冷度に高めたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA model with double fan-shaped panels to significantly enhance energy output.",
+    "Enabled": true
   },
   "140138": {
     "OriginalText": "柄を強化するアタッチパーツ。\nエネルギー出力を強化するパネルを\n付与するカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part to strengthen the handle.\nA customized model equipped with panels that enhance energy output.",
+    "Enabled": true
   },
   "140139": {
     "OriginalText": "柄を強化するアタッチパーツ\nパネルを扇状に並べてエネルギー出力を\n高めたカスタマイズモデル。",
     "Text": "Attachment part to strengthen the handle.\nPanels arranged in a fan shape to enhance energy output in a customized model.",
-    "Enabled": false
+    "Enabled": true
   },
   "140140": {
     "OriginalText": "柄を強化するアタッチパーツ。\nパネルを二重扇にしてエネルギー出力を\n冷度に高めたカスタマイズモデル。",
     "Text": "Attachment part to strengthen the handle.\nDouble fan panels enhance energy output in a customized model.",
-    "Enabled": false
+    "Enabled": true
   },
   "140141": {
     "OriginalText": "柄を強化するアタッチパーツ。\nエネルギー出力を強化するパネルを\n付与する特殊モデル。",
     "Text": "Attachment part to strengthen the handle.\nSpecialized model equipped with panels that boost energy output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140142": {
     "OriginalText": "柄を強化するアタッチパーツ\nパネルを扇状に並べてエネルギー出力を\n高めた特殊モデル。",
     "Text": "Attachment part to strengthen the handle.\nPanels arranged in a fan shape to enhance energy output in a specialized model.",
-    "Enabled": false
+    "Enabled": true
   },
   "140143": {
     "OriginalText": "柄を強化するアタッチパーツ。\nパネルを二重扇にしてエネルギー出力を\n冷度に高めた特殊モデル。",
     "Text": "Attachment part to strengthen the handle.\nDouble fan panels enhance energy output in a specialized model.",
-    "Enabled": false
+    "Enabled": true
   },
   "140144": {
     "OriginalText": "柄を強化するアタッチパーツ。\n機動性を高める軽量ブレードを\nプロペラ形状にした基礎的なモデル。",
     "Text": "Attachment part to strengthen the handle.\nA basic model with lightweight blades in a propeller shape to enhance mobility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140145": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラを六角形の外郭で固定して\n安定性を高めたモデル。",
     "Text": "Attachment part to strengthen the handle.\nA model that secures the propeller with a hexagonal outline to enhance stability.",
-    "Enabled": false
+    "Enabled": true
   },
   "140146": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラ形状のパーツを二段に重ねて\n応用性を高めたモデル。",
     "Text": "Attachment part to strengthen the handle.\nA model that stacks propeller-shaped parts in two layers to enhance versatility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140147": {
     "OriginalText": "柄を強化するアタッチパーツ。\n機動性を高める軽量ブレードを\nプロペラ形状にしたカスタムモデル。",
     "Text": "Attachment part to strengthen the handle.\nA custom model with lightweight blades in a propeller shape to enhance mobility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140148": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラを六角形の外郭で固定して\n安定性を高めたカスタマイズモデル。",
     "Text": "Attachment part to strengthen the handle.\nA customized model that secures the propeller with a hexagonal outline to enhance stability.",
-    "Enabled": false
+    "Enabled": true
   },
   "140149": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラ形状のパーツを二段に重ねて\n応用性を高めたカスタマイズモデル。",
     "Text": "Attachment part to strengthen the handle.\nA customized model that stacks propeller-shaped parts in two layers to enhance versatility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140150": {
     "OriginalText": "柄を強化するアタッチパーツ。\n機動性を高める軽量ブレードを\nプロペラ形状にした特殊モデル。",
     "Text": "Attachment part to strengthen the handle.\nA specialized model with lightweight blades in a propeller shape to enhance mobility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140151": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラを六角形の外郭で固定して\n安定性を高めた特殊モデル。",
     "Text": "Attachment part to strengthen the handle.\nA specialized model that secures the propeller with a hexagonal outline to enhance stability.",
-    "Enabled": false
+    "Enabled": true
   },
   "140152": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラ形状のパーツを二段に重ねて\n応用性を高めた特殊モデル。",
     "Text": "Attachment part to strengthen the handle.\nA specialized model that stacks propeller-shaped parts in two layers to enhance versatility.",
-    "Enabled": false
+    "Enabled": true
   },
   "140153": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー龍達力を増幅する光を放つ\n基礎的なモデル。",
     "Text": "Booster attachment part.\nA basic model that emits light to amplify energy output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140154": {
     "OriginalText": "ブースターアタッチパーツ。\n光の屈折率を変える塗伝を施し龍達力を\n強化したモデル。",
     "Text": "Booster attachment part.\nA model that strengthens energy output by applying coatings that alter the refraction index of light.",
-    "Enabled": false
+    "Enabled": true
   },
   "140155": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー龍達力を増幅する光を放つ\nカスタマイズモデル。",
     "Text": "Booster attachment part.\nA customized model that emits light to amplify energy output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140156": {
     "OriginalText": "ブースターアタッチパーツ。\n光の屈折率を変える塗伝を施し龍達力を\n強化したカスタマイズモデル。",
     "Text": "Booster attachment part.\nA customized model that strengthens energy output by applying coatings that alter the refraction index of light.",
-    "Enabled": false
+    "Enabled": true
   },
   "140157": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー龍達力を増幅する光を放つ\n特殊モデル。",
     "Text": "Booster attachment part.\nA specialized model that emits light to amplify energy output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140158": {
     "OriginalText": "ブースターアタッチパーツ。\n光の屈折率を変える塗伝を施し龍達力を\n強化した特殊モデル。",
     "Text": "Booster attachment part.\nA specialized model that strengthens energy output by applying coatings that alter the refraction index of light.",
-    "Enabled": false
+    "Enabled": true
   },
   "140159": {
     "OriginalText": "ブースターアタッチパーツ。\n円筒状の増幅器で粒子を加速させ\n出力に転換する基礎的なモデル。",
     "Text": "Booster attachment part.\nA basic model with a cylindrical amplifier that accelerates particles to convert them into output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140160": {
     "OriginalText": "ブースターアタッチパーツ。\n増幅器を改良して出力への転換率を\n上げたモデル。",
     "Text": "Booster attachment part.\nA model with an improved amplifier to increase conversion efficiency to output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140161": {
     "OriginalText": "ブースターアタッチパーツ。\n円筒状の増幅器で粒子を加速させ\n出力に転換するカスタマイズモデル。",
     "Text": "Booster attachment part.\nA customized model with a cylindrical amplifier that accelerates particles to convert them into output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140162": {
     "OriginalText": "ブースターアタッチパーツ。\n増幅器を改良して出力への転換率を\n上げたカスタマイズモデル。",
     "Text": "Booster attachment part.\nA customized model with an improved amplifier to increase conversion efficiency to output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140163": {
     "OriginalText": "ブースターアタッチパーツ。\n円筒状の増幅器で粒子を加速させ\n出力に転換する特殊モデル。",
     "Text": "Booster attachment part.\nA specialized model with a cylindrical amplifier that accelerates particles to convert them into output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140164": {
     "OriginalText": "ブースターアタッチパーツ。\n増幅器を改良して出力への転換率を\n上げた特殊モデル。",
     "Text": "Booster attachment part.\nA specialized model with an improved amplifier to increase conversion efficiency to output.",
-    "Enabled": false
+    "Enabled": true
   },
   "140165": {
     "OriginalText": "ブースターアタッチパーツ。\n接続した本体のエネルギーを円形状に\n循環させ増幅する基礎的なモデル。",
     "Text": "Booster attachment part.\nA basic model that circulates the connected main body's energy in a circular shape to amplify it.",
-    "Enabled": false
+    "Enabled": true
   },
   "140166": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー循環時のロスを軽滅して\n増幅力を高めたモデル。",
     "Text": "Booster attachment part.\nA model that reduces energy loss during circulation to enhance amplification power.",
-    "Enabled": false
+    "Enabled": true
   },
   "140167": {
     "OriginalText": "ブースターアタッチパーツ。\n接続した本体のエネルギーを円形状に\n循環させ増幅するカスタマイズモデル。",
     "Text": "Booster attachment part.\nA customized model that circulates the connected main body's energy in a circular shape to amplify it.",
-    "Enabled": false
+    "Enabled": true
   },
   "140168": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー循環時のロスを軽滅して\n増幅力を高めたカスタマイズモデル。",
     "Text": "Booster attachment part.\nA customized model that reduces energy loss during circulation to enhance amplification power.",
-    "Enabled": false
+    "Enabled": true
   },
   "140169": {
     "OriginalText": "ブースターアタッチパーツ。\n接続した本体のエネルギーを円形状に\n循環させ増幅する特殊モデル。",
     "Text": "Booster attachment part.\nA specialized model that circulates the connected main body's energy in a circular shape to amplify it.",
-    "Enabled": false
+    "Enabled": true
   },
   "140170": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー循環時のロスを軽滅して\n増幅力を高めた特殊モデル。",
     "Text": "Booster attachment part.\nA specialized model that reduces energy loss during circulation to enhance amplification power.",
-    "Enabled": false
+    "Enabled": true
   },
   "140171": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状の基礎的なモデル。",
     "Text": "Attachment part to enhance the stability of guns.\nA basic model with a grip design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140172": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状を強化したモデル。",
     "Text": "Attachment part to enhance the stability of guns.\nA model with an improved grip design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140173": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the stability of guns.\nA basic customized model with a grip design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140174": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状を\n強化したカスタマイズモデル。",
     "Text": "Attachment part to enhance the stability of guns.\nA customized model with an improved grip design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140175": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the stability of guns.\nA basic customized model with a grip design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140176": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状を強化した\nカスタマイズモデル。",
     "Text": "Attachment part to enhance the stability of guns.\nA customized model with an improved grip design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140177": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の基礎的なモデル。",
     "Text": "Adapter enhancement attachment part.\nA basic model with a shield shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140178": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の強化型モデル。",
     "Text": "Adapter enhancement attachment part.\nA reinforced model with a shield shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140179": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の基礎的な\nカスタマイズモデル。",
     "Text": "Adapter enhancement attachment part.\nA basic customized model with a shield shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140180": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の強化型\nカスタマイズモデル。",
     "Text": "Adapter enhancement attachment part.\nA reinforced customized model with a shield shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140181": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の基礎的な\nカスタマイズモデル。",
     "Text": "Adapter enhancement attachment part.\nA basic customized model with a shield shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140182": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の強化型\nカスタマイズモデル。",
     "Text": "Adapter enhancement attachment part.\nA reinforced customized model with a shield shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140183": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的チャトライズム伝飾が人気。",
     "Text": "Weapon enhancement attachment part.\nPopular for its emblematic cat-themed design that dog enthusiasts find hard to tolerate.",
-    "Enabled": false
+    "Enabled": true
   },
   "140184": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的ブチリッシュ伝飾が人気。",
     "Text": "Weapon enhancement attachment part.\nPopular for its spotted emblematic design that dog enthusiasts find hard to tolerate.",
-    "Enabled": false
+    "Enabled": true
   },
   "140185": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的純白ましろ伝飾が人気。",
     "Text": "Weapon enhancement attachment part.\nPopular for its pure white emblematic design that dog enthusiasts find hard to tolerate.",
-    "Enabled": false
+    "Enabled": true
   },
   "140186": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的サバトラージュ伝飾が人気。",
     "Text": "Weapon enhancement attachment part.\nPopular for its tabby emblematic design that dog enthusiasts find hard to tolerate.",
-    "Enabled": false
+    "Enabled": true
   },
   "140187": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の基礎的なモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic model with a circular design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140188": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の強化型モデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced model with a circular design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140189": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic customized model with a circular design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140190": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の強化型\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced customized model with a circular design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140191": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic customized model with a circular design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140192": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の強化型\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced customized model with a circular design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140193": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の基礎的なモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic model with a long-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140194": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の強化型モデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced model with a long-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140195": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic customized model with a long-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140196": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の強化型\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced customized model with a long-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140197": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic customized model with a long-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140198": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の強化型\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced customized model with a long-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140199": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の基礎的なモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic model with a short-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140200": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の強化型モデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced model with a short-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140201": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic customized model with a short-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140202": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の強化型\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced customized model with a short-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140203": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の基礎的な\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA basic customized model with a short-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140204": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の強化型\nカスタマイズモデル。",
     "Text": "Attachment part to enhance aiming.\nA reinforced customized model with a short-range scope design.",
-    "Enabled": false
+    "Enabled": true
   },
   "140205": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
     "Text": "Attachment part imbued with the brilliance of flames.\nA basic model with a jewel shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140206": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of flames.\nA model with a jewel shape that has undergone one stage of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140207": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of flames.\nA model with a jewel shape that has undergone two stages of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140208": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
     "Text": "Attachment part imbued with the brilliance of drama.\nA basic model with a jewel shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140209": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of drama.\nA model with a jewel shape that has undergone one stage of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140210": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of drama.\nA model with a jewel shape that has undergone two stages of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140211": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
     "Text": "Attachment part imbued with the brilliance of lightning.\nA basic model with a jewel shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140212": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of lightning.\nA model with a jewel shape that has undergone one stage of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140213": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of lightning.\nA model with a jewel shape that has undergone two stages of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140214": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
     "Text": "Attachment part imbued with the brilliance of wind.\nA basic model with a jewel shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140215": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of wind.\nA model with a jewel shape that has undergone one stage of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140216": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of wind.\nA model with a jewel shape that has undergone two stages of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140217": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
     "Text": "Attachment part imbued with the brilliance of light.\nA basic model with a jewel shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140218": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of light.\nA model with a jewel shape that has undergone one stage of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140219": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
     "Text": "Attachment part imbued with the brilliance of light.\nA model with a jewel shape that has undergone two stages of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140220": {
     "OriginalText": "深い闇を秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
     "Text": "Attachment part imbued with the depths of darkness.\nA basic model with a jewel shape.",
-    "Enabled": false
+    "Enabled": true
   },
   "140221": {
     "OriginalText": "深い闇を秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
     "Text": "Attachment part imbued with the depths of darkness.\nA model with a jewel shape that has undergone one stage of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140222": {
     "OriginalText": "深い闇を秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
     "Text": "Attachment part imbued with the depths of darkness.\nA model with a jewel shape that has undergone two stages of enhancement.",
-    "Enabled": false
+    "Enabled": true
   },
   "140223": {
     "OriginalText": "華やかな火炎表現を付ける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a flamboyant flame effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140224": {
     "OriginalText": "撃しい電撃が迸る表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds an intense lightning effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140225": {
     "OriginalText": "鋭い氷気が溢れる表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a sharp icy effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140226": {
     "OriginalText": "砂が舞い散る表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a sand scattering effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140227": {
     "OriginalText": "煌めきが舞う表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a sparkling effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140228": {
     "OriginalText": "暗い霧が覆う表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a dark mist effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140229": {
     "OriginalText": "ラッピーの羽が舞う表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a Rappy's feather effect.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140230": {
     "OriginalText": "武器に清き白い羽が舞う表現をつける\nビジュアル派向けアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
     "Text": "Attachment part that adds a pure white feather effect to the weapon.\nFor visual enthusiasts.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
-    "Enabled": false
+    "Enabled": true
   },
   "140231": {
     "OriginalText": "若葉が舞い新緑のさわやか表現をつける\n草食派向けアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part for herbivores that adds a refreshing expression of dancing young leaves and fresh greenery.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
+    "Enabled": true
   },
   "140232": {
     "OriginalText": "エネルギーが充填される\n表現をつけるアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part that adds an expression of energy being charged.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
+    "Enabled": true
   },
   "140233": {
     "OriginalText": "花が舞い春を感じる表現をつける\n乙女派向けアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part for romantics that adds an expression of dancing flowers and the feeling of spring.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
+    "Enabled": true
   },
   "140234": {
     "OriginalText": "破片が舞いワイルド感覚の表現を\nつける暑苦しいアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "A stifling attachment part that adds an expression of flying fragments and a wild sense.\n[a 03] Only one effect-type attachment part can be displayed at a time (others will become stealth) [b].",
+    "Enabled": true
   },
   "140235": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part imbued with the brilliance of flames.\nThe maximum enhancement model with a jewel shape.",
+    "Enabled": true
   },
   "140236": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part imbued with the brilliance of drama.\nThe maximum enhancement model with a jewel shape.",
+    "Enabled": true
   },
   "140237": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part imbued with the brilliance of lightning.\nThe maximum enhancement model with a jewel shape.",
+    "Enabled": true
   },
   "140238": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part imbued with the brilliance of wind.\nThe maximum enhancement model with a jewel shape.",
+    "Enabled": true
   },
   "140239": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part imbued with the brilliance of light.\nThe maximum enhancement model with a jewel shape.",
+    "Enabled": true
   },
   "140240": {
     "OriginalText": "深い闇を秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "An attachment part imbued with the depths of darkness.\nThe maximum enhancement model with a jewel shape.",
+    "Enabled": true
   },
   "140241": {
     "OriginalText": "デルタ・ヴァリアントの氷蔵庫奥深くに\n放置されていた野菜を焼いた洋。\n塩・たれ・味噌など色んな味付けがある。",
     "Text": "Roasted vegetables left deep in Delta Variant's ice storage.\nVarious seasonings such as salt, sauce, and miso are available.",
-    "Enabled": false
+    "Enabled": true
   },
   "140242": {
     "OriginalText": "デルタ・ヴァリアントの氷蔵庫奥深くに\n隠されていたお肉を焼いた洋。味付けは\nシンプルに塩。ネギと一緒に食すと美味しい。",
     "Text": "Grilled meat hidden deep in Delta Variant's ice storage.\nSeasoned simply with salt and tastes great with green onions.",
-    "Enabled": false
+    "Enabled": true
   },
   "140243": {
     "OriginalText": "いつのまにかポケットの中に入っていたもの。\n他にも片割れがありそうだ。",
     "Text": "An item that somehow ended up in your pocket.\nIt seems there might be more pieces of it.",
-    "Enabled": false
+    "Enabled": true
   },
   "140244": {
     "OriginalText": "戦艦内に落ちていたもの。\n１文字だけではないと思う。",
     "Text": "An item found inside the battleship.\nIt seems to be more than just one character.",
-    "Enabled": false
+    "Enabled": true
   },
   "140245": {
     "OriginalText": "拠点キャンプ内で拾ったもの。\n着陸の際に船外から放り出されたのであろう。\n他にもありそうだ。",
     "Text": "An item picked up inside the base camp.\nIt was probably thrown out during landing.\nThere might be more of these.",
-    "Enabled": false
+    "Enabled": true
   },
   "140246": {
     "OriginalText": "クエストゲートに引っかかっていたもの。\nちょっと汚れていたけど気にしない。\n何となく締めにふさわしい文字に感じる。",
     "Text": "An item caught in the quest gate.\nIt's a bit dirty, but that's okay.\nFeels like a fitting character for the end.",
-    "Enabled": false
+    "Enabled": true
   },
   "140247": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\nコールドスリープのカプセルの中に入っていた。",
     "Text": "A squishy-looking toy found inside a cold sleep capsule.",
-    "Enabled": false
+    "Enabled": true
   },
   "140248": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\n濯の間に狭まれていた。",
     "Text": "A squishy-looking toy found squeezed between the washroom spaces.",
-    "Enabled": false
+    "Enabled": true
   },
   "140249": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\nボールと間違って拾った。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A squishy-looking toy.\nIt was picked up by mistake, thinking it was a ball.",
+    "Enabled": true
   },
   "140250": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\n部屋の隅に落ちていた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A squishy-looking toy.\nIt was found in the corner of the room.",
+    "Enabled": true
   },
   "140251": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\n触りごこちが今にも消えそうな位に柔らかい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A squishy-looking toy.\nIts texture is so soft it feels like it might disappear at any moment.",
+    "Enabled": true
   },
   "140252": {
     "OriginalText": "黄金のリング。\nいっぱい集めたくなる不思議な輝きがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "A golden ring.\nIt has a mysterious shine that makes you want to collect many of them.",
+    "Enabled": true
   }
 }
