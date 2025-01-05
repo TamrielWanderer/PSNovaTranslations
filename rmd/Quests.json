@@ -6,8 +6,8 @@
   },
   "200024": {
     "OriginalText": "//クエスト名",
-    "Text": "",
-    "Enabled": false
+    "Text": "//Quest Name",
+    "Enabled": true
   },
   "200025": {
     "OriginalText": "移動について",
@@ -1196,8 +1196,8 @@
   },
   "201073": {
     "OriginalText": "クエスト追加メッセージ\n【201530】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Additional quest message\n【201530】",
+    "Enabled": true
   },
   "201074": {
     "OriginalText": "ハンター  Lv.80",
@@ -1221,23 +1221,23 @@
   },
   "201080": {
     "OriginalText": "クエスト名【201760】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Name【201760】",
+    "Enabled": true
   },
   "201081": {
     "OriginalText": "クエスト目標【201760】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Objective【201760】",
+    "Enabled": true
   },
   "201082": {
     "OriginalText": "失敗条件【201760】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Failure Condition【201760】",
+    "Enabled": true
   },
   "201083": {
     "OriginalText": "クエスト追加メッセージ\n【201760】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Additional Quest Message\n【201760】",
+    "Enabled": true
   },
   "201090": {
     "OriginalText": "タイムアタック・銅の荒野",
@@ -1246,13 +1246,13 @@
   },
   "201091": {
     "OriginalText": "クエスト目標【201910】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Quest Objective【201910】",
+    "Enabled": true
   },
   "201092": {
     "OriginalText": "失敗条件【201910】",
-    "Text": "",
-    "Enabled": false
+    "Text": "Failure Condition【201910】",
+    "Enabled": true
   },
   "201093": {
     "OriginalText": "クエストが追加されました。\n『タイムアタック・銅の荒野』",

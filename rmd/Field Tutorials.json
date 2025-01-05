@@ -6,1282 +6,1282 @@
   },
   "620001": {
     "OriginalText": "ギガンテスの捕獲時すぐにイグニッションを\n利用できるように、一時的に使用を制限します。\nギガンテス捕獲時に解放しますね。",
-    "Text": "",
+    "Text": "To ensure you can use Ignition immediately when capturing the Gigantes, its use is temporarily restricted.\nIt will be unlocked when the Gigantes is captured.",
     "Enabled": false
   },
   "620002": {
     "OriginalText": "ギガンテスが弱ってきた今がチャンスです！\nイグニッションの機能を解放しますので\n利用してみてください！",
-    "Text": "",
+    "Text": "Now that the Gigantes is weakened, this is your chance!\nIgnition functionality is now unlocked—try using it!",
     "Enabled": false
   },
   "620003": {
     "OriginalText": "この地域はノヴァの影響力が強すぎて\n拠点にいるギガンテスを召喚することは\n出来ないようね。気をつけなさい。",
-    "Text": "",
+    "Text": "Nova's influence is too strong in this area, so it seems summoning the Gigantes at the base isn't possible.\nBe careful.",
     "Enabled": false
   },
   "620004": {
     "OriginalText": "あ、あれ？ この地域は、拠点の\nギガンテスが呼べないようです。\nコアが近いからでしょうか？",
-    "Text": "",
+    "Text": "Huh? It seems the Gigantes at the base can't be summoned in this area.\nCould it be because the core is nearby?",
     "Enabled": false
   },
   "620005": {
     "OriginalText": "先遣隊員の生存者は絶対いるよね。\n[ruby]相棒[/ruby]、早く探しに行こう！",
-    "Text": "",
+    "Text": "There must be survivors from the advance team, right?\n[ruby]Partner[/ruby], let's go find them quickly!",
     "Enabled": false
   },
   "620006": {
     "OriginalText": "周囲にメディカルの資村を確認。\nすべて回収して帰還せよ。",
-    "Text": "",
+    "Text": "Medical supplies confirmed in the vicinity.\nCollect them all and return.",
     "Enabled": false
   },
   "620007": {
     "OriginalText": "すべての資村の回収を確認。\n帰還の許可を与える。",
-    "Text": "",
+    "Text": "All supplies have been collected.\nPermission to return is granted.",
     "Enabled": false
   },
   "620008": {
     "OriginalText": "ギガンテス・アグリオスの反応を確認。\n本任務は食村の捜索のため、交戦の必要なし。\n敵の攻撃を回避せよ。",
-    "Text": "",
+    "Text": "Gigantes Agrios detected.\nThis mission is for food supply searches; combat is unnecessary.\nAvoid enemy attacks.",
     "Enabled": false
   },
   "620009": {
     "OriginalText": "わぁぁぁ、ギガンテスが出て来ました！！\nでも、今回の任務は食村捜索ですから、\n逃げちゃいましょー！",
-    "Text": "",
+    "Text": "Oh no, the Gigantes has appeared!!\nBut this mission is for food supply searches, so let's run away!",
     "Enabled": false
   },
   "620010": {
     "OriginalText": "ギガンテス・アグリオスの回避成功を確認。\n本来の食村捜索任務に戻れ。",
-    "Text": "",
+    "Text": "Successfully avoided Gigantes Agrios.\nReturn to the original mission of food supply searches.",
     "Enabled": false
   },
   "620011": {
     "OriginalText": "あっ、ギガンテスさんが逃げていきますね。\n皆さんご無事でよかったです。\n通常任務もお気をつけて。",
-    "Text": "",
+    "Text": "Ah, the Gigantes is running away.\nI'm glad everyone is safe.\nPlease take care during your regular missions too.",
     "Enabled": false
   },
   "620012": {
     "OriginalText": "あの、丸っこいヤツを倒さないと\n先に進めないみたいだな。\nおっしゃ、いっちょやるぜっ！",
-    "Text": "",
+    "Text": "It seems we can't move forward without defeating that round one.\nAlright, let's do this!",
     "Enabled": false
   },
   "620013": {
     "OriginalText": "へへっ、これで先に進めるな！\nほらっ、早く行くぞ！",
-    "Text": "",
+    "Text": "Heh, now we can move forward!\nCome on, let's go quickly!",
     "Enabled": false
   },
   "620014": {
     "OriginalText": "イズナの言うとおり、\n１体ずつ倒すしか道はねぇ。\nもう１体に気づかれる前に倒すぞ！",
-    "Text": "",
+    "Text": "Just like Izuna said,\nwe have no choice but to defeat them one by one.\nTake it down before the other one notices us!",
     "Enabled": false
   },
   "620015": {
     "OriginalText": "よっしゃー！\n２体とも倒したぜっ！",
-    "Text": "",
+    "Text": "Alright! Took down both of them!",
     "Enabled": false
   },
   "620016": {
     "OriginalText": "おっし、ここはオレが先導してやるか。\nまずは、目の前のダーカーを\nぶっ倒していくぞ。",
-    "Text": "",
+    "Text": "Alright, I'll take the lead here.\nFirst, let's take down the Darker in front of us.",
     "Enabled": false
   },
   "620017": {
     "OriginalText": "おっ、殲滅したか。\nそのまま先に進むぞ。",
-    "Text": "",
+    "Text": "Oh, it's been wiped out.\nLet's move forward.",
     "Enabled": false
   },
   "620018": {
     "OriginalText": "んっ？ なかなか特訓に\nおあつらえ向きのヤツがいるじゃねぇか。\nあいつを倒して先へ進むぞ。",
-    "Text": "",
+    "Text": "Huh? There's one that's perfect for training.\nLet's take it down and move forward.",
     "Enabled": false
   },
   "620019": {
     "OriginalText": "なかなかの戦いっぷりだ！\nまだまだ先に行くぜ！",
-    "Text": "",
+    "Text": "Impressive fighting style!\nWe're still going further ahead!",
     "Enabled": false
   },
   "620020": {
     "OriginalText": "ここで見ててやるから\nお前さん達頑張れよ！",
-    "Text": "",
+    "Text": "I'll watch from here,\nso you guys do your best!",
     "Enabled": false
   },
   "620021": {
     "OriginalText": "いい動きだ。\nまだ終わりじゃないぞ。\n先へ進め。",
-    "Text": "",
+    "Text": "Good moves.\nIt's not over yet.\nKeep going forward.",
     "Enabled": false
   },
   "620022": {
     "OriginalText": "悪くないペースだ。\n続けていけ！",
-    "Text": "",
+    "Text": "Not a bad pace.\nKeep it up!",
     "Enabled": false
   },
   "620023": {
     "OriginalText": "おっ、いつの間にやら、\nこの周辺のエネミーは\nすっかり殲滅しちまったか？",
-    "Text": "",
+    "Text": "Oh, have the enemies around here\nbeen completely wiped out before we knew it?",
     "Enabled": false
   },
   "620024": {
     "OriginalText": "ヒュペリオンさんのお話ではこのあたりに\nチーズの村料のエネミーがいるそうです。\n早く見つけてケーキ作りを始めましょう！",
-    "Text": "",
+    "Text": "According to Hyperion, there are enemies around here\nwith cheese ingredients.\nLet's find them quickly and start making the cake!",
     "Enabled": false
   },
   "620025": {
     "OriginalText": "これでクリームチーズは作れそうですね！\n艦長が手龍ってくれたおかげです。\nありがとうごいます！",
-    "Text": "",
+    "Text": "Now we can probably make cream cheese!\nThanks to the Captain's help.\nThank you so much!",
     "Enabled": false
   },
   "620026": {
     "OriginalText": "これは倒さないと先に進めないかも？\nアロナガーダに警戒しながら\nいっくわよ！",
-    "Text": "",
+    "Text": "We might not be able to move forward unless we defeat this?\nStay cautious of Alonagarda—let's go!",
     "Enabled": false
   },
   "620027": {
     "OriginalText": "これで先に進めるね！",
-    "Text": "",
+    "Text": "Now we can move forward!",
     "Enabled": false
   },
   "620028": {
     "OriginalText": "やっぱりナックルだとテンション\n上がっちゃうな！\n次もどんどんやっちゃうよ！",
-    "Text": "",
+    "Text": "Using knuckles really gets me pumped!\nI'll keep going for the next one too!",
     "Enabled": false
   },
   "620029": {
     "OriginalText": "よっし、次だよ、次！",
-    "Text": "",
+    "Text": "Alright, next one, next!",
     "Enabled": false
   },
   "620030": {
     "OriginalText": "やっぱり実煙とゲームじゃ\n身体の動かし方が違うよね！\n次も決めちゃうよ！",
-    "Text": "",
+    "Text": "It's true that moving your body is different in real combat compared to games!\nI'll nail the next one too!",
     "Enabled": false
   },
   "620031": {
     "OriginalText": "後ろの赤いのはムシムシ！\nどんどん倒して先に進むよ！",
-    "Text": "",
+    "Text": "Ignore the red ones in the back!\nKeep defeating them and move forward!",
     "Enabled": false
   },
   "620032": {
     "OriginalText": "あれ？ アロナガーダとの\n距離温まってる？\n急いで倒さなきゃっ！！",
-    "Text": "",
+    "Text": "Huh? Is the distance between us and Alonagarda closing?\nWe need to defeat it quickly!!",
     "Enabled": false
   },
   "620033": {
     "OriginalText": "追いつかれないように\n急いで、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Hurry up so we don't get caught, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620034": {
     "OriginalText": "あっ、あれ？\nやっぱりフォースの時の癖が抜けないな。\n打つべし、打つべし！",
-    "Text": "",
+    "Text": "Oh, huh?\nI guess I still have habits from when I was a Force.\nKeep punching, keep punching!",
     "Enabled": false
   },
   "620035": {
     "OriginalText": "うん、何とか倒せたね、\nアロナガーダに追いつかれないように\n先を急ごっ！",
-    "Text": "",
+    "Text": "Alright, we managed to defeat it.\nLet's hurry ahead before Alonagarda catches up!",
     "Enabled": false
   },
   "620036": {
     "OriginalText": "えっと、回復……じゃなくて\n攻撃、攻撃！\n次も先制攻撃！！",
-    "Text": "",
+    "Text": "Uh, healing... no, attack, attack!\nLet's go for another preemptive strike next!",
     "Enabled": false
   },
   "620037": {
     "OriginalText": "まだ、回復は大丈夫だよね。\n先に進むよ！",
-    "Text": "",
+    "Text": "We don't need healing yet, right?\nLet's keep moving forward!",
     "Enabled": false
   },
   "620038": {
     "OriginalText": "ん、疲れて来ちゃった？ [ruby]相棒[/ruby]が疲れても、\nあたしが引っ張ってあげるから、安心してよ！\nさっ、どんどん倒すよ！",
-    "Text": "",
+    "Text": "Hmm, getting tired? Even if you get tired, [ruby]Partner[/ruby], I'll pull you along, so don't worry!\nCome on, let's keep taking them down!",
     "Enabled": false
   },
   "620039": {
     "OriginalText": "あのさ……\nあたしが疲れた時は\n[ruby]相棒[/ruby]が引っ張っててくれる？",
-    "Text": "",
+    "Text": "Hey...\nIf I get tired, will you pull me along, [ruby]Partner[/ruby]?",
     "Enabled": false
   },
   "620040": {
     "OriginalText": "ううん、これじゃダメだ！\n[ruby]相棒[/ruby]に頼られるようにならなきゃ\nいけないんだから、次、いっくわよ！",
-    "Text": "",
+    "Text": "No, this won't do!\nI need to be someone [ruby]Partner[/ruby] can rely on.\nAlright, let's go to the next one!",
     "Enabled": false
   },
   "620041": {
     "OriginalText": "あたしだってちゃんとアークスとして\nやっていけるってとこ見せなきゃ！\nほらっ、先、進めるよ！",
-    "Text": "",
+    "Text": "I need to show that I can handle being an ARKS properly too!\nCome on, let's move forward!",
     "Enabled": false
   },
   "620042": {
     "OriginalText": "そろそろ終点に近づいてるかな？\nもうひと踏ん張りいきますか？",
-    "Text": "",
+    "Text": "Are we getting close to the end point?\nShall we push through one more effort?",
     "Enabled": false
   },
   "620043": {
     "OriginalText": "道が開けたー！\nいっくわよ、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "The path is clear!\nLet's go, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620044": {
     "OriginalText": "あ、あれ？ あの赤いのは相手するのは\n面倒そうだね？\n避けながら先に進もうよ！",
-    "Text": "",
+    "Text": "Huh, what? Dealing with that red one looks like a hassle.\nLet's avoid it and move forward!",
     "Enabled": false
   },
   "620045": {
     "OriginalText": "大尖塔、踏破！\nってなんかすごくおっきいのがっ！！",
-    "Text": "",
+    "Text": "Great Spire cleared!\nWait, there's something really huge!!",
     "Enabled": false
   },
   "620046": {
     "OriginalText": "ギガンテスが拠点に迫ってきているらしい。\n何としてもここで食い止めるぜ！",
-    "Text": "",
+    "Text": "It seems the Gigantes is approaching the base.\nWe must stop it here no matter what!",
     "Enabled": false
   },
   "620047": {
     "OriginalText": "ギガンテスのヤツが来やがった！\nオレとお前がいる限り、\nこれ似上先には進ませねえぜ！",
-    "Text": "",
+    "Text": "The Gigantes has come!\nAs long as you and I are here, it won't get past this point!",
     "Enabled": false
   },
   "620048": {
     "OriginalText": "おっし、拠点は無事だな。\nまぁ、オレとお前がいて守りきれない\n訳がないよな！",
-    "Text": "",
+    "Text": "Alright, the base is safe.\nWell, with you and me here, there's no way we wouldn't protect it!",
     "Enabled": false
   },
   "620049": {
     "OriginalText": "くそっ！ 守り切れなかったか。\nここから先は他の部隊に任せて\nオレ達は帰還するか……。",
-    "Text": "",
+    "Text": "Damn it! We couldn't protect it.\nShould we leave the rest to the other squads and return?",
     "Enabled": false
   },
   "620050": {
     "OriginalText": "周囲のエネミーを倒さないと\n宝石が回収できそうにないですね。\n倒して回収しましょう！",
-    "Text": "",
+    "Text": "We can't seem to retrieve the jewels without defeating the surrounding enemies.\nLet's defeat them and collect the jewels!",
     "Enabled": false
   },
   "620051": {
     "OriginalText": "これで安全に宝石が回収できそうです。",
-    "Text": "",
+    "Text": "Now it seems we can safely retrieve the jewels.",
     "Enabled": false
   },
   "620052": {
     "OriginalText": "また、エネミーです。\n倒してから、宝石を回収です。",
-    "Text": "",
+    "Text": "More enemies.\nDefeat them first, then collect the jewels.",
     "Enabled": false
   },
   "620053": {
     "OriginalText": "宝石を回収しましょう！",
-    "Text": "",
+    "Text": "Let's collect the jewels!",
     "Enabled": false
   },
   "620054": {
     "OriginalText": "早くエネミーを倒してしまいましょう！\nせっかくの手がかりをエネミーに\n壊されては困りますから！",
-    "Text": "",
+    "Text": "Let's quickly defeat the enemies!\nWe can't let them destroy the valuable clues!",
     "Enabled": false
   },
   "620055": {
     "OriginalText": "これで無事、宝石の\n回収ができそうです。",
-    "Text": "",
+    "Text": "Now it looks like we can safely collect the jewels.",
     "Enabled": false
   },
   "620056": {
     "OriginalText": "この宝石の情報がこの惑星\n脱出の手がかりになるはずです。\nエネミーを倒して進みましょう！",
-    "Text": "",
+    "Text": "The information about this jewel should provide a clue for escaping this planet.\nDefeat the enemies and move forward!",
     "Enabled": false
   },
   "620057": {
     "OriginalText": "宝石を回収しますよ。",
-    "Text": "",
+    "Text": "Let's collect the jewels.",
     "Enabled": false
   },
   "620058": {
     "OriginalText": "ずいぶん大きなエネミーが\n出て来ましたね。\nでも、逃げるわけにはいきません！",
-    "Text": "",
+    "Text": "A rather large enemy has appeared.\nBut we can't run away!",
     "Enabled": false
   },
   "620059": {
     "OriginalText": "かなり多くのことが分かってきましたね。\n回収に向かいましょう！",
-    "Text": "",
+    "Text": "We've learned quite a lot now.\nLet's move on to collect!",
     "Enabled": false
   },
   "620060": {
     "OriginalText": "この周辺には宝石はなさそうですね。\n先に進みませんか？",
-    "Text": "",
+    "Text": "There don't seem to be any jewels in this area.\nShall we move forward?",
     "Enabled": false
   },
   "620061": {
     "OriginalText": "この周辺にも宝石がありそうです。\nシャロンさんの調査ではあと\n４つくらいあると思うのですが……。",
-    "Text": "",
+    "Text": "There seems to be more jewels in this area.\nAccording to Sharon's survey, there should be about four more...",
     "Enabled": false
   },
   "620062": {
     "OriginalText": "う～ん？ この建洋は他とは違うね。\n壁の隙間から中に入れそうだよ。\n調べてみようか？",
-    "Text": "",
+    "Text": "Hmm? This structure is different from the others.\nIt looks like we can get inside through the gaps in the walls.\nShall we check it out?",
     "Enabled": false
   },
   "620063": {
     "OriginalText": "目の前の建洋の調査を依頼する。（次のイベントへつながるように）",
-    "Text": "",
+    "Text": "Requesting an investigation of the structure ahead. (Leads to the next event)",
     "Enabled": false
   },
   "620064": {
     "OriginalText": "事前の噴出口調査のために\n観測ポッドを散霜してある。\nデータの回収を依頼する。",
-    "Text": "",
+    "Text": "Observation pods have been scattered for preliminary vent investigation.\nRequesting data collection.",
     "Enabled": false
   },
   "620065": {
     "OriginalText": "えっと、パイルを撃つために、観測ポッドの\n情報が必要なようです。\n回収しながら現場へ向かってもらえますか？",
-    "Text": "",
+    "Text": "Um, it seems observation pod data is needed to fire the pile.\nCould you collect it while heading to the site?",
     "Enabled": false
   },
   "620066": {
     "OriginalText": "観測ポッドのデータ回収を確認。\n引き続き、大型パイルの\n誘導ポイントへ向かえ。",
-    "Text": "",
+    "Text": "Observation pod data collection confirmed.\nContinue heading to the large pile guidance point.",
     "Enabled": false
   },
   "620067": {
     "OriginalText": "観測ポッドの情報を確認しました！\nでは、大型パイルの誘導ポイントへ\n向かってください。",
-    "Text": "",
+    "Text": "Observation pod information confirmed!\nNow, please proceed to the large pile guidance point.",
     "Enabled": false
   },
   "620068": {
     "OriginalText": "大型パイル誘導ポイントにギガンテスの\n反応を確認。パイルの発射不可と判断。\n早急に撃破を要請する。",
-    "Text": "",
+    "Text": "Gigantes detected at the large pile guidance point.\nFiring the pile deemed impossible.\nRequesting immediate elimination.",
     "Enabled": false
   },
   "620069": {
     "OriginalText": "ギガンテスが邪魔して、大型パイルが\n撃てそうにありません！\n倒していただくことは出来ますか？！",
-    "Text": "",
+    "Text": "The Gigantes is interfering, and it seems the large pile can't be fired!\nCould you take it down for us?!",
     "Enabled": false
   },
   "620070": {
     "OriginalText": "ギガンテスの撃破を確認。\n喜ぶのもいいけど\nパイル誘導の準備に備えるのも忘れずにね。",
-    "Text": "",
+    "Text": "Gigantes defeated.\nIt's fine to celebrate, but don't forget to prepare for the pile guidance.",
     "Enabled": false
   },
   "620071": {
     "OriginalText": "ありがとうごいます！\nこれで大型パイルの発射ができそうです！\nでは、皆さん誘導準備をお願いしますね。",
-    "Text": "",
+    "Text": "Thank you so much!\nNow it seems we can fire the large pile!\nEveryone, please prepare for the guidance.",
     "Enabled": false
   },
   "620072": {
     "OriginalText": "噴出口へのルート上に\nエネミーの反応を確認。\n即時対処を要請する。",
-    "Text": "",
+    "Text": "Enemy presence detected along the route to the vent.\nRequesting immediate action.",
     "Enabled": false
   },
   "620073": {
     "OriginalText": "噴出口までの道に立ちふさがっている子が\nいるようです。\n倒して先に進めますか？",
-    "Text": "",
+    "Text": "It seems there's something blocking the path to the vent.\nCan you take it down and move forward?",
     "Enabled": false
   },
   "620074": {
     "OriginalText": "ルートの確保を確認。\n誘導ポイントへの進行を指示。",
-    "Text": "",
+    "Text": "Route secured.\nProceed to the guidance point.",
     "Enabled": false
   },
   "620075": {
     "OriginalText": "エネミーの撃破を確認しました！\nよかった、これで先へ進めそうですね。",
-    "Text": "",
+    "Text": "Enemy defeated!\nGreat, now it looks like we can move forward.",
     "Enabled": false
   },
   "620076": {
     "OriginalText": "ギガンテスの反応を確認。\n大型パイル発射不可。\n速やかに排除を！",
-    "Text": "",
+    "Text": "Gigantes detected.\nLarge pile cannot be fired.\nEliminate it immediately!",
     "Enabled": false
   },
   "620077": {
     "OriginalText": "あぁぁ、また、ギガンテスがっ！\nすみません、大型パイルが撃てないので\n倒してもらえますか？",
-    "Text": "",
+    "Text": "Ahh, it's the Gigantes again!\nSorry, we can't fire the large pile, so could you defeat it?",
     "Enabled": false
   },
   "620078": {
     "OriginalText": "ギガンテスの排除を確認。\nこれで大型パイルの発射ができそうね。",
-    "Text": "",
+    "Text": "Gigantes eliminated.\nNow it looks like we can fire the large pile.",
     "Enabled": false
   },
   "620079": {
     "OriginalText": "ギガンテスの撃破を確認しました！\nみなさん、ご無事なようで良かった！\n大型パイルの発射準備を進めますね。",
-    "Text": "",
+    "Text": "Gigantes defeated!\nI'm glad everyone is safe!\nWe'll proceed with the preparation to fire the large pile.",
     "Enabled": false
   },
   "620080": {
     "OriginalText": "噴出口へのルート上に\nエネミーの反応あり。排除に向かえ！",
-    "Text": "",
+    "Text": "Enemy detected on the route to the vent.\nProceed to eliminate it!",
     "Enabled": false
   },
   "620081": {
     "OriginalText": "エネミーの反応を確認しました！\nこれは噴出口へ向かうのに邪魔に\nなりそうです。",
-    "Text": "",
+    "Text": "Enemy detected!\nThis will likely hinder the path to the vent.",
     "Enabled": false
   },
   "620082": {
     "OriginalText": "ルートクリアを確認。\n引き続き先へ進行せよ！",
-    "Text": "",
+    "Text": "Route cleared.\nContinue moving forward!",
     "Enabled": false
   },
   "620083": {
     "OriginalText": "噴出口へのルートが\n確保されました。\n先へ進みましょう！",
-    "Text": "",
+    "Text": "The route to the vent has been secured.\nLet's move forward!",
     "Enabled": false
   },
   "620084": {
     "OriginalText": "レイヴァンは何を考えているの……。\nひとまず今はギガンテスの撃破を\n優先なさい！",
-    "Text": "",
+    "Text": "What is Raven thinking...?\nFor now, prioritize defeating the Gigantes!",
     "Enabled": false
   },
   "620085": {
     "OriginalText": "レイヴァンさん……。\n落ち込んでいる場合ではありませんね。\nギガンテスの撃破をお願いします。",
-    "Text": "",
+    "Text": "Raven...\nThis isn't the time to be feeling down.\nPlease take down the Gigantes.",
     "Enabled": false
   },
   "620086": {
     "OriginalText": "ギガンテスの反応消失。\n大型パイルの誘導をして\n早く帰って来なさい。",
-    "Text": "",
+    "Text": "Gigantes signal has disappeared.\nGuide the large pile and return quickly.",
     "Enabled": false
   },
   "620087": {
     "OriginalText": "大型パイルの発射ができるようになりました。\nすぐに準備するので、早く帰って\nきてくださいね。",
-    "Text": "",
+    "Text": "The large pile is ready to fire.\nWe'll prepare immediately, so please come back quickly.",
     "Enabled": false
   },
   "620088": {
     "OriginalText": "もう、先に進みたいのにぃ！\n[ruby]相棒[/ruby]、早く倒して先に進むよ！",
-    "Text": "",
+    "Text": "Ugh, I just want to move forward already!\n[ruby]Partner[/ruby], hurry up and defeat it so we can proceed!",
     "Enabled": false
   },
   "620089": {
     "OriginalText": "よっし！ 先に進むよ！\n待っててね、ユノ……！",
-    "Text": "",
+    "Text": "Alright! Let's move forward!\nWait for me, Yuno...!",
     "Enabled": false
   },
   "620090": {
     "OriginalText": "ふぅ、やっと倒せた……！\n塔の最上階はもうすぐたよ！",
-    "Text": "",
+    "Text": "Phew, we finally defeated it...!\nThe top of the tower is just ahead!",
     "Enabled": false
   },
   "620091": {
     "OriginalText": "これもレイヴァンの……\nいえ、ノヴァの意志でしょうか？\n倒して先に進むしかないようです！",
-    "Text": "",
+    "Text": "Is this Raven's... no, Nova's will?\nIt seems we have no choice but to defeat it and move forward!",
     "Enabled": false
   },
   "620092": {
     "OriginalText": "これで先に進めそうです。\n皆さん、ついてきてください！",
-    "Text": "",
+    "Text": "Now it looks like we can move forward.\nEveryone, follow me!",
     "Enabled": false
   },
   "620093": {
     "OriginalText": "ノヴァを止めることは、かつてこの地に\nいたすべての人の願いです。\nこんなところでは止まれません！",
-    "Text": "",
+    "Text": "Stopping Nova is the wish of everyone who once lived here.\nWe can't stop in a place like this!",
     "Enabled": false
   },
   "620094": {
     "OriginalText": "急ぎましょう！\n覚酷の時まで時間がありません！",
-    "Text": "",
+    "Text": "Let's hurry!\nThere isn't much time until the Awakening!",
     "Enabled": false
   },
   "620095": {
     "OriginalText": "やっと使命を果たせる時が来たのです。\nまだ諦めるわけにはいきません。\nみなさん、力を貸してください。",
-    "Text": "",
+    "Text": "The time has finally come to fulfill our mission.\nWe can't give up just yet.\nEveryone, please lend me your strength.",
     "Enabled": false
   },
   "620096": {
     "OriginalText": "先へ進みましょう！\nきっとレイヴァンはこの先にいます！",
-    "Text": "",
+    "Text": "Let's move forward!\nRaven must be ahead!",
     "Enabled": false
   },
   "620097": {
     "OriginalText": "ここが防衛ラインだ。\n突破される前にギガンテスを\n撃破する、分かっているな。",
-    "Text": "",
+    "Text": "This is the defense line.\nWe must defeat the Gigantes before it breaks through, understood?",
     "Enabled": false
   },
   "620098": {
     "OriginalText": "目標はアレだな。\n防衛ラインの突破を阻止するぞ。",
-    "Text": "",
+    "Text": "That's the target.\nWe'll stop it from breaking through the defense line.",
     "Enabled": false
   },
   "620099": {
     "OriginalText": "防衛ラインは守られた。\n悪くない仕事だった。",
-    "Text": "",
+    "Text": "The defense line was secured.\nNot a bad job.",
     "Enabled": false
   },
   "620100": {
     "OriginalText": "くっ、防衛ラインを突破されたか。\n一旦、拠点に戻って体制を\n立て直す必要があるな。",
-    "Text": "",
+    "Text": "Damn, the defense line has been breached.\nWe need to return to base and reorganize.",
     "Enabled": false
   },
   "620101": {
     "OriginalText": "ほほおっ、\nこの先の方からまだ見ぬ食村の\n香りがぷんぷんしておりますぞ！",
-    "Text": "",
+    "Text": "Hoho! From ahead, I can smell the tantalizing aroma of an unknown delicacy!",
     "Enabled": false
   },
   "620102": {
     "OriginalText": "これですぞ、艦長！\nふふん、灸醇で刺撃的な香り。\nこんな食村見たことありませんぞ！",
-    "Text": "",
+    "Text": "Here it is, Captain!\nHah, such a rich and stimulating aroma.\nI've never encountered such a delicacy before!",
     "Enabled": false
   },
   "620103": {
     "OriginalText": "むっ、あのエネミーは\nおいしくなさそうですな。\n艦長、さくっと倒しちゃってください。",
-    "Text": "",
+    "Text": "Hmm, that enemy doesn't look appetizing.\nCaptain, please take it down swiftly.",
     "Enabled": false
   },
   "620104": {
     "OriginalText": "[ruby わたくし]私[/ruby]の食村探究の志の前には\n敵なしですぞ！",
-    "Text": "",
+    "Text": "Before my quest for culinary discoveries, no enemy stands a chance!",
     "Enabled": false
   },
   "620105": {
     "OriginalText": "またまた、お邪魔βですな。\n[ruby わたくし]私[/ruby]が「とう！」「ばーん！」「じゃーん！」と\nやっつけてしまいますぞ！",
-    "Text": "",
+    "Text": "Oh dear, another intruder!\nI'll take care of it with a 'toh!' 'bang!' and 'ta-da!'!",
     "Enabled": false
   },
   "620106": {
     "OriginalText": "さすが艦長！\nこの程度のエネミーは\n朝咲前ってヤツですな。",
-    "Text": "",
+    "Text": "As expected of the Captain!\nEnemies of this level are mere warm-ups.",
     "Enabled": false
   },
   "620107": {
     "OriginalText": "オレの行く手を遮るヤツは……\nなーんちゃって！\nサクサク倒して先に進みますぞ！",
-    "Text": "",
+    "Text": "Anyone standing in my way is... just kidding!\nLet's swiftly take them down and move forward!",
     "Enabled": false
   },
   "620108": {
     "OriginalText": "食村は目と鼻の先ですぞ！\n未知なる食村とのご対面といきましょう！",
-    "Text": "",
+    "Text": "The delicacy is just within reach!\nLet's meet this unknown culinary delight!",
     "Enabled": false
   },
   "620109": {
     "OriginalText": "観測伝置でこの周辺をスキャンした際に\nいくつもの未知の反応を検知したのです。\n一緒に探してもらえますか？",
-    "Text": "",
+    "Text": "During a scan of this area with the observation device,\nseveral unknown signals were detected.\nCould you help search for them?",
     "Enabled": false
   },
   "620110": {
     "OriginalText": "これですべて集まりました！\n早くラボに戻って検証をしたいですね。",
-    "Text": "",
+    "Text": "That's everything collected!\nLet's head back to the lab quickly to analyze it.",
     "Enabled": false
   },
   "620111": {
     "OriginalText": "んー、んー、んー。\nやはりあのドラゴンを倒さないことには\n回収は難しそうですね。倒しましょう！",
-    "Text": "",
+    "Text": "Hmm, hmm, hmm.\nIt seems we really need to defeat that dragon\nbefore we can collect anything. Let's take it down!",
     "Enabled": false
   },
   "620112": {
     "OriginalText": "ありがとうごいます。\n艦長のおかげで回収できそうです。",
-    "Text": "",
+    "Text": "Thank you.\nThanks to the Captain, we should be able to complete the collection.",
     "Enabled": false
   },
   "620113": {
     "OriginalText": "また、ドラゴンですか？！\n倒すしかありませんね。",
-    "Text": "",
+    "Text": "Another dragon?!\nWe have no choice but to defeat it.",
     "Enabled": false
   },
   "620114": {
     "OriginalText": "回収に向かいましょう。\nそれにしても、あの反応とドラゴンには\n何か関わりがあるのかもしれませんね。",
-    "Text": "",
+    "Text": "Let's head for the collection.\nStill, there might be some connection between that signal and the dragon.",
     "Enabled": false
   },
   "620115": {
     "OriginalText": "この惑星特有の鉱洋の反応を検知したんだが、\n壁で道がふさがれてるらしい。\nどうしたもんだろうな……。",
-    "Text": "",
+    "Text": "I detected a reaction from this planet's unique minerals,\nbut it seems the path is blocked by a wall.\nWhat should we do...",
     "Enabled": false
   },
   "620116": {
     "OriginalText": "へへっ、さすがだぜ、艦長！\nこんな鉱洋見たことないぜ！",
-    "Text": "",
+    "Text": "Heh, as expected of you, Captain!\nI've never seen minerals like these!",
     "Enabled": false
   },
   "620117": {
     "OriginalText": "そうか……あのギガンテスを\n利用して、壁を破壊すれば進める！\n艦長、手龍ってくれ！",
-    "Text": "",
+    "Text": "I see... if we use that Gigantes to break the wall, we can move forward!\nCaptain, lend me a hand!",
     "Enabled": false
   },
   "620118": {
     "OriginalText": "任務内容は、最深部の調査か……。\nよし、せっかくだ、時間制限を付けて\n最深部まで到達する訓練にするか？！",
-    "Text": "",
+    "Text": "The mission is to investigate the deepest part, huh...\nAlright, let's make it a training exercise by adding a time limit to reach the depths!",
     "Enabled": false
   },
   "620119": {
     "OriginalText": "おおっ、さすがだな、艦長！\nこの制限時間でクリアできるとは\n思ってなかったぜ！",
-    "Text": "",
+    "Text": "Whoa, as expected of you, Captain!\nI didn't think you'd clear it within the time limit!",
     "Enabled": false
   },
   "620120": {
     "OriginalText": "むっ、さすがに制限時間が短すぎたか……。\nまぁ、エネミーは倒せたんだし、\nいいんじゃないか？",
-    "Text": "",
+    "Text": "Hmm, maybe the time limit was too short...\nBut we defeated the enemies, so it's fine, right?",
     "Enabled": false
   },
   "620121": {
     "OriginalText": "おっ、こいつは倒して先に進む必要が\nありそうだな。\n時間もないことだし、さっさと倒すぞ！",
-    "Text": "",
+    "Text": "Oh, it looks like we need to defeat this one to move forward.\nWe don't have much time, so let's take it down quickly!",
     "Enabled": false
   },
   "620122": {
     "OriginalText": "喜んでる暇はないぞ！\nまだまだ先は長いんだ。",
-    "Text": "",
+    "Text": "There's no time to celebrate!\nThe road ahead is still long.",
     "Enabled": false
   },
   "620123": {
     "OriginalText": "エネミーの撃破も任務の内だ。\n倒してから先に進むぞ！",
-    "Text": "",
+    "Text": "Defeating enemies is part of the mission.\nTake them down and move forward!",
     "Enabled": false
   },
   "620124": {
     "OriginalText": "インターバルにはまだ早いんじゃないか？\n時間は待っちゃくれないぜ！",
-    "Text": "",
+    "Text": "Isn't it too early for a break?\nTime won't wait for us!",
     "Enabled": false
   },
   "620125": {
     "OriginalText": "まだ、時間は残ってるぜ\n諦めず、倒して進むぞ。",
-    "Text": "",
+    "Text": "We still have time left.\nDon't give up—defeat them and move on.",
     "Enabled": false
   },
   "620126": {
     "OriginalText": "もうひと踏ん張りってところだな。\n先へ進むぞ！",
-    "Text": "",
+    "Text": "Just one more push.\nLet's move forward!",
     "Enabled": false
   },
   "620127": {
     "OriginalText": "おっと、そう簡単にはゴール\nできないってことだな。\n急いで倒して先に進むぞ！",
-    "Text": "",
+    "Text": "Oh, so it's not going to be that easy to reach the goal.\nHurry up, take them down, and move forward!",
     "Enabled": false
   },
   "620128": {
     "OriginalText": "最深部はもうすぐだ。\n最後まで走りきれよ。",
-    "Text": "",
+    "Text": "The deepest part is just ahead.\nPush through to the end.",
     "Enabled": false
   },
   "620129": {
     "OriginalText": "おっ、さっそくおもしろそうな\nヤツが出てきたな！\nおい、新鋭！ 準備は万全だろうな！",
-    "Text": "",
+    "Text": "Oh, something interesting has shown up already!\nHey, rookie! You're ready, aren't you?",
     "Enabled": false
   },
   "620130": {
     "OriginalText": "まだ出て来やがった！\n新鋭、出遅れるんじゃねえぞ！",
-    "Text": "",
+    "Text": "Another one has appeared!\nRookie, don't fall behind!",
     "Enabled": false
   },
   "620131": {
     "OriginalText": "おっと、今度は２体同時か？\nわるくねぇな！\n一気に行くぜ！",
-    "Text": "",
+    "Text": "Oh, two at the same time this time?\nNot bad!\nLet's take them down in one go!",
     "Enabled": false
   },
   "620132": {
     "OriginalText": "次が表れたようだな！\n本当に楽しいところだぜ、この[ruby ほし]惑星[/ruby]は！",
-    "Text": "",
+    "Text": "Looks like the next one has appeared!\nThis [ruby ほし]planet[/ruby] is such a fun place!",
     "Enabled": false
   },
   "620133": {
     "OriginalText": "おっし、また出て来やがったな。\n一気に撃破してやるぜ！",
-    "Text": "",
+    "Text": "Alright, another one showed up.\nLet's take it down in one strike!",
     "Enabled": false
   },
   "620134": {
     "OriginalText": "あ、あれ？ これで終わりか？\nとりあえず、周囲に危険はなさそうだし\nあの場所に向かうか？",
-    "Text": "",
+    "Text": "Huh, is that it?\nFor now, it doesn't seem like there's any danger nearby.\nShall we head to that spot?",
     "Enabled": false
   },
   "620135": {
     "OriginalText": "おっし、ギガンテスをぶっ倒して\nあの場所に立って見せろ！ \nもちろん、制限時間付きだ！",
-    "Text": "",
+    "Text": "Alright, take down the Gigantes and make it to that spot!\nOf course, with a time limit!",
     "Enabled": false
   },
   "620136": {
     "OriginalText": "おっし、これでトレーニン……\nいや、デートは終わりだ！\n楽しすぎて、終わるのが名残憎しいな。",
-    "Text": "",
+    "Text": "Alright, that wraps up the trainin—\nI mean, the date!\nIt was so much fun, I almost don't want it to end.",
     "Enabled": false
   },
   "620137": {
     "OriginalText": "う～ん？ 時間制限が厳しすぎたか？\nお前なら、もっとできる思うんだがな。",
-    "Text": "",
+    "Text": "Hmm? Was the time limit too strict?\nI think you can do even better.",
     "Enabled": false
   },
   "620138": {
     "OriginalText": "アグリオスＰ型は、近接攻撃に\n特化しているとの報告あり。\n警戒を怠らぬよう。",
-    "Text": "",
+    "Text": "Reports indicate that the Agrios P-Type specializes in close-range attacks.\nStay vigilant.",
     "Enabled": false
   },
   "620139": {
     "OriginalText": "あのアグリオスＰ型は、近接攻撃が\nとても強いらしいです！\n皆さん、近づく際は気を付けて！",
-    "Text": "",
+    "Text": "That Agrios P-Type seems to have very strong close-range attacks!\nEveryone, be cautious when approaching!",
     "Enabled": false
   },
   "620140": {
     "OriginalText": "ふぅぅ～、暴れたー！\n付き合ってくれてありがと、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Phew, that was wild!\nThanks for sticking with me, [ruby]partner[/ruby]!",
     "Enabled": false
   },
   "620141": {
     "OriginalText": "これからヘイロウの訓練を開始します。",
-    "Text": "",
+    "Text": "We will now begin the Halo training.",
     "Enabled": false
   },
   "620142": {
     "OriginalText": "武器を[a 07]ヘイロウに持ち替えて[b]\nＧＡ「リングフィールド」を\n展開してください。",
-    "Text": "",
+    "Text": "Switch your weapon to [a 07]Halo[b] and deploy the GA 'Ring Field.'",
     "Enabled": false
   },
   "620143": {
     "OriginalText": "足場の作成は出来ましたか？\n足場の真下へ移動し、[a 07]立ち止まって[b][f 76][a 07]を押す[b]と\n足場の上に乗り移ることが出来ます。",
-    "Text": "",
+    "Text": "Have you created the platform?\nMove directly below it, stop moving, and press [a 07][f 76][b] to jump onto the platform.",
     "Enabled": false
   },
   "620144": {
     "OriginalText": "これでヘイロウの訓練は終了です。\n実煙でもうまく使いこなしてください。",
-    "Text": "",
+    "Text": "This concludes the Halo training.\nMake sure to use it effectively in real combat.",
     "Enabled": false
   },
   "620145": {
     "OriginalText": "強力なエネミーの出現を確認。\n今作戦において標的との戦闘の必要はない。\n制限時間を耐え抜け。",
-    "Text": "",
+    "Text": "A powerful enemy has appeared.\nEngaging the target is not necessary for this mission.\nSurvive until the time limit.",
     "Enabled": false
   },
   "620146": {
     "OriginalText": "すごく強そうなエネミーがいます！！\n今は戦う必要はなさそうなので\n制限時間まで逃げてください！",
-    "Text": "",
+    "Text": "There's a really strong-looking enemy!!\nIt doesn't seem necessary to fight now,\nso run until the time limit!",
     "Enabled": false
   },
   "620147": {
     "OriginalText": "状況の改善を確認。\n通常任務への移行を指示。",
-    "Text": "",
+    "Text": "Situation improvement confirmed.\nProceed with regular missions.",
     "Enabled": false
   },
   "620148": {
     "OriginalText": "ふぅ、どうやら危機は脱したみたいです。\n通常任務に戻ってもらえますか？",
-    "Text": "",
+    "Text": "Phew, it seems we've averted the crisis.\nCan you return to your regular mission?",
     "Enabled": false
   },
   "620149": {
     "OriginalText": "内部構造は他のギガンテスと同様だと\n想定される。グラン噴出箇所を\n見つけ攻撃を集中させよ。",
-    "Text": "",
+    "Text": "The internal structure is assumed to be similar to other Gigantes.\nLocate the Gran emission points and focus your attacks there.",
     "Enabled": false
   },
   "620150": {
     "OriginalText": "これだけ大きな身体です！\n１個くらい弱点があると思います。\nそこをさがして、攻撃しましょう！",
-    "Text": "",
+    "Text": "With a body this large,\nthere's bound to be at least one weak spot.\nFind it and attack!",
     "Enabled": false
   },
   "620151": {
     "OriginalText": "あ、あれ？\nもしかして間に合わなかった！？\nごめん[ruby]相棒[/ruby]、一旦拠点に帰ろうか……。",
-    "Text": "",
+    "Text": "Huh, what? Did we not make it in time?!\nSorry, [ruby]partner[/ruby], let's head back to the base for now...",
     "Enabled": false
   },
   "620152": {
     "OriginalText": "乗った足場の上に新しい足場を作って乗り移る\n事も出来ます。上部に足場を作ったら、\n[a 07]下の足場の中臨部から乗り移れます。[b]",
-    "Text": "",
+    "Text": "You can create a new platform above the one you're on and jump to it.\nOnce you've created an upper platform,\nyou can jump to it from the middle section of the lower platform by pressing [a 07].",
     "Enabled": false
   },
   "620153": {
     "OriginalText": "足場から降りるときは、\n[a 07]足場の端に行き[b][f 76] で下へ\n降りることができます。",
-    "Text": "",
+    "Text": "To descend from a platform,\ngo to the edge of the platform and press [a 07][f 76]\nto go down.",
     "Enabled": false
   },
   "620154": {
     "OriginalText": "まだまだ終わりじゃないですよ！\nエネミーを倒して宝石を集めましょう！",
-    "Text": "",
+    "Text": "It's not over yet!\nDefeat the enemies and collect the jewels!",
     "Enabled": false
   },
   "620155": {
     "OriginalText": "これで宝石の回収ができますね！",
-    "Text": "",
+    "Text": "Now we can collect the jewels!",
     "Enabled": false
   },
   "620156": {
     "OriginalText": "あっ、あれです！ メディカルの資村！\nすべて集めてもらえますか？",
-    "Text": "",
+    "Text": "Oh, there it is! Medical supplies!\nCould you collect them all?",
     "Enabled": false
   },
   "620157": {
     "OriginalText": "すべて回収完了ですね。\n拠点へのお帰りをお待ちしています。",
-    "Text": "",
+    "Text": "All items have been successfully collected.\nWe look forward to your return to the base.",
     "Enabled": false
   },
   "620158": {
     "OriginalText": "やった……これで先へ進める……。",
-    "Text": "",
+    "Text": "We did it... now we can move forward...",
     "Enabled": false
   },
   "620159": {
     "OriginalText": "どうだ！ こんなギガンテスに\nやられるオレ達じゃねえよ！",
-    "Text": "",
+    "Text": "How about that! There's no way we'd lose to a Gigantes like this!",
     "Enabled": false
   },
   "620200": {
     "OriginalText": "やった、これで先に進めるね！\n[ruby]相棒[/ruby]、先を急ごう！",
-    "Text": "",
+    "Text": "We did it! Now we can move forward!\n[ruby]Partner[/ruby], let's hurry ahead!",
     "Enabled": false
   },
   "620201": {
     "OriginalText": "それが拠点に大砲を撃ち込んでる張本人みたい。\n拠点を破壊される前にやっつけるよ！",
-    "Text": "",
+    "Text": "That looks like the one firing cannons at the base.\nLet's take it down before the base gets destroyed!",
     "Enabled": false
   },
   "620202": {
     "OriginalText": "拠点に砲撃が！！\n早くギガンテスを止めなきゃ！",
-    "Text": "",
+    "Text": "The base is under cannon fire!!\nWe need to stop the Gigantes quickly!",
     "Enabled": false
   },
   "620203": {
     "OriginalText": "拠点にどんどん砲撃が撃ち込まれてる！！\nこれ似上当たったら、拠点が持たないよ！！",
-    "Text": "",
+    "Text": "The base is being bombarded with cannon fire!!\nIf this keeps up, the base won't hold out!!",
     "Enabled": false
   },
   "620204": {
     "OriginalText": "もう限界だよ！\nあと、一発でも当たったら、拠点は壊滅しちゃう！！",
-    "Text": "",
+    "Text": "We're at our limit!\nOne more hit and the base will be destroyed!!",
     "Enabled": false
   },
   "620205": {
     "OriginalText": "拠点はもう無理みたい……。\n[ruby]相棒[/ruby]、一旦、戦線を離脱して立て直そう……。",
-    "Text": "",
+    "Text": "It looks like the base can't hold anymore...\n[ruby]Partner[/ruby], let's retreat and regroup...",
     "Enabled": false
   },
   "620206": {
     "OriginalText": "[ruby]相棒[/ruby]、あれは新型ギガンテスだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], that's a new type of Gigantes!",
     "Enabled": false
   },
   "620207": {
     "OriginalText": "識別名は「ギガンテス・ガラティオン」。",
-    "Text": "",
+    "Text": "Its designation is \"Gigantes Galation.\"",
     "Enabled": false
   },
   "620208": {
     "OriginalText": "どんな攻撃してくるかわからないから、慎重にね！",
-    "Text": "",
+    "Text": "We don't know what kind of attacks it will use, so be cautious!",
     "Enabled": false
   },
   "620209": {
     "OriginalText": "周辺にエネミーがいるみたい。周りに注意して！",
-    "Text": "",
+    "Text": "There seem to be enemies nearby. Stay alert to your surroundings!",
     "Enabled": false
   },
   "620210": {
     "OriginalText": "エネミーの反応を確認。警戒を怠らないでね。",
-    "Text": "",
+    "Text": "Enemy signals detected. Stay alert!",
     "Enabled": false
   },
   "620211": {
     "OriginalText": "環境値が上昇している！ [ruby]相棒[/ruby]、気を抜かないようにね！",
-    "Text": "",
+    "Text": "Environmental levels are rising! [ruby]Partner[/ruby], stay focused!",
     "Enabled": false
   },
   "620212": {
     "OriginalText": "えっなにっ！ すごい強い反応！\nとにかく警戒して！！",
-    "Text": "",
+    "Text": "What?! A very strong signal!\nStay on high alert!!",
     "Enabled": false
   },
   "620213": {
     "OriginalText": "ダーカーの反応だよ。\n戦闘態勢をとって！",
-    "Text": "",
+    "Text": "There's a Darker signal.\nPrepare for combat!",
     "Enabled": false
   },
   "620214": {
     "OriginalText": "目標のダーカーを確認したよ。\n一気に倒しちゃおう！",
-    "Text": "",
+    "Text": "Target Darker identified.\nLet's take it down quickly!",
     "Enabled": false
   },
   "620215": {
     "OriginalText": "周囲にダーカーがいるみたい。\n[ruby]相棒[/ruby]、無理しないでね。",
-    "Text": "",
+    "Text": "There seem to be Darkers nearby.\n[ruby]Partner[/ruby], don't overdo it.",
     "Enabled": false
   },
   "620216": {
     "OriginalText": "そ、そんな……\n近くにすごく強い反応、[ruby]相棒[/ruby]、気をつけて！",
-    "Text": "",
+    "Text": "W-what...?\nA very strong signal nearby. [ruby]Partner[/ruby], be careful!",
     "Enabled": false
   },
   "620217": {
     "OriginalText": "ギガンテスが近づいてるみたい。\n十分に気を付けて！",
-    "Text": "",
+    "Text": "It seems a Gigantes is approaching.\nStay on high alert!",
     "Enabled": false
   },
   "620218": {
     "OriginalText": "ギガンテスが接近中。\n交戦態勢に移行して！",
-    "Text": "",
+    "Text": "A Gigantes is approaching.\nSwitch to combat mode!",
     "Enabled": false
   },
   "620219": {
     "OriginalText": "[ruby]相棒[/ruby]、周囲にギガンテスの反応があるよ！\n安全の確保を最優先して！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], there's a Gigantes signal nearby!\nPrioritize securing safety!",
     "Enabled": false
   },
   "620220": {
     "OriginalText": "すごく強い反応……これは、ギガンテス？！",
-    "Text": "",
+    "Text": "A very strong signal... Is this a Gigantes?!",
     "Enabled": false
   },
   "620221": {
     "OriginalText": "ちょっと聞いてくれる？",
-    "Text": "",
+    "Text": "Can you listen for a moment?",
     "Enabled": false
   },
   "620222": {
     "OriginalText": "[ruby]相棒[/ruby]、報告するね。",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], here's my report.",
     "Enabled": false
   },
   "620223": {
     "OriginalText": "緊急連絡！ ちゃんと聞いて！",
-    "Text": "",
+    "Text": "Emergency message! Listen carefully!",
     "Enabled": false
   },
   "620224": {
     "OriginalText": "聞き逃さないようにね！",
-    "Text": "",
+    "Text": "Don't miss a word!",
     "Enabled": false
   },
   "620225": {
     "OriginalText": "新しい任務だよ。\nさくっとこなしちゃおう！",
-    "Text": "",
+    "Text": "There's a new mission.\nLet's finish it quickly!",
     "Enabled": false
   },
   "620226": {
     "OriginalText": "緊急任務！\n慎重に向かって！",
-    "Text": "",
+    "Text": "Emergency mission!\nProceed with caution!",
     "Enabled": false
   },
   "620227": {
     "OriginalText": "任務完了だね、お疲れ様～！",
-    "Text": "",
+    "Text": "Mission complete, great work!",
     "Enabled": false
   },
   "620228": {
     "OriginalText": "任務完了っと！ やっぱり[ruby]相棒[/ruby]は頼りになるなぁ。",
-    "Text": "",
+    "Text": "Mission complete! [ruby]Partner[/ruby], you really are reliable.",
     "Enabled": false
   },
   "620229": {
     "OriginalText": "任務失敗か。\nまぁ、こんなこともあるよね。",
-    "Text": "",
+    "Text": "Mission failed, huh?\nWell, these things happen.",
     "Enabled": false
   },
   "620230": {
     "OriginalText": "えっと、これは失敗かな。\nとりあえず通常任務に戻って。",
-    "Text": "",
+    "Text": "Uh, I guess this is a failure.\nFor now, return to the regular mission.",
     "Enabled": false
   },
   "620231": {
     "OriginalText": "新しい反応があるよ！",
-    "Text": "",
+    "Text": "There's a new signal!",
     "Enabled": false
   },
   "620232": {
     "OriginalText": "あっあれ？ まだ何か起きそうだよ！\n[ruby]相棒[/ruby]、気を付けて！",
-    "Text": "",
+    "Text": "Huh, what? It seems like something else is about to happen!\n[ruby]Partner[/ruby], be careful!",
     "Enabled": false
   },
   "620233": {
     "OriginalText": "目標達成したよ。\n気を付けて帰還してね。",
-    "Text": "",
+    "Text": "Mission accomplished.\nReturn safely.",
     "Enabled": false
   },
   "620234": {
     "OriginalText": "帰還許可が出たよ。\n帰ってくるの待ってるね。",
-    "Text": "",
+    "Text": "Permission to return granted.\nI'll be waiting for you.",
     "Enabled": false
   },
   "620235": {
     "OriginalText": "これ似上任務は続けられないね、\n一旦拠点に帰ってきて。",
-    "Text": "",
+    "Text": "We can't continue the mission from here.\nReturn to the base for now.",
     "Enabled": false
   },
   "620236": {
     "OriginalText": "う～ん、このままだと目標達成は難しいかな……。\n仕方ない！ [ruby]相棒[/ruby]、ここは撤退だよ！",
-    "Text": "",
+    "Text": "Hmm, achieving the goal like this seems difficult...\nNo choice! [ruby]Partner[/ruby], let's retreat for now!",
     "Enabled": false
   },
   "620237": {
     "OriginalText": "やったー！ギガンテス捕獲成功！",
-    "Text": "",
+    "Text": "Yay! Gigantes successfully captured!",
     "Enabled": false
   },
   "620238": {
     "OriginalText": "ダーカーがいっぱいいるみたいだよ！\n[ruby]相棒[/ruby]、気をつけてね。",
-    "Text": "",
+    "Text": "It seems there are lots of Darkers around!\n[ruby]Partner[/ruby], stay safe.",
     "Enabled": false
   },
   "620239": {
     "OriginalText": "緊急警報だよ！\n急いで警戒態勢を取らないと！",
-    "Text": "",
+    "Text": "Emergency alert!\nYou need to take caution immediately!",
     "Enabled": false
   },
   "620240": {
     "OriginalText": "エネミー反応だよ。\n警戒を強化して！",
-    "Text": "",
+    "Text": "Enemy signal detected.\nIncrease caution!",
     "Enabled": false
   },
   "620241": {
     "OriginalText": "原生種の反応だよ！\n戦闘準備はいい？",
-    "Text": "",
+    "Text": "Native species detected!\nAre you ready for battle?",
     "Enabled": false
   },
   "620242": {
     "OriginalText": "近くに反応があるよ！\nそろそろ戦闘態勢だね。",
-    "Text": "",
+    "Text": "There's a signal nearby!\nTime to get into combat mode.",
     "Enabled": false
   },
   "620243": {
     "OriginalText": "[ruby]相棒[/ruby]、原生種だよ！\n攻撃して！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a native species!\nAttack!",
     "Enabled": false
   },
   "620244": {
     "OriginalText": "ダーカー反応だよ。それもちょっと強めの。\n警戒してね！",
-    "Text": "",
+    "Text": "A Darker signal detected. It's a bit stronger than usual.\nStay alert!",
     "Enabled": false
   },
   "620245": {
     "OriginalText": "強そうな原生種の反応だよ！\n[ruby]相棒[/ruby]、気をつけて！",
-    "Text": "",
+    "Text": "A strong native species detected!\n[ruby]Partner[/ruby], be careful!",
     "Enabled": false
   },
   "620246": {
     "OriginalText": "この反応、かなり強い原生種じゃないかな？\n[ruby]相棒[/ruby]、警戒強化だよ！",
-    "Text": "",
+    "Text": "This signal, it might be a really strong native species.\n[ruby]Partner[/ruby], stay extra cautious!",
     "Enabled": false
   },
   "620247": {
     "OriginalText": "すごい反応だよ、[ruby]相棒[/ruby]！\nダーカーに気をつけて！",
-    "Text": "",
+    "Text": "Incredible signal, [ruby]Partner[/ruby]!\nWatch out for the Darkers!",
     "Enabled": false
   },
   "620248": {
     "OriginalText": "この反応、強力な原生種だよ！\nすぐ戦闘に移れるよね？",
-    "Text": "",
+    "Text": "This signal indicates a powerful native species!\nYou're ready to engage, right?",
     "Enabled": false
   },
   "620249": {
     "OriginalText": "[ruby]相棒[/ruby]、かなり凶暴な原生種が来るよ！\n戦闘待ったなしだからね！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], a really ferocious native species is coming!\nNo time to hesitate, it's battle time!",
     "Enabled": false
   },
   "620250": {
     "OriginalText": "この反応はギガンテスで間違いないね。",
-    "Text": "",
+    "Text": "This signal is definitely a Gigantes.",
     "Enabled": false
   },
   "620251": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!",
     "Enabled": false
   },
   "620252": {
     "OriginalText": "防衛ラインにギガンテスが近づいてる！\n早く撃破しないとまずいよ！",
-    "Text": "",
+    "Text": "A Gigantes is approaching the defense line!\nWe need to take it down quickly!",
     "Enabled": false
   },
   "620253": {
     "OriginalText": "ダーカーだよ！\nすぐ殲滅して！",
-    "Text": "",
+    "Text": "It's a Darker!\nEliminate it immediately!",
     "Enabled": false
   },
   "620254": {
     "OriginalText": "結構いっぱいいるけど、\n殲滅できるよね？",
-    "Text": "",
+    "Text": "There are quite a lot of them,\nbut you can handle it, right?",
     "Enabled": false
   },
-  "620255": {
+   "620255": {
     "OriginalText": "ダーカーが出て来てるよ！\n戦闘態勢は大丈夫だよね？",
-    "Text": "",
+    "Text": "Darker has appeared!\nYou're ready for combat, right?",
     "Enabled": false
   },
   "620256": {
     "OriginalText": "原生種だよ！\nすぐ殲滅して！",
-    "Text": "",
+    "Text": "It's a native species!\nEliminate it immediately!",
     "Enabled": false
   },
   "620257": {
     "OriginalText": "結構な数の原生種だけど、\n殲滅できるよね？",
-    "Text": "",
+    "Text": "There are quite a few native species,\nbut you can handle it, right?",
     "Enabled": false
   },
   "620258": {
     "OriginalText": "原生種が出て来てるよ！\n戦闘態勢は大丈夫だよね？",
-    "Text": "",
+    "Text": "Native species have appeared!\nYou're ready for battle, right?",
     "Enabled": false
   },
   "620259": {
     "OriginalText": "何これ、全部ラッピー！？\nうーん、でも殲滅するしかないよね？",
-    "Text": "",
+    "Text": "What is this, all Rappies?!\nWell, I guess we have to eliminate them, right?",
     "Enabled": false
   },
   "620260": {
     "OriginalText": "やっぱり強そうな原生種だね。\n[ruby]相棒[/ruby]、撃破だよ！",
-    "Text": "",
+    "Text": "It's definitely a strong native species.\n[ruby]Partner[/ruby], take it down!",
     "Enabled": false
   },
   "620261": {
     "OriginalText": "強そうな原生種が出て来たね。\n[ruby]相棒[/ruby]、気をつけて！",
-    "Text": "",
+    "Text": "A strong native species has appeared.\n[ruby]Partner[/ruby], be careful!",
     "Enabled": false
   },
   "620262": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇプレディカーダだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G-Predicada!\nYou need to take it down quickly!",
     "Enabled": false
   },
   "620263": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇキュクロナーダだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G-Cyclonada!\nYou need to take it down quickly!",
     "Enabled": false
   },
   "620264": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇガウォンダだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G-Gawonda!\nYou need to take it down quickly!",
     "Enabled": false
   },
   "620265": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇグウォンダだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G-Gwonda!\nYou need to take it down quickly!",
     "Enabled": false
   },
   "620266": {
     "OriginalText": "ジャッドバンサーだね。\n撃破しちゃて、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Judd Banser.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620267": {
     "OriginalText": "シルブカーネベアだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Sylve Carnebear.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620268": {
     "OriginalText": "レゾルカーネベアだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Resole Carnebear.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620269": {
     "OriginalText": "アルレイバンサーだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's an Arleigh Banser.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620270": {
     "OriginalText": "グルナバンサーだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Gruna Banser.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620271": {
     "OriginalText": "ゾンレイバンサーだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Zonleigh Banser.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620272": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nテュルトアスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nTurtle-As. You can take it down, right?",
     "Enabled": false
   },
   "620273": {
     "OriginalText": "コラル・ドラゴンだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Coral Dragon.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620274": {
     "OriginalText": "オラルカーネベアだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's an Oral Carnebear.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620275": {
     "OriginalText": "ナールレイバンサーだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Narl Leigh Banser.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620276": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nゴルドスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nGoldos. You can take it down, right?",
     "Enabled": false
   },
   "620277": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nディゴルドスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nDigoldos. You can take it down, right?",
     "Enabled": false
   },
   "620278": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nディートアスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nDeet-As. You can take it down, right?",
     "Enabled": false
   },
   "620279": {
     "OriginalText": "モストカーネベアだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Most Carnebear.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620280": {
     "OriginalText": "ファラレイバンサーだね。\n撃破しちゃって、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "It's a Fara Leigh Banser.\nTake it down, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620281": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nオルゴルドスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nOrgoldos. You can take it down, right?",
     "Enabled": false
   },
   "620282": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇウォルガーダだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G Wolgarda!\nHurry up and take it down!",
     "Enabled": false
   },
   "620283": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇシャルレイダだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G Charleida!\nHurry up and take it down!",
     "Enabled": false
   },
   "620284": {
     "OriginalText": "[ruby]相棒[/ruby]、Ｇダーク・ラグネだよ！\n急いで撃破しないと！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], it's a G Dark Ragne!\nHurry up and take it down!",
     "Enabled": false
   },
   "620285": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nアグリオスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nAgrios. You can take it down, right?",
     "Enabled": false
   },
   "620286": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nグレイオスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nGreios. You can take it down, right?",
     "Enabled": false
   },
   "620287": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nアルテイオスだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nArteios. You can take it down, right?",
     "Enabled": false
   },
   "620288": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nエウリュードだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nEuryude. You can take it down, right?",
     "Enabled": false
   },
   "620289": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nヴィヴリュードだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nVivryude. You can take it down, right?",
     "Enabled": false
   },
   "620290": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nガラティオンだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nGalation. You can take it down, right?",
     "Enabled": false
   },
   "620291": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nギガティオンだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nGigation. You can take it down, right?",
     "Enabled": false
   },
   "620292": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nグラヴディオンだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nGravdion. You can take it down, right?",
     "Enabled": false
   },
   "620293": {
     "OriginalText": "……アルキュオネ！？\nもうタコはイヤーッ！！\n[ruby]相棒[/ruby]、撃破してぇーっ！！",
-    "Text": "",
+    "Text": "…Alcyone?!\nNo more octopus, please!!\n[ruby]Partner[/ruby], take it down!!",
     "Enabled": false
   },
   "620294": {
     "OriginalText": "……デェフキュオネ！？\nなんでタコなのーっ！？\n撃破してぇーっ！！ [ruby]相棒[/ruby]ーっ！！",
-    "Text": "",
+    "Text": "…Defkyone?!\nWhy does it have to be an octopus?!\nTake it down, [ruby]Partner[/ruby]!!",
     "Enabled": false
   },
   "620295": {
     "OriginalText": "[ruby]相棒[/ruby]、ギュゲンテが現れたよ！\nあのタイプは弱点部位への攻撃似外は\n無効化されるって覚えてるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], a Gyugente has appeared!\nRemember, attacks only work on weak points for that type, right?",
     "Enabled": false
   },
   "620296": {
     "OriginalText": "拠点を狙っているギュゲンテはアレだね。\n何はともあれ、まずは主砲の破壊だよ！\n何としても拠点を守ろう、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "That's the Gyugente targeting the base.\nFirst, we need to destroy the main cannon!\nWe have to protect the base at all costs, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620297": {
