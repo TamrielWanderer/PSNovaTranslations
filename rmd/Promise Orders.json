@@ -4201,32 +4201,32 @@
   },
   "300276": {
     "OriginalText": "フィルディアのお願い15の達成条件",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfillment conditions for Fildia's Request 15",
+    "Enabled": true
   },
   "300277": {
     "OriginalText": "フィルディアのお願い16の達成条件",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfillment conditions for Fildia's Request 16",
+    "Enabled": true
   },
   "300278": {
     "OriginalText": "フィルディアのお願い17の達成条件",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfillment conditions for Fildia's Request 17",
+    "Enabled": true
   },
   "300279": {
     "OriginalText": "フィルディアのお願い18の達成条件",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfillment conditions for Fildia's Request 18",
+    "Enabled": true
   },
   "300280": {
     "OriginalText": "フィルディアのお願い19の達成条件",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfillment conditions for Fildia's Request 19",
+    "Enabled": true
   },
   "300281": {
     "OriginalText": "フィルディアのお願い20の達成条件",
-    "Text": "",
-    "Enabled": false
+    "Text": "Fulfillment conditions for Fildia's Request 20",
+    "Enabled": true
   }
 }
