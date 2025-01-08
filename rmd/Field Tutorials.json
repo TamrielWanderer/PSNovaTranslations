@@ -1286,717 +1286,717 @@
   },
   "620297": {
     "OriginalText": "リベルゲンテ……拠点を狙っているのは\nあのギガンテスで間違いないみたい。\n主砲の破壊を狙って攻撃するよ！",
-    "Text": "",
+    "Text": "Ribergente... It seems that Gigantes is definitely targeting the base.\nAim to destroy the main cannon and attack!",
     "Enabled": false
   },
   "620298": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスの正体は\nレイヴガイストだよ。\n撃破、できるよね？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], the Gigantes is actually\nRavegeist. You can take it down, right?",
     "Enabled": false
   },
   "620299": {
     "OriginalText": "[ruby]相棒[/ruby]、このギガンテス、\n……ネメスガイスト！？\n撃破、……できるのかな？",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], this Gigantes...\nNemesgeist?! Can we really take it down...?",
     "Enabled": false
   },
   "620300": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのアグリオスだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Agrrios!",
     "Enabled": false
   },
   "620301": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのグレイオスだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Greios!",
     "Enabled": false
   },
   "620302": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのアルテイオスだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Alteios!",
     "Enabled": false
   },
   "620303": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのエウリュードだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Euryude!",
     "Enabled": false
   },
   "620304": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのヴィヴリュードだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Vivryude!",
     "Enabled": false
   },
   "620305": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのガラティオンだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Galation!",
     "Enabled": false
   },
   "620306": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのギガティオンだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Gigation!",
     "Enabled": false
   },
   "620307": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのグラヴディオンだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Gravdion!",
     "Enabled": false
   },
   "620308": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのアルキュオネだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Alcyone!",
     "Enabled": false
   },
   "620309": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガンテスを捕まえて！\nあのデェフキュオネだよ！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], capture the Gigantes!\nThat's Defcyone!",
     "Enabled": false
   },
   "620310": {
     "OriginalText": "洋資を集めなきゃいけないんだ。\nパパッと片付けちゃって！",
-    "Text": "",
+    "Text": "We need to gather resources.\nLet's finish this quickly!",
     "Enabled": false
   },
   "620311": {
     "OriginalText": "洋資を回収してほしいんだ。\nさあ、始めよう！",
-    "Text": "",
+    "Text": "I need you to collect resources.\nLet's get started!",
     "Enabled": false
   },
   "620312": {
     "OriginalText": "エネミーがいっぱいいるけど、\n制限時間内に殲滅できるよね？",
-    "Text": "",
+    "Text": "There are a lot of enemies,\nbut you can defeat them within the time limit, right?",
     "Enabled": false
   },
   "620313": {
     "OriginalText": "前方にいるエネミー、\nあんまり時間がないんだけど\n撃破できるよね？",
-    "Text": "",
+    "Text": "The enemies ahead... we don't have much time,\nbut you can take them down, right?",
     "Enabled": false
   },
   "620314": {
     "OriginalText": "演習だよ、[ruby]相棒[/ruby]！\n時間いっぱい、がんばって！",
-    "Text": "",
+    "Text": "It's a drill, [ruby]Partner[/ruby]!\nDo your best until the time runs out!",
     "Enabled": false
   },
   "620315": {
     "OriginalText": "[ruby]相棒[/ruby]、アグリオスを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Agrios!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620316": {
     "OriginalText": "[ruby]相棒[/ruby]、グレイオスを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Greios!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620317": {
     "OriginalText": "[ruby]相棒[/ruby]、アルテイオスを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Alteios!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620318": {
     "OriginalText": "[ruby]相棒[/ruby]、エウリュードを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Eurude!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620319": {
     "OriginalText": "[ruby]相棒[/ruby]、ヴィヴリュードを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Vivrude!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620320": {
     "OriginalText": "[ruby]相棒[/ruby]、ガラティオンを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Galation!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620321": {
     "OriginalText": "[ruby]相棒[/ruby]、ギガティオンを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Gigathion!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620322": {
     "OriginalText": "[ruby]相棒[/ruby]、グラヴディオンを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Gravdion!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620323": {
     "OriginalText": "[ruby]相棒[/ruby]、アルキュオネを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Alcyone!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620324": {
     "OriginalText": "[ruby]相棒[/ruby]、デェフキュオネを撃破して！\n絶対に防衛ラインを突破させないで！",
-    "Text": "",
+    "Text": "[ruby]Partner[/ruby], defeat Defcyone!\nDon't let it break through the defense line!",
     "Enabled": false
   },
   "620325": {
     "OriginalText": "ダーカー撃破だね。\n帰還OKだよ。",
-    "Text": "",
+    "Text": "The Darkers have been defeated.\nYou're cleared to return!",
     "Enabled": false
   },
   "620326": {
     "OriginalText": "任務完了！ お疲れ様！",
-    "Text": "",
+    "Text": "Mission complete! Great job!",
     "Enabled": false
   },
   "620327": {
     "OriginalText": "さっすが、[ruby]相棒[/ruby]！\nすっかり片付いたね！",
-    "Text": "",
+    "Text": "You're amazing, [ruby]Partner[/ruby]!\nEverything's all cleaned up!",
     "Enabled": false
   },
   "620328": {
     "OriginalText": "任務完了！ \nすっかり片付くと、なんだかさびしいね。",
-    "Text": "",
+    "Text": "Mission complete!\nOnce it's all done, it feels a bit lonely, doesn't it?",
     "Enabled": false
   },
   "620329": {
     "OriginalText": "すごいね、[ruby]相棒[/ruby]！\nかなり手強かったんじゃない？",
-    "Text": "",
+    "Text": "Amazing, [ruby]Partner[/ruby]!\nThat was pretty tough, wasn't it?",
     "Enabled": false
   },
   "620330": {
     "OriginalText": "さくっと撃破しちゃったね。\n[ruby]相棒[/ruby]じゃなきゃ、こうはいかないよ！",
-    "Text": "",
+    "Text": "You took it down so quickly!\nNo one but [ruby]Partner[/ruby] could do it like that!",
     "Enabled": false
   },
   "620331": {
     "OriginalText": "ジャッドバンサー撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Judd Bancer eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620332": {
     "OriginalText": "シルブカーネベア撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Silb Carnbear eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620333": {
     "OriginalText": "レゾルカーネベア撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Resol Carnbear eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620334": {
     "OriginalText": "アルレイバンサー撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Arle Bancer eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620335": {
     "OriginalText": "グルナバンサー撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Gurna Bancer eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620336": {
     "OriginalText": "ゾンレイバンサー撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Zonlay Bancer eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620337": {
     "OriginalText": "テュルトアス撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Tyrltas eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620338": {
     "OriginalText": "コラル・ドラゴン撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Coral Dragon eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620339": {
     "OriginalText": "オラルカーネベア撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Oral Carnbear eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620340": {
     "OriginalText": "ナールレイバンサー撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Narlay Bancer eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620341": {
     "OriginalText": "ゴルドスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Gordos eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620342": {
     "OriginalText": "ディゴルドスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Digordos eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620343": {
     "OriginalText": "ディートアスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Deet As eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620344": {
     "OriginalText": "モストカーネベア撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Most Carnbear eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620345": {
     "OriginalText": "ファラレイバンサー撃破完了！\n完壁だね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Faralay Bancer eliminated!\nPerfect work, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620346": {
     "OriginalText": "オルゴルドスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Orgordos eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620347": {
     "OriginalText": "早いね、[ruby]相棒[/ruby]！\nＧウォルガーダ、撃破完了だよ！",
-    "Text": "",
+    "Text": "Quick work, [ruby]Partner[/ruby]!\nG Wolgarda eliminated!",
     "Enabled": false
   },
   "620348": {
     "OriginalText": "早いね、[ruby]相棒[/ruby]！\nＧシャルレイダ、撃破完了だよ！",
-    "Text": "",
+    "Text": "Quick work, [ruby]Partner[/ruby]!\nG Charleida eliminated!",
     "Enabled": false
   },
   "620349": {
     "OriginalText": "早いね、[ruby]相棒[/ruby]！\nＧダーク・ラグネ、撃破完了だよ！",
-    "Text": "",
+    "Text": "Quick work, [ruby]Partner[/ruby]!\nG Dark Ragne eliminated!",
     "Enabled": false
   },
   "620350": {
     "OriginalText": "アグリオスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Agrilos eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620351": {
     "OriginalText": "グレイオスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Greios eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620352": {
     "OriginalText": "アルテイオスの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Artheios eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620353": {
     "OriginalText": "エウリュードの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Euryude eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620354": {
     "OriginalText": "ヴィヴリュードの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Vivryude eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620355": {
     "OriginalText": "ガラティオンの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Galation eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620356": {
     "OriginalText": "ギガティオンの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Gigatheon eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620357": {
     "OriginalText": "グラヴディオンの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Gravdion eliminated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620358": {
     "OriginalText": "撃破してくれたんだね？ ありがとう！\nもうタコは二度と見たくないよ……。",
-    "Text": "",
+    "Text": "You defeated it? Thank you!\nI never want to see another octopus again...",
     "Enabled": false
   },
   "620359": {
     "OriginalText": "あ～、タコがいなくなってホッとした……。\n[ruby]相棒[/ruby]、お疲れ様～。",
-    "Text": "",
+    "Text": "Ah, glad the octopus is gone... \nGood work, [ruby]Partner[/ruby]~.",
     "Enabled": false
   },
   "620360": {
     "OriginalText": "ギュゲンテの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Gyugente defeated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620361": {
     "OriginalText": "ギュゲンテの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Gyugente defeated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620362": {
     "OriginalText": "リベルゲンテの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Libergente defeated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620363": {
     "OriginalText": "レイヴガイストの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Ravegeist defeated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620364": {
     "OriginalText": "ネメスガイストの撃破を確認したよ。\nうまくやったね、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Nemesgeist defeated!\nNicely done, [ruby]Partner[/ruby]!",
     "Enabled": false
   },
   "620365": {
     "OriginalText": "ルティナ\nギガンテス 専用 アグリオス 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Agrigos successfully captured",
     "Enabled": false
   },
   "620366": {
     "OriginalText": "ルティナ\nギガンテス 専用 グレイオス 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Greios successfully captured",
     "Enabled": false
   },
   "620367": {
     "OriginalText": "ルティナ\nギガンテス 専用 アルテイオス 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Alteios successfully captured",
     "Enabled": false
   },
   "620368": {
     "OriginalText": "ルティナ\nギガンテス 専用 エウリュード 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Euryude successfully captured",
     "Enabled": false
   },
   "620369": {
     "OriginalText": "ルティナ\nギガンテス 専用 ヴィヴリュード 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Vivryude successfully captured",
     "Enabled": false
   },
   "620370": {
     "OriginalText": "ルティナ\nギガンテス 専用 ガラティオン 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Galation successfully captured",
     "Enabled": false
   },
   "620371": {
     "OriginalText": "ルティナ\nギガンテス 専用 ギガティオン 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Gigation successfully captured",
     "Enabled": false
   },
   "620372": {
     "OriginalText": "ルティナ\nギガンテス 専用 グラヴディオン 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Gravdion successfully captured",
     "Enabled": false
   },
   "620373": {
     "OriginalText": "ルティナ\nギガンテス 専用 アルキュオネ 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Alcyone successfully captured",
     "Enabled": false
   },
   "620374": {
     "OriginalText": "ルティナ\nギガンテス 専用 デェフキュオネ 成功 捕獲",
-    "Text": "",
+    "Text": "Lutina\nGigantes-exclusive Dephcyone successfully captured",
     "Enabled": false
   },
   "620375": {
     "OriginalText": "パパッと集めてくれてありがとう！",
-    "Text": "",
+    "Text": "Thank you for gathering everything so quickly!",
     "Enabled": false
   },
   "620376": {
     "OriginalText": "もう集めてくれたんだね。\nありがとう、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "You’ve already gathered everything.\nThank you, partner!",
     "Enabled": false
   },
   "620377": {
     "OriginalText": "早いねー、[ruby]相棒[/ruby]！\nきっちり時間内に殲滅してくれたね。",
-    "Text": "",
+    "Text": "You’re so quick, partner!\nYou wiped them out right on time.",
     "Enabled": false
   },
   "620378": {
     "OriginalText": "さっすが！\n[ruby]相棒[/ruby]なら撃破すると思ってたよ！",
-    "Text": "",
+    "Text": "As expected!\nI knew you’d defeat them, partner!",
     "Enabled": false
   },
   "620379": {
     "OriginalText": "すごいけど、くやしー！\nあたしより成績いいかも……。",
-    "Text": "",
+    "Text": "Amazing, but frustrating!\nYou might have a better record than me…",
     "Enabled": false
   },
   "620380": {
     "OriginalText": "撃破成功！ 防衛ラインは無事だからね！\n[ruby]相棒[/ruby]のおかげだよ！",
-    "Text": "",
+    "Text": "Successful defeat! The defense line is safe!\nThanks to you, partner!",
     "Enabled": false
   },
   "620381": {
     "OriginalText": "う～ん……。\nま、こういうこともあるよね！",
-    "Text": "",
+    "Text": "Hmm...\nWell, these things happen!",
     "Enabled": false
   },
   "620382": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]……。\n拠点が大変だから、とにかく早く戻って！",
-    "Text": "",
+    "Text": "This is bad, partner...\nThe base is in trouble, so hurry back!",
     "Enabled": false
   },
   "620383": {
     "OriginalText": "撃破しちゃダメだよ、[ruby]相棒[/ruby]！\n捕まえてって言ったのに……。",
-    "Text": "",
+    "Text": "You weren’t supposed to defeat it, partner!\nI told you to capture it…",
     "Enabled": false
   },
   "620384": {
     "OriginalText": "大変だよ、[ruby]相棒[/ruby]！\n防衛ラインが……破られちゃった……。",
-    "Text": "",
+    "Text": "This is bad, partner!\nThe defense line... it’s been breached...",
     "Enabled": false
   },
   "620385": {
     "OriginalText": "[ruby]相棒[/ruby]、ジャッドバンサーだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Judd Bouncer!\nDefeat this one first!",
     "Enabled": false
   },
   "620386": {
     "OriginalText": "[ruby]相棒[/ruby]、シルブカーネベアだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Silv Carnabea!\nDefeat this one first!",
     "Enabled": false
   },
   "620387": {
     "OriginalText": "[ruby]相棒[/ruby]、レゾルカーネベアだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Reso Carnabea!\nDefeat this one first!",
     "Enabled": false
   },
   "620388": {
     "OriginalText": "[ruby]相棒[/ruby]、アルレイバンサーだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Alray Bouncer!\nDefeat this one first!",
     "Enabled": false
   },
   "620389": {
     "OriginalText": "[ruby]相棒[/ruby]、グルナバンサーだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Gruna Bouncer!\nDefeat this one first!",
     "Enabled": false
   },
   "620390": {
     "OriginalText": "[ruby]相棒[/ruby]、ゾンレイバンサーだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Zonray Bouncer!\nDefeat this one first!",
     "Enabled": false
   },
   "620391": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにテュルトアスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nTurtle Aus showed up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620392": {
     "OriginalText": "[ruby]相棒[/ruby]、コラル・ドラゴンだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Coral Dragon!\nDefeat this one first!",
     "Enabled": false
   },
   "620393": {
     "OriginalText": "[ruby]相棒[/ruby]、オラルカーネベアだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Oral Carnabea!\nDefeat this one first!",
     "Enabled": false
   },
   "620394": {
     "OriginalText": "[ruby]相棒[/ruby]、ナールレイバンサーだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Narley Bouncer!\nDefeat this one first!",
     "Enabled": false
   },
   "620395": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにゴルドスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nGoldos has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620396": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにディゴルドスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nDigoldos has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620397": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにディートアスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nDee Taus has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620398": {
     "OriginalText": "[ruby]相棒[/ruby]、モストカーネベアだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Most Carnabea!\nDefeat this one first!",
     "Enabled": false
   },
   "620399": {
     "OriginalText": "[ruby]相棒[/ruby]、ファラレイバンサーだよ！\nこっちを先に撃破して！",
-    "Text": "",
+    "Text": "Partner, it’s the Fara Ray Bouncer!\nDefeat this one first!",
     "Enabled": false
   },
   "620400": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにオルゴルドスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nOrlgoldos has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620401": {
     "OriginalText": "うーん、Ｇウォルガーダか……。\n[ruby]相棒[/ruby]、こいつを先に撃破しないとね！",
-    "Text": "",
+    "Text": "Hmm, it’s G Wolgarda...\nPartner, we need to defeat this one first!",
     "Enabled": false
   },
   "620402": {
     "OriginalText": "うーん、Ｇシャルレイダか……。\n[ruby]相棒[/ruby]、こいつを先に撃破しないとね！",
-    "Text": "",
+    "Text": "Hmm, it’s G Sharleda...\nPartner, we need to defeat this one first!",
     "Enabled": false
   },
   "620403": {
     "OriginalText": "うーん、Ｇダーク・ラグネか……。\n[ruby]相棒[/ruby]、こいつを先に撃破しないとね！",
-    "Text": "",
+    "Text": "Hmm, it’s G Dark Ragne...\nPartner, we need to defeat this one first!",
     "Enabled": false
   },
   "620404": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにアグリオスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nAgrio has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620405": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにグレイオスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nGreyos has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620406": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにアルテイオスが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nArtheos has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620407": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにエウリュードが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nEuryude has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620408": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにヴィヴリュードが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nVivryude has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620409": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにガラティオンが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nGalation has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620410": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにギガティオンが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nGigathion has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620411": {
     "OriginalText": "まずいよ、[ruby]相棒[/ruby]！\nこんなとこにグラヴディオンが出て来たよ！\nターゲット変更だね！",
-    "Text": "",
+    "Text": "This is bad, partner!\nGravidion has shown up here!\nWe need to change the target!",
     "Enabled": false
   },
   "620412": {
     "OriginalText": "もうイヤーッ！！ こんなときに……。\nよりによってアルキュオネだなんて。\n[ruby]相棒[/ruby]、早く先にタコを撃破してーっ！！",
-    "Text": "",
+    "Text": "I can't take it anymore!! At a time like this... \nAnd of all things, it's Alcyone!\nPartner, hurry and take down the octopus first!",
     "Enabled": false
   },
   "620413": {
     "OriginalText": "デェフキュオネ！？ なんでーッ！？\nもうタコは勘弁してよー！！\n先に視界から消し去ってよ、[ruby]相棒[/ruby]！",
-    "Text": "",
+    "Text": "Defcyone!? Why now!? \nI've had enough of these octopuses!!\nGet it out of sight first, partner!",
     "Enabled": false
   },
   "620414": {
     "OriginalText": "[ruby]相棒[/ruby]、気をつけて！\nこの地域じゃギガンテスは召喚できないよ。\nノヴァの力が強すぎるみたい……。",
-    "Text": "",
+    "Text": "Partner, be careful!\nYou can't summon Gigantes in this area.\nNova's power seems too strong here...",
     "Enabled": false
   },
   "620415": {
     "OriginalText": "そのあたりに医療資村があるんだけど、\n集めてもらえない？",
-    "Text": "",
+    "Text": "There should be medical supplies around there.\nCan you gather them?",
     "Enabled": false
   },
   "620416": {
     "OriginalText": "早いね、[ruby]相棒[/ruby]！\n集め終わったら帰還してね！",
-    "Text": "",
+    "Text": "That was quick, partner!\nOnce you're done collecting, head back!",
     "Enabled": false
   },
   "620417": {
     "OriginalText": "[ruby]相棒[/ruby]、そのアグリオスを深追いしちゃダメだよ。\n今は食村捜索が先だからね！",
-    "Text": "",
+    "Text": "Partner, don't chase that Agrios too far.\nThe food supply search takes priority right now!",
     "Enabled": false
   },
   "620418": {
     "OriginalText": "行っちゃったね。これで任務に戻れるよ。\nあたしも同じ立場だったら追っかけてたかも\nしれないけど……。",
-    "Text": "",
+    "Text": "It's gone now. We can get back to the mission.\nIf I were in your shoes, I might have chased it too...",
     "Enabled": false
   },
   "620419": {
     "OriginalText": "大型パイルを正確に投下するために\n設置した観測ポッドの情報が必要なんだ。\nデータを集めながら現場に向かって！",
-    "Text": "",
+    "Text": "To accurately drop the large pile, we need data\nfrom the observation pods. Collect the data\nand head to the site!",
     "Enabled": false
   },
   "620420": {
     "OriginalText": "観測ポッドのデータ、確認できたよ！\nじゃあ大型パイルの誘導ポイントへ向かって！",
-    "Text": "",
+    "Text": "The observation pod data is confirmed!\nNow, head to the large pile's guidance point!",
     "Enabled": false
   },
   "620421": {
     "OriginalText": "ギガンテスだよ、[ruby]相棒[/ruby]！\n大型パイル投下の邪魔になるから\n撃破しちゃって！",
-    "Text": "",
+    "Text": "It's a Gigantes, partner!\nIt's in the way of the large pile drop.\nTake it down!",
     "Enabled": false
   },
   "620422": {
     "OriginalText": "ありがとう、[ruby]相棒[/ruby]！\nギガンテスは片付いたから、\nパイル投下の準備を進めて！",
-    "Text": "",
+    "Text": "Thanks, partner!\nThe Gigantes is dealt with, so start preparing\nfor the pile drop!",
     "Enabled": false
   },
   "620423": {
     "OriginalText": "またエネミーだよ、[ruby]相棒[/ruby]……。\n噴出口へのルートを塞いでるから\n撃破してもらわなくちゃね。",
-    "Text": "",
+    "Text": "Another enemy, partner...\nIt's blocking the route to the vent,\nso you'll need to take it down.",
     "Enabled": false
   },
   "620424": {
     "OriginalText": "ルートは確保できたよ。\nじゃあ誘導ポイントへ向かって！",
-    "Text": "",
+    "Text": "The route is clear.\nNow head to the guidance point!",
     "Enabled": false
   },
   "620425": {
     "OriginalText": "[ruby]相棒[/ruby]、またギガンテスだよ。\n早く撃破して！",
-    "Text": "",
+    "Text": "Partner, another Gigantes!\nTake it down quickly!",
     "Enabled": false
   },
   "620426": {
     "OriginalText": "ありがとう！\n今度こそパイル投下できるよね。",
-    "Text": "",
+    "Text": "Thanks!\nThis time we should be able to drop the pile.",
     "Enabled": false
   },
   "620427": {
     "OriginalText": "ごめん、[ruby]相棒[/ruby]。\nまたエネミーがルートを塞いでるんだ。\n急いで撃破して！",
-    "Text": "",
+    "Text": "Sorry, partner.\nAnother enemy is blocking the route.\nHurry and take it down!",
     "Enabled": false
   },
   "620428": {
     "OriginalText": "ルート確保、ＯＫ！\n誘導ポイントへ急いで！",
-    "Text": "",
+    "Text": "Route secured, all clear!\nHurry to the guidance point!",
     "Enabled": false
   },
   "620429": {
     "OriginalText": "しつこいなぁ、もう！\nこのギガンテスも撃破して！",
-    "Text": "",
+    "Text": "Persistent, isn't it?!\nTake down this Gigantes too!",
     "Enabled": false
   },
   "620430": {
     "OriginalText": "今度こそ大丈夫だね！\nパイルは投下できるようになったから\n戻って来て！",
-    "Text": "",
+    "Text": "This time we're good!\nThe pile can be dropped now,\nso come back!",
     "Enabled": false
   },
   "620431": {
     "OriginalText": "アグリオスＰ型だよ、[ruby]相棒[/ruby]。\n近接攻撃がすっごく強い奴なんだ。\n警戒してね。",
-    "Text": "",
+    "Text": "It's an Agrios P-type, partner.\nIt specializes in strong close-range attacks.\nStay alert!",
     "Enabled": false
   },
-  "620432": {
+   "620432": {
     "OriginalText": "このエネミー、すっごく反応が強いけど\n無理しなくていいから、制限時間いっぱい\nそこで踏み止まって！",
-    "Text": "",
+    "Text": "This enemy is giving off a strong signal,\nbut don't push yourself. Just hold your ground\nuntil the timer runs out!",
     "Enabled": false
   },
   "620433": {
     "OriginalText": "もう大丈夫だよ、[ruby]相棒[/ruby]！\n任務に戻って。",
-    "Text": "",
+    "Text": "It's all good now, partner!\nReturn to the mission.",
     "Enabled": false
   },
   "620434": {
     "OriginalText": "相手はギガンテスなんだから、\nグラン噴出箇所を狙うのが定石なんじゃない？",
-    "Text": "",
+    "Text": "Since it's a Gigantes, targeting\nthe Gran exhaust points is the best strategy, right?",
     "Enabled": false
   },
   "620700": {
     "OriginalText": "ザコはこれで終わりか？！\nさっさと次へ向かうぜ！",
-    "Text": "",
+    "Text": "Are the small fry done already?!\nLet's move to the next one!",
     "Enabled": false
   },
   "620701": {
     "OriginalText": "あれが拠点を狙っているギガンテスだ！\n拠点が破壊される前にアイツをぶっ倒す！！",
-    "Text": "",
+    "Text": "That's the Gigantes targeting the base!\nTake it down before the base is destroyed!!",
     "Enabled": false
   },
   "620702": {
     "OriginalText": "砲撃が拠点に直撃した！！\nこんな砲撃何発も当たったら、\n拠点は持たないぜ！",
-    "Text": "",
+    "Text": "A shell hit the base directly!!\nIf it takes more hits like that,\nthe base won't hold up!",
     "Enabled": false
   },
   "620703": {
     "OriginalText": "砲撃のせいで拠点のそこらじゅうに\n被害が出てるみたいだ。\n早く、あのギガンテスを止めないと！",
-    "Text": "",
+    "Text": "The shelling is causing damage all over the base.\nWe need to stop that Gigantes now!",
     "Enabled": false
   },
   "620704": {
     "OriginalText": "拠点は壊滅摘前だ！\nもう一発でも砲撃を撃たせるな！",
-    "Text": "",
+    "Text": "The base is on the verge of destruction!\nDon't let it fire another shot!",
     "Enabled": false
   },
   "620705": {
