@@ -2001,352 +2001,352 @@
   },
   "620705": {
     "OriginalText": "拠点が壊滅だ。\nくそっ、オレがもっと\nしっかりしていれば……。",
-    "Text": "",
+    "Text": "The base has been destroyed...\nDamn it, if only I had been more careful...",
     "Enabled": false
   },
   "620706": {
     "OriginalText": "あれは……新型ギガンテスか？！",
-    "Text": "",
+    "Text": "Is that... a new type of Gigantes?!",
     "Enabled": false
   },
   "620707": {
     "OriginalText": "あの新型の識別名は\n「ギガンテス・ガラティオン」だ。",
-    "Text": "",
+    "Text": "That new type is identified as\n'Gigantes Galation.'",
     "Enabled": false
   },
   "620708": {
     "OriginalText": "さっさと倒しちまおうぜ！",
-    "Text": "",
+    "Text": "Let's take it down quickly!",
     "Enabled": false
   },
   "620709": {
     "OriginalText": "敵の反応を確認した。警戒を怠るなよ！",
-    "Text": "",
+    "Text": "Enemy signal detected. Stay alert!",
     "Enabled": false
   },
   "620710": {
     "OriginalText": "エネミー反応だ。警戒態勢で進もうぜ！",
-    "Text": "",
+    "Text": "Enemy signal detected. Proceed with caution!",
     "Enabled": false
   },
   "620711": {
     "OriginalText": "かなり強い敵の反応を確認した！\nおっし、早く行ってぶっ倒してやろうぜ！",
-    "Text": "",
+    "Text": "A powerful enemy signal detected!\nAlright, let's hurry and take it down!",
     "Enabled": false
   },
   "620712": {
     "OriginalText": "えっ、何だこの反応！\n良くないことが起きそうだ、気を付けろ！",
-    "Text": "",
+    "Text": "Whoa, what is this signal?!\nSomething bad is coming, stay on guard!",
     "Enabled": false
   },
   "620713": {
     "OriginalText": "ダーカーの反応だ！\n早くいって殲滅してやろうぜ！",
-    "Text": "",
+    "Text": "It's a Darker signal!\nLet's get there and wipe them out!",
     "Enabled": false
   },
   "620714": {
     "OriginalText": "周囲にダーカーの予随だ。\n対処を頼む！",
-    "Text": "",
+    "Text": "There are Darkers nearby.\nHandle them quickly!",
     "Enabled": false
   },
   "620715": {
     "OriginalText": "目標のダーカーを確認した！\n一気に叩くぜ！",
-    "Text": "",
+    "Text": "Target Darker confirmed!\nLet's hit it all at once!",
     "Enabled": false
   },
   "620716": {
     "OriginalText": "強い反応……これはダーカーか？！",
-    "Text": "",
+    "Text": "A strong signal... Is it a Darker?!",
     "Enabled": false
   },
   "620717": {
     "OriginalText": "ギガンテスが現れたぜ。\n戦闘準備だ！",
-    "Text": "",
+    "Text": "A Gigantes has appeared.\nPrepare for battle!",
     "Enabled": false
   },
   "620718": {
     "OriginalText": "ギガンテスが接近中\n気を引き締めてかかれ！",
-    "Text": "",
+    "Text": "A Gigantes is approaching.\nStay focused and get ready!",
     "Enabled": false
   },
   "620719": {
     "OriginalText": "おっしゃ！ ギガンテスだ。\n一気に倒してやろうぜ！",
-    "Text": "",
+    "Text": "Alright! It's a Gigantes.\nLet's take it down all at once!",
     "Enabled": false
   },
   "620720": {
     "OriginalText": "すごい反応だ！\n十分に注意して進めよ。",
-    "Text": "",
+    "Text": "An incredible signal detected!\nProceed with extreme caution.",
     "Enabled": false
   },
   "620721": {
     "OriginalText": "おい、聞こえてるか？",
-    "Text": "",
+    "Text": "Hey, can you hear me?",
     "Enabled": false
   },
   "620722": {
     "OriginalText": "通達が出ているみたいだ。",
-    "Text": "",
+    "Text": "It looks like there's an announcement.",
     "Enabled": false
   },
   "620723": {
     "OriginalText": "緊急連絡！",
-    "Text": "",
+    "Text": "Emergency communication!",
     "Enabled": false
   },
   "620724": {
     "OriginalText": "機密通達だ！",
-    "Text": "",
+    "Text": "Confidential communication!",
     "Enabled": false
   },
   "620725": {
     "OriginalText": "急ぎの任務が発生した！",
-    "Text": "",
+    "Text": "An urgent mission has arisen!",
     "Enabled": false
   },
   "620726": {
     "OriginalText": "緊急任務だ！\n気合入るよな！",
-    "Text": "",
+    "Text": "It's an emergency mission!\nGets the adrenaline pumping, right?",
     "Enabled": false
   },
   "620727": {
     "OriginalText": "任務完了だ、やるな！",
-    "Text": "",
+    "Text": "Mission accomplished, well done!",
     "Enabled": false
   },
   "620728": {
     "OriginalText": "任務成功を確認！\nさすがだな、次も頼むぜ！",
-    "Text": "",
+    "Text": "Mission success confirmed!\nYou're amazing, I'm counting on you for the next one too!",
     "Enabled": false
   },
   "620729": {
     "OriginalText": "任務は失敗だ。\nとりあえず通常任務に戻ってくれ。",
-    "Text": "",
+    "Text": "The mission has failed.\nFor now, return to your regular duties.",
     "Enabled": false
   },
   "620730": {
     "OriginalText": "しくじったな。\n気を取り直して次に行こうぜ！",
-    "Text": "",
+    "Text": "We messed up.\nShake it off and move on to the next one!",
     "Enabled": false
   },
   "620731": {
     "OriginalText": "ん、反応が上昇している？\n気を付けろ、まだ、何か起こりそうだ！",
-    "Text": "",
+    "Text": "Hmm, the signal is increasing?\nStay alert, something might still happen!",
     "Enabled": false
   },
   "620732": {
     "OriginalText": "新しい反応を確認した。\n気を抜くなよ！",
-    "Text": "",
+    "Text": "A new signal detected.\nStay sharp!",
     "Enabled": false
   },
   "620733": {
     "OriginalText": "おっし、目標達成だ！\n拠点への帰還許可も出てるぜ。",
-    "Text": "",
+    "Text": "Alright, mission accomplished!\nReturn to base is authorized.",
     "Enabled": false
   },
   "620734": {
     "OriginalText": "帰還許可が出たぜ！\nお前を見てたら、\nオレもやる気がみなぎってくる！",
-    "Text": "",
+    "Text": "Return to base authorized!\nWatching you gets me fired up too!",
     "Enabled": false
   },
   "620735": {
     "OriginalText": "これ似上は無理だな。\n一旦拠点に戻って態勢を立て直そうぜ。",
-    "Text": "",
+    "Text": "This is impossible now.\nLet's return to base and regroup.",
     "Enabled": false
   },
   "620736": {
     "OriginalText": "任務失敗……か。\nお前らしくもない、\nモノメイトちゃんと持っていったか？",
-    "Text": "",
+    "Text": "Mission failed...?\nThat's not like you.\nDid you bring enough Monomates?",
     "Enabled": false
   },
   "620737": {
     "OriginalText": "ギガンテス、捕獲！！\nさすがの手際の良さだな！",
-    "Text": "",
+    "Text": "Gigantes captured!!\nImpressive work as always!",
     "Enabled": false
   },
   "620738": {
     "OriginalText": "ダーカーの反応だ！ 数が多い！！",
-    "Text": "",
+    "Text": "Darkers detected! There's a lot of them!!",
     "Enabled": false
   },
   "620739": {
     "OriginalText": "緊急警報だ！\n警戒態勢を取っていくぞ！",
-    "Text": "",
+    "Text": "Emergency alert!\nStay on high alert!",
     "Enabled": false
   },
   "620740": {
     "OriginalText": "エネミー反応を確認した。\nしっかり警戒していけよ！",
-    "Text": "",
+    "Text": "Enemy signals detected.\nStay vigilant!",
     "Enabled": false
   },
   "620741": {
     "OriginalText": "原生種の反応だ。\n周囲の状況に注意を払ってくれ！",
-    "Text": "",
+    "Text": "Native species detected.\nStay aware of your surroundings!",
     "Enabled": false
   },
   "620742": {
     "OriginalText": "反応がどんどん強くなってるぜ！\nすぐに戦闘態勢に移れるよう準備だ！",
-    "Text": "",
+    "Text": "The signal is getting stronger!\nPrepare to engage immediately!",
     "Enabled": false
   },
   "620743": {
     "OriginalText": "来たぞ、原生種だ！\nきっちり叩いていくぜ！",
-    "Text": "",
+    "Text": "Here they come, native species!\nTake them down thoroughly!",
     "Enabled": false
   },
   "620744": {
     "OriginalText": "ん？ ダーカー反応だな。\nこりゃ強そうだぜ！ 気をつけろよ！",
-    "Text": "",
+    "Text": "Hmm? Darker signal detected.\nThis one looks tough! Stay cautious!",
     "Enabled": false
   },
   "620745": {
     "OriginalText": "強そうな原生種の反応が出たぜ！\n警戒レベルを上げたほうがよさそうだ！",
-    "Text": "",
+    "Text": "A strong native species signal detected!\nBetter raise your alert level!",
     "Enabled": false
   },
   "620746": {
     "OriginalText": "この反応は要注意だな。\nそろそろ原生種が出て来るぞ。",
-    "Text": "",
+    "Text": "This signal requires caution.\nThe native species are about to appear.",
     "Enabled": false
   },
   "620747": {
     "OriginalText": "ダーカーが来る！\n戦闘準備だ！",
-    "Text": "",
+    "Text": "Darkers incoming!\nPrepare for battle!",
     "Enabled": false
   },
   "620748": {
     "OriginalText": "この反応はかなりヤバいぜ。\n凶暴な原生種が出て来る！\n今すぐ鎮戦態勢を取ってくれ！",
-    "Text": "",
+    "Text": "This signal is intense.\nFeral native species incoming!\nGet into defensive stance immediately!",
     "Enabled": false
   },
   "620749": {
     "OriginalText": "原生種の反応だ！\nそれもかなりデカい、気をつけろ！",
-    "Text": "",
+    "Text": "Native species detected!\nAnd it’s a big one, be careful!",
     "Enabled": false
   },
   "620750": {
     "OriginalText": "ギガンテスらしい反応が近づいてる！\n警戒レベルを最大値まで上げてくれ！！",
-    "Text": "",
+    "Text": "A Gigantes-like signal is approaching!\nRaise the alert level to maximum!",
     "Enabled": false
   },
   "620751": {
     "OriginalText": "おっし、ギガンテスを捕まえるぜ！\n準備を頼むぞ！",
-    "Text": "",
+    "Text": "Alright, let's capture that Gigantes!\nGet ready!",
     "Enabled": false
   },
   "620752": {
     "OriginalText": "防衛ライン近くにギガンテスの反応だ！\n急いで撃破しにいく必要があるな。",
-    "Text": "",
+    "Text": "Gigantes detected near the defense line!\nWe need to take it down quickly!",
     "Enabled": false
   },
   "620753": {
     "OriginalText": "さあ、出て来たぞ！ ダーカーだ！\n一気に殲滅してやるぜ！",
-    "Text": "",
+    "Text": "Here they come! Darkers!\nLet's wipe them out at once!",
     "Enabled": false
   },
   "620754": {
     "OriginalText": "ダーカーが出現した！\nこれくらいお前なら楽勝だよな！",
-    "Text": "",
+    "Text": "Darkers have appeared!\nThis should be a breeze for you!",
     "Enabled": false
   },
   "620755": {
     "OriginalText": "ダーカーが来たぜ！\n戦闘準備はできてるか？",
-    "Text": "",
+    "Text": "Darkers incoming!\nAre you ready for battle?",
     "Enabled": false
   },
   "620756": {
     "OriginalText": "原生種がいっぱいだ！\nここはお前に殲滅を任せるぜ！",
-    "Text": "",
+    "Text": "So many native species!\nI’m counting on you to take them down!",
     "Enabled": false
   },
   "620757": {
     "OriginalText": "結構な数の原生種だな、\n気を抜かずにいくぞ！",
-    "Text": "",
+    "Text": "That's quite a number of native species.\nStay sharp as we go in!",
     "Enabled": false
   },
   "620758": {
     "OriginalText": "原生種が出て来たぜ！\nすぐ戦闘態勢に移ってくれ！",
-    "Text": "",
+    "Text": "Native species spotted!\nGet into battle stance immediately!",
     "Enabled": false
   },
   "620759": {
     "OriginalText": "ラッピーが大わいだな。\nこれはチャンスだな、\n急いで撃破して回ろうぜ！",
-    "Text": "",
+    "Text": "Rappies are swarming all around.\nThis is our chance!\nLet's hurry and take them down!",
     "Enabled": false
   },
   "620760": {
     "OriginalText": "なかなか強そうなヤツが御出座しだ。\n十分に注意してくれ！",
-    "Text": "",
+    "Text": "Looks like a pretty tough one has shown up.\nBe very cautious!",
     "Enabled": false
   },
   "620761": {
     "OriginalText": "強そうな原生種だな。\n先手必勝！ 一気に叩くぜ！",
-    "Text": "",
+    "Text": "That's a strong-looking native species.\nStrike first! Let's take it down in one go!",
     "Enabled": false
   },
   "620762": {
     "OriginalText": "Ｇプレディカーダだ！\nおし、さっさと倒しちまおうぜ！",
-    "Text": "",
+    "Text": "It's a G Predicahda!\nAlright, let's take it down quickly!",
     "Enabled": false
   },
   "620763": {
     "OriginalText": "Ｇキュクロナーダだ！\nおし、さっさと倒しちまおうぜ！",
-    "Text": "",
+    "Text": "It's a G Kuklonada!\nAlright, let's take it down quickly!",
     "Enabled": false
   },
   "620764": {
     "OriginalText": "Ｇガウォンダだ！\nおし、さっさと倒しちまおうぜ！",
-    "Text": "",
+    "Text": "It's a G Gawonda!\nAlright, let's take it down quickly!",
     "Enabled": false
   },
   "620765": {
     "OriginalText": "Ｇグウォンダだ！\nおし、さっさと倒しちまおうぜ！",
-    "Text": "",
+    "Text": "It's a G Guwonda!\nAlright, let's take it down quickly!",
     "Enabled": false
   },
   "620766": {
     "OriginalText": "んっ、ジャッドバンサーか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that a Judd Bouncer?\nHandle this carefully!",
     "Enabled": false
   },
   "620767": {
     "OriginalText": "んっ、シルブカーネベアか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that a Silb Carnbear?\nHandle this carefully!",
     "Enabled": false
   },
   "620768": {
     "OriginalText": "んっ、レゾルカーネベアか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that a Reso Carnbear?\nHandle this carefully!",
     "Enabled": false
   },
   "620769": {
     "OriginalText": "んっ、アルレイバンサーか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that an Arle Bouncer?\nHandle this carefully!",
     "Enabled": false
   },
   "620770": {
     "OriginalText": "んっ、グルナバンサーか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that a Gruna Bouncer?\nHandle this carefully!",
     "Enabled": false
   },
   "620771": {
     "OriginalText": "んっ、ゾンレイバンサーか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that a Zonray Bouncer?\nHandle this carefully!",
     "Enabled": false
   },
   "620772": {
     "OriginalText": "あれは、テュルトアスだな！\n油断するなよ、全力で撃破に向かえ！！",
-    "Text": "",
+    "Text": "That's a Turtoas!\nDon't let your guard down; go all out and take it down!",
     "Enabled": false
   },
   "620773": {
     "OriginalText": "んっ、コラル・ドラゴンか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that a Coral Dragon?\nHandle this carefully!",
     "Enabled": false
   },
   "620774": {
     "OriginalText": "んっ、オラルカーネベアか！？\nここは慎重に対処してくれ！",
-    "Text": "",
+    "Text": "Hmm, is that an Oral Carnbear?\nHandle this carefully!",
     "Enabled": false
   },
   "620775": {
